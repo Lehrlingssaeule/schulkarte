@@ -130,9 +130,15 @@ async function ladeZwischenspeicher() {
 }
 
 function adressSchluessel(org) {
-  return [org.address, org.address_postal_code, org.address_locality]
+  // Pipedrive liefert im Feld "address" bereits die vollstaendige Adresse,
+  // z.B. "Konstanziagasse 50, Wien, Wien 1220". Postleitzahl und Ort noch
+  // einmal anzuhaengen macht die Suche unbrauchbar.
+  const voll = String(org.address ?? "").replace(/\s+/g, " ").trim();
+  if (voll) return voll;
+
+  return [org.address_postal_code, org.address_locality]
     .filter(Boolean)
-    .join(", ")
+    .join(" ")
     .replace(/\s+/g, " ")
     .trim();
 }
