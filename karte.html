@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unsere Partnerschulen</title>
+
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+
+<style>
+  :root {
+    --gruen:  #2e7d32;
+    --gelb:   #d4a017;
+    --orange: #e07b26;
+    --rot:    #b3261e;
+    --grau:   #8a8f98;
+    --cluster: #4a5568;
+
+    --linie:   #d8dbe0;
+    --text:    #23262b;
+    --gedimmt: #6b7078;
+  }
+
+  html, body { height: 100%; margin: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                 "Helvetica Neue", Arial, sans-serif;
+    color: var(--text);
+  }
+
+  #karte { position: absolute; inset: 0; }
+
+  .panel {
+    position: absolute;
+    top: 14px; left: 14px;
+    z-index: 5;
+    background: #fff;
+    border: 1px solid var(--linie);
+    border-radius: 4px;
+    padding: 14px 16px;
+    max-width: calc(100vw - 28px);
+    box-shadow: 0 1px 4px rgba(0,0,0,.12);
+  }
+
+  .panel h1 { font-size: 14px; font-weight: 600; margin: 0 0 2px; }
+  .zaehler  { font-size: 12px; color: var(--gedimmt); margin: 0; }
+
+  .maplibregl-popup-content {
+    padding: 12px 14px; font-size: 13px; line-height: 1.5;
+    border-radius: 4px;
+  }
+  .maplibregl-popup-content strong { display: block; font-size: 14px; margin-bottom: 4px; }
+  .adresse { color: var(--gedimmt); }
+
+  .meldung { font-size: 13px; line-height: 1.5; color: var(--gedimmt); max-width: 280px; }
+
+  @media (max-width: 560px) { .panel { top: 8px; left: 8px; padding: 11px 13px; } }
+</style>
+</head>
+<body>
+
+<div id="karte"></div>
+
+<div class="panel" id="panel">
+  <h1>Unsere Partnerschulen</h1>
+  <p class="zaehler" id="zaehler">Wird geladen &hellip;</p>
+</div>
+
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+
+<script>
+/* ===========================================================================
+   Diese Datei ist fertig und muss nicht angepasst werden.
+   Sie holt die Schulen aus dem GitHub-Projekt Lehrlingssaeule/schulkarte,
+   das sich alle 30 Minuten selbst aus Pipedrive aktualisiert.
+
+   Kartenhintergrund: OpenFreeMap, Stil "positron".
+   Kostenlos, ohne Anmeldung, ohne Abrufgrenze, auf OpenStreetMap-Daten.
+   Andere Stile: positron, bright, liberty, dark. Einfach unten tauschen.
+   =========================================================================== */
+
+const DATEN_URL =
+  "https://raw.githubusercontent.com/Lehrlingssaeule/schulkarte/main/schulen.json";
+
+const STIL = "https://tiles.openfreemap.org/styles/positron";
+
+const sauber = t => String(t ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;");
+
+const karte = new maplibregl.Map({
+  container: "karte",
+  style: STIL,
+  center: [13.35, 47.6],
+  zoom: 6.2,
+  attributionControl: { compact: true }
+});
+
+karte.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-right");
+
+karte.on("load", async () => {
+  let daten;
+  try {
+    const r = await fetch(DATEN_URL, { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    daten = await r.json();
+  } catch (err) {
+    document.getElementById("panel").innerHTML =
+      '<div class="meldung"><strong>Standorte konnten nicht geladen werden.</strong><br>' + sauber(err.message) + '</div>';
+    return;
+  }
+
+  const schulen = (daten.schulen || [])
+    .filter(s => typeof s.lat === "number" && typeof s.lon === "number");
+
+  karte.addSource("schulen", {
+    type: "geojson",
+    cluster: true,
+    clusterRadius: 45,
+    clusterMaxZoom: 12,
+    data: {
+      type: "FeatureCollection",
+      features: schulen.map(s => ({
+        type: "Feature",
+        geometry: { type: "Point", coordinates: [s.lon, s.lat] },
+        properties: {
+          name: s.name || "",
+          strasse: s.strasse || "",
+          ort: [s.plz, s.ort].filter(Boolean).join(" "),
+          farbe: s.farbe || "gruen"
+        }
+      }))
+    }
+  });
+
+  karte.addLayer({
+    id: "cluster", type: "circle", source: "schulen",
+    filter: ["has", "point_count"],
+    paint: {
+      "circle-color": "#4a5568",
+      "circle-radius": ["step", ["get", "point_count"], 16, 10, 19, 100, 22],
+      "circle-stroke-width": 2,
+      "circle-stroke-color": "#ffffff"
+    }
+  });
+
+  karte.addLayer({
+    id: "cluster-zahl", type: "symbol", source: "schulen",
+    filter: ["has", "point_count"],
+    layout: {
+      "text-field": ["get", "point_count_abbreviated"],
+      "text-font": ["Noto Sans Bold"],
+      "text-size": 12
+    },
+    paint: { "text-color": "#ffffff" }
+  });
+
+  karte.addLayer({
+    id: "schule", type: "circle", source: "schulen",
+    filter: ["!", ["has", "point_count"]],
+    paint: {
+      "circle-color": ["match", ["get", "farbe"],
+        "gruen", "#2e7d32",
+        "orange", "#e07b26",
+        "gelb", "#d4a017",
+        "rot", "#b3261e",
+        "#8a8f98"],
+      "circle-radius": 7,
+      "circle-stroke-width": 2,
+      "circle-stroke-color": "#ffffff"
+    }
+  });
+
+  karte.on("click", "schule", e => {
+    const p = e.features[0].properties;
+    const zeilen = [p.strasse, p.ort].filter(Boolean).map(sauber).join("<br>");
+    new maplibregl.Popup({ offset: 12, closeButton: false })
+      .setLngLat(e.features[0].geometry.coordinates)
+      .setHTML('<strong>' + sauber(p.name) + '</strong>' +
+               (zeilen ? '<div class="adresse">' + zeilen + '</div>' : ''))
+      .addTo(karte);
+  });
+
+  karte.on("click", "cluster", async e => {
+    const id = e.features[0].properties.cluster_id;
+    const zoom = await karte.getSource("schulen").getClusterExpansionZoom(id);
+    karte.easeTo({ center: e.features[0].geometry.coordinates, zoom });
+  });
+
+  for (const ebene of ["schule", "cluster"]) {
+    karte.on("mouseenter", ebene, () => karte.getCanvas().style.cursor = "pointer");
+    karte.on("mouseleave", ebene, () => karte.getCanvas().style.cursor = "");
+  }
+
+  document.getElementById("zaehler").textContent =
+    schulen.length === 0 ? "Noch keine Standorte"
+    : schulen.length === 1 ? "1 Standort"
+    : schulen.length.toLocaleString("de-AT") + " Standorte";
+
+  if (schulen.length) {
+    const b = new maplibregl.LngLatBounds();
+    schulen.forEach(s => b.extend([s.lon, s.lat]));
+    karte.fitBounds(b, { padding: 60, maxZoom: 12, duration: 0 });
+  }
+});
+</script>
+</body>
+</html>
