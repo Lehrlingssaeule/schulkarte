@@ -3,18 +3,20 @@
 
    Wird von GitHub automatisch alle 30 Minuten ausgefuehrt.
    Der Pipedrive-Token steht NICHT in dieser Datei, sondern liegt bei GitHub
-   unter "Secrets". Diese Datei muss deshalb nicht angepasst werden.
+   unter "Secrets".
+
+   Weil in Pipedrive keine Koordinaten hinterlegt sind, ermittelt dieses
+   Skript sie selbst ueber OpenStreetMap und merkt sie sich dauerhaft in
+   koordinaten.json. Jede Adresse wird also nur ein einziges Mal abgefragt.
    =========================================================================== */
 
-import { writeFile } from "node:fs/promises";
+import { writeFile, readFile } from "node:fs/promises";
 
 const TOKEN = process.env.PIPEDRIVE_TOKEN;
 const FIRMA = process.env.PIPEDRIVE_FIRMA;
 
 if (!TOKEN || !FIRMA) {
   console.error("PIPEDRIVE_TOKEN oder PIPEDRIVE_FIRMA fehlt.");
-  console.error("Bitte bei GitHub unter Settings > Secrets and variables >");
-  console.error("Actions als Repository secret anlegen.");
   process.exit(1);
 }
 
@@ -23,25 +25,37 @@ if (!TOKEN || !FIRMA) {
    --------------------------------------------------------------------------- */
 
 // Welche Stages auf der oeffentlichen Karte erscheinen duerfen.
-// Zeichengenau so schreiben wie in Pipedrive.
-const OEFFENTLICHE_STAGES = ["Vertrag-Abschluss"];
+const OEFFENTLICHE_STAGES = [
+  "Rahmenvertrag unterzeichnet",
+  "Säule geliefert",
+];
 
 // Farbe je Stage.
 const FARBEN = {
-  "Vertrag-Abschluss": "gruen",
-  "Interessiert-Kontaktaufnahme": "gelb",
-  "In Bearbeitung": "orange",
-  "Verloren": "rot",
+  "Säule geliefert": "gruen",
+  "Rahmenvertrag unterzeichnet": "gruen",
+  "Vertragsabschluss mit Unternehmen": "gelb",
+  "Unternehmen interessiert": "gelb",
+  "Interessiert": "gelb",
+  "Follow Up Partner": "orange",
+  "Kontaktaufnahme": "orange",
 };
 
 // Name der Pipeline, in der die Schul-Deals liegen.
 const PIPELINE = "Schulpartner";
+
+// Wie viele neue Adressen pro Durchlauf hoechstens nachgeschlagen werden.
+// OpenStreetMap erlaubt eine Abfrage pro Sekunde, deshalb portionsweise.
+const NEUE_ADRESSEN_PRO_LAUF = 250;
 
 /* ---------------------------------------------------------------------------
    Ab hier nichts mehr aendern
    --------------------------------------------------------------------------- */
 
 const BASIS = `https://${FIRMA}.pipedrive.com/api/v1`;
+const KONTAKT = "schulkarte@lehrlingssaeule.at";
+
+const schlaf = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /** Ruft eine Pipedrive-Adresse auf und blaettert durch alle Seiten. */
 async function pipedrive(pfad, extra = {}) {
@@ -72,7 +86,7 @@ async function pipedrive(pfad, extra = {}) {
     if (!seite.more_items_in_collection) break;
     start = seite.next_start;
 
-    await new Promise((r) => setTimeout(r, 200)); // Rate Limit schonen
+    await schlaf(200);
   }
 
   return alles;
@@ -81,30 +95,71 @@ async function pipedrive(pfad, extra = {}) {
 /** Uebersetzungstabelle: lesbarer Feldname -> interner Schluessel. */
 async function feldTabelle() {
   const tabelle = {};
-
   for (const feld of await pipedrive("organizationFields")) {
     const optionen = {};
     for (const o of feld.options ?? []) optionen[String(o.id)] = o.label;
     tabelle[String(feld.name).trim()] = { key: feld.key, optionen };
   }
-
   return tabelle;
 }
 
 function eigenesFeld(org, tabelle, name) {
   const eintrag = tabelle[name];
   if (!eintrag) return null;
-
   const wert = org[eintrag.key];
   if (wert === null || wert === undefined || wert === "") return null;
-
   return eintrag.optionen[String(wert)] ?? String(wert);
 }
+
+/* ---------------------------------------------------------------------------
+   Geokodierung
+   --------------------------------------------------------------------------- */
+
+async function ladeZwischenspeicher() {
+  try {
+    return JSON.parse(await readFile("koordinaten.json", "utf-8"));
+  } catch {
+    return {};
+  }
+}
+
+function adressSchluessel(org) {
+  return [org.address, org.address_postal_code, org.address_locality]
+    .filter(Boolean)
+    .join(", ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/** Fragt OpenStreetMap nach einer Adresse. Gibt null zurueck, wenn nichts passt. */
+async function geokodiere(adresse) {
+  const params = new URLSearchParams({
+    q: adresse,
+    format: "json",
+    limit: "1",
+    countrycodes: "at",
+  });
+
+  const antwort = await fetch(
+    `https://nominatim.openstreetmap.org/search?${params}`,
+    { headers: { "User-Agent": `Lehrlingssaeule-Schulkarte (${KONTAKT})` } }
+  );
+
+  if (!antwort.ok) return null;
+
+  const treffer = await antwort.json();
+  if (!treffer.length) return null;
+
+  return { lat: Number(treffer[0].lat), lon: Number(treffer[0].lon) };
+}
+
+/* ---------------------------------------------------------------------------
+   Hauptteil
+   --------------------------------------------------------------------------- */
 
 async function main() {
   const tabelle = await feldTabelle();
 
-  // Stage-Nummer -> Name und Pipeline
   const pipelines = {};
   for (const p of await pipedrive("pipelines")) pipelines[p.id] = p.name;
 
@@ -113,7 +168,7 @@ async function main() {
     stages[s.id] = { name: s.name, pipeline: pipelines[s.pipeline_id] ?? "" };
   }
 
-  // Pro Organisation den zuletzt geaenderten Schul-Deal merken
+  // Pro Organisation den zuletzt geaenderten Schul-Deal merken.
   const dealJeOrg = {};
   for (const deal of await pipedrive("deals", { status: "all_not_deleted" })) {
     const orgId =
@@ -131,28 +186,75 @@ async function main() {
     }
   }
 
-  const schulen = [];
-  let ohneKoordinaten = 0;
-  let keineSchule = 0;
+  // Nur Schulen einsammeln, die auch wirklich auf die Karte sollen.
+  const kandidaten = [];
+  const stageZaehler = {};
 
   for (const org of await pipedrive("organizations")) {
     const typ = eigenesFeld(org, tabelle, "Kontakttyp");
-    if (typ === null || typ.trim().toLowerCase() !== "schule") {
-      keineSchule++;
-      continue;
-    }
-
-    const lat = org.address_lat;
-    const lon = org.address_long;
-    if (lat === null || lat === undefined || lon === null || lon === undefined) {
-      ohneKoordinaten++;
-      continue;
-    }
+    if (typ === null || typ.trim().toLowerCase() !== "schule") continue;
 
     const stage = dealJeOrg[org.id]?._stage ?? null;
+    if (stage) stageZaehler[stage] = (stageZaehler[stage] ?? 0) + 1;
+
     if (stage === null || !OEFFENTLICHE_STAGES.includes(stage)) continue;
 
-    // Nur diese fuenf Angaben landen in der oeffentlichen Datei.
+    kandidaten.push({ org, stage });
+  }
+
+  console.log("Schulen je Stage:");
+  for (const [s, n] of Object.entries(stageZaehler).sort((a, b) => b[1] - a[1])) {
+    console.log(`  ${String(n).padStart(5)}  ${s}`);
+  }
+  console.log(`Fuer die oeffentliche Karte vorgesehen: ${kandidaten.length}`);
+
+  // Koordinaten: erst aus Pipedrive, dann aus dem Zwischenspeicher,
+  // sonst neu nachschlagen.
+  const cache = await ladeZwischenspeicher();
+  let ausPipedrive = 0, ausCache = 0, neu = 0, ohneAdresse = 0, nichtGefunden = 0;
+  let budget = NEUE_ADRESSEN_PRO_LAUF;
+
+  const schulen = [];
+
+  for (const { org, stage } of kandidaten) {
+    let lat = org.address_lat;
+    let lon = org.address_long;
+
+    if (lat != null && lon != null) {
+      ausPipedrive++;
+    } else {
+      const schluessel = adressSchluessel(org);
+
+      if (!schluessel) {
+        ohneAdresse++;
+        continue;
+      }
+
+      if (cache[schluessel] === null) {
+        nichtGefunden++;
+        continue;
+      }
+
+      if (cache[schluessel]) {
+        ({ lat, lon } = cache[schluessel]);
+        ausCache++;
+      } else if (budget > 0) {
+        budget--;
+        const gefunden = await geokodiere(schluessel);
+        await schlaf(1100);
+
+        cache[schluessel] = gefunden;
+        if (!gefunden) {
+          nichtGefunden++;
+          continue;
+        }
+        ({ lat, lon } = gefunden);
+        neu++;
+      } else {
+        continue;
+      }
+    }
+
     schulen.push({
       name: org.name ?? null,
       plz: org.address_postal_code ?? null,
@@ -165,25 +267,25 @@ async function main() {
 
   schulen.sort((a, b) => String(a.name).localeCompare(String(b.name), "de"));
 
+  await writeFile("koordinaten.json", JSON.stringify(cache, null, 1), "utf-8");
   await writeFile(
     "schulen.json",
     JSON.stringify({ stand: new Date().toISOString(), schulen }, null, 1),
     "utf-8"
   );
 
-  console.log(`${schulen.length} Schulen geschrieben.`);
-  console.log(`Uebersprungen: ${keineSchule} ohne Kontakttyp "Schule", `
-            + `${ohneKoordinaten} ohne Koordinaten.`);
+  console.log("");
+  console.log(`${schulen.length} Schulen auf der Karte.`);
+  console.log(`  aus Pipedrive: ${ausPipedrive}`);
+  console.log(`  aus Zwischenspeicher: ${ausCache}`);
+  console.log(`  neu nachgeschlagen: ${neu}`);
+  console.log(`  ohne Adresse: ${ohneAdresse}`);
+  console.log(`  Adresse nicht gefunden: ${nichtGefunden}`);
 
-  if (schulen.length === 0) {
-    console.warn("");
-    console.warn("ACHTUNG: keine einzige Schule gefunden.");
-    console.warn("Haeufigste Ursache: die Stage-Bezeichnung in");
-    console.warn("OEFFENTLICHE_STAGES stimmt nicht mit Pipedrive ueberein.");
-    console.warn("Vorhandene Stages in der Pipeline " + PIPELINE + ":");
-    for (const s of Object.values(stages)) {
-      if (s.pipeline === PIPELINE) console.warn("  - " + s.name);
-    }
+  const offen = kandidaten.length - schulen.length - ohneAdresse - nichtGefunden;
+  if (offen > 0) {
+    console.log("");
+    console.log(`Noch offen: ${offen}. Kommen in den naechsten Durchlaeufen dran.`);
   }
 }
 
