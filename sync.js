@@ -199,6 +199,7 @@ async function main() {
 
   // Pro Organisation den zuletzt geaenderten Schul-Deal merken.
   const dealJeOrg = {};
+  const rohZaehler = {};
   for (const deal of await pipedrive("deals", { status: "all_not_deleted" })) {
     const orgId =
       typeof deal.org_id === "object" && deal.org_id !== null
@@ -209,6 +210,8 @@ async function main() {
     const stage = stages[deal.stage_id];
     if (!stage || stage.pipeline !== PIPELINE) continue;
 
+    rohZaehler[stage.name] = (rohZaehler[stage.name] ?? 0) + 1;
+
     const bisher = dealJeOrg[orgId];
     if (!bisher || (deal.update_time ?? "") > (bisher.update_time ?? "")) {
       dealJeOrg[orgId] = { ...deal, _stage: stage.name };
@@ -218,8 +221,11 @@ async function main() {
   // Nur Schulen einsammeln, die auch wirklich auf die Karte sollen.
   const kandidaten = [];
   const stageZaehler = {};
+  const orgNachId = {};
 
   for (const org of await pipedrive("organizations")) {
+    orgNachId[org.id] = org;
+
     const typ = eigenesFeld(org, tabelle, "Kontakttyp");
     if (typ === null || typ.trim().toLowerCase() !== "schule") continue;
 
@@ -231,6 +237,25 @@ async function main() {
     kandidaten.push({ org, stage });
   }
 
+  console.log("Deals je Stage (roh, vor Zusammenfassung je Organisation):");
+  for (const [s, n] of Object.entries(rohZaehler).sort((a, b) => b[1] - a[1])) {
+    console.log(`  ${String(n).padStart(5)}  ${s}`);
+  }
+
+  console.log("");
+  console.log("Pruefung der Deals in oeffentlichen Stages:");
+  const oeffDeals = Object.entries(dealJeOrg).filter(([, d]) => OEFFENTLICHE_STAGES.includes(d._stage));
+  console.log(`  Organisationen mit Deal in oeffentlichen Stages: ${oeffDeals.length}`);
+  for (const [orgId, deal] of oeffDeals) {
+    const org = orgNachId[orgId];
+    if (!org) { console.log(`  OHNE ORGANISATION: Deal "${deal.title}"`); continue; }
+    if (!kandidaten.some(k => k.org.id === org.id)) {
+      const typ = eigenesFeld(org, tabelle, "Kontakttyp");
+      console.log(`  AUSGESCHLOSSEN: ${org.name} -- Kontakttyp = "${typ}"`);
+    }
+  }
+
+  console.log("");
   console.log("Schulen je Stage:");
   for (const [s, n] of Object.entries(stageZaehler).sort((a, b) => b[1] - a[1])) {
     console.log(`  ${String(n).padStart(5)}  ${s}`);
