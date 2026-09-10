@@ -1,0 +1,44 @@
+name: Schulen aktualisieren
+
+on:
+  # Alle 30 Minuten. GitHub haelt sich nicht immer exakt daran,
+  # Verspaetungen von einigen Minuten sind normal.
+  schedule:
+    - cron: "*/30 * * * *"
+
+  # Erlaubt das Starten von Hand ueber den Reiter "Actions".
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aktualisieren:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Projekt holen
+        uses: actions/checkout@v4
+
+      - name: Node einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Schulen aus Pipedrive holen
+        env:
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+          PIPEDRIVE_FIRMA: ${{ secrets.PIPEDRIVE_FIRMA }}
+        run: node sync.js
+
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "Schulkarte"
+          git config user.email "actions@github.com"
+          git add schulen.json
+          if git diff --staged --quiet; then
+            echo "Keine Aenderung."
+          else
+            git commit -m "Schulen aktualisiert"
+            git push
+          fi
