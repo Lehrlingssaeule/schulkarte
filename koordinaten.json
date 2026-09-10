@@ -1,1 +1,43 @@
-{}
+{
+ "Liniengasse 21, Wien, Wien 1060": {
+  "lat": 48.1922446,
+  "lon": 16.3444111
+ },
+ "Josef-Enslein-Platz 1-3, Wien, Wien 1100": {
+  "lat": 48.1514342,
+  "lon": 16.371282
+ },
+ "Konstanziagasse 50, Wien, Wien 1220": {
+  "lat": 48.2261945,
+  "lon": 16.4574219
+ },
+ "Anton-Baumgartner-Straße 123, Wien, Wien 1230": {
+  "lat": 48.1498226,
+  "lon": 16.3142336
+ },
+ "Hubert-Danzl-Platz 1, Schwaz, Tirol 6130": {
+  "lat": 47.3496945,
+  "lon": 11.7081398
+ },
+ "Dorf 33, Söll, Tirol 6306": {
+  "lat": 47.5053187,
+  "lon": 12.1948725
+ },
+ "Oberreitweg 26, Zams, Tirol 6511": {
+  "lat": 47.158755,
+  "lon": 10.5834888
+ },
+ "Jakob-Hannibal-Straße 11, Hohenems, Vorarlberg 6845": {
+  "lat": 47.3633285,
+  "lon": 9.6855568
+ },
+ "Rudolf-Hans-Bartsch-Straße 15-17, Graz, Steiermark 8042": {
+  "lat": 47.0561459,
+  "lon": 15.4689486
+ },
+ "Schulgasse 16, Deutschlandsberg, Steiermark 8530": {
+  "lat": 46.8160326,
+  "lon": 15.2128556
+ },
+ "Unterrotte 99, St. Jakob i. D., Tirol 9963": null
+}

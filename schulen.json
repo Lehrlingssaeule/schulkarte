@@ -1,4 +1,85 @@
 {
- "stand": "2026-09-10T15:25:09.011Z",
- "schulen": []
+ "stand": "2026-09-10T15:29:16.511Z",
+ "schulen": [
+  {
+   "name": "BG, BRG, BWRG",
+   "plz": "1230",
+   "ort": "Wien",
+   "lat": 48.1498226,
+   "lon": 16.3142336,
+   "farbe": "orange"
+  },
+  {
+   "name": "Junior High School",
+   "plz": "1220",
+   "ort": "Wien",
+   "lat": 48.2261945,
+   "lon": 16.4574219,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
+   "plz": "1100",
+   "ort": "Wien",
+   "lat": 48.1514342,
+   "lon": 16.371282,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Zams-Schönwies",
+   "plz": "6511",
+   "ort": "Zams",
+   "lat": 47.158755,
+   "lon": 10.5834888,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neue Mittelschule",
+   "plz": "6306",
+   "ort": "Söll",
+   "lat": 47.5053187,
+   "lon": 12.1948725,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neue Mittelschule",
+   "plz": "6845",
+   "ort": "Hohenems",
+   "lat": 47.3633285,
+   "lon": 9.6855568,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neue Mittelschule 1",
+   "plz": "6130",
+   "ort": "Schwaz",
+   "lat": 47.3496945,
+   "lon": 11.7081398,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neue Mittelschule I",
+   "plz": "8530",
+   "ort": "Deutschlandsberg",
+   "lat": 46.8160326,
+   "lon": 15.2128556,
+   "farbe": "orange"
+  },
+  {
+   "name": "Private PTS Schule St. Marien",
+   "plz": "1060",
+   "ort": "Wien",
+   "lat": 48.1922446,
+   "lon": 16.3444111,
+   "farbe": "orange"
+  },
+  {
+   "name": "Privatschule SPS - St. Peter Sportschule der IFF Bildungs GmbH",
+   "plz": "8042",
+   "ort": "Graz",
+   "lat": 47.0561459,
+   "lon": 15.4689486,
+   "farbe": "orange"
+  }
+ ]
 }
