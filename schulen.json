@@ -1,8 +1,9 @@
 {
- "stand": "2026-09-10T15:43:36.633Z",
+ "stand": "2026-09-10T16:11:41.272Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
+   "strasse": "Anton-Baumgartner-Straße 123",
    "plz": "1230",
    "ort": "Wien",
    "lat": 48.1498226,
@@ -11,6 +12,7 @@
   },
   {
    "name": "Junior High School",
+   "strasse": "Konstanziagasse 50",
    "plz": "1220",
    "ort": "Wien",
    "lat": 48.2261945,
@@ -19,6 +21,7 @@
   },
   {
    "name": "Mittelschule",
+   "strasse": "Josef-Enslein-Platz 1-3",
    "plz": "1100",
    "ort": "Wien",
    "lat": 48.1514342,
@@ -27,6 +30,7 @@
   },
   {
    "name": "Mittelschule Zams-Schönwies",
+   "strasse": "Oberreitweg 26",
    "plz": "6511",
    "ort": "Zams",
    "lat": 47.158755,
@@ -35,6 +39,7 @@
   },
   {
    "name": "Neue Mittelschule",
+   "strasse": "Dorf 33",
    "plz": "6306",
    "ort": "Söll",
    "lat": 47.5053187,
@@ -43,6 +48,7 @@
   },
   {
    "name": "Neue Mittelschule",
+   "strasse": "Jakob-Hannibal-Straße 11",
    "plz": "6845",
    "ort": "Hohenems",
    "lat": 47.3633285,
@@ -51,6 +57,7 @@
   },
   {
    "name": "Neue Mittelschule 1",
+   "strasse": "Hubert-Danzl-Platz 1",
    "plz": "6130",
    "ort": "Schwaz",
    "lat": 47.3496945,
@@ -59,6 +66,7 @@
   },
   {
    "name": "Neue Mittelschule I",
+   "strasse": "Schulgasse 16",
    "plz": "8530",
    "ort": "Deutschlandsberg",
    "lat": 46.8160326,
@@ -67,6 +75,7 @@
   },
   {
    "name": "Private PTS Schule St. Marien",
+   "strasse": "Liniengasse 21",
    "plz": "1060",
    "ort": "Wien",
    "lat": 48.1922446,
@@ -75,6 +84,7 @@
   },
   {
    "name": "Privatschule SPS - St. Peter Sportschule der IFF Bildungs GmbH",
+   "strasse": "Rudolf-Hans-Bartsch-Straße 15-17",
    "plz": "8042",
    "ort": "Graz",
    "lat": 47.0561459,
