@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "Schulkarte"
           git config user.email "actions@github.com"
-          git add schulen.json
+          git add schulen.json koordinaten.json
           if git diff --staged --quiet; then
             echo "Keine Aenderung."
           else
