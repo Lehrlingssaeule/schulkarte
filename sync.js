@@ -47,6 +47,12 @@ const FARBEN = {
   "Interessiert": "gelb",
 };
 
+// Auf der oeffentlichen Karte werden ALLE Schulen einheitlich orange
+// dargestellt, egal wie weit der Deal fortgeschritten ist.
+// Wollt ihr wieder nach Stage einfaerben (gruen ab Vertragsabschluss),
+// setzt diese Zeile auf: const OEFFENTLICHE_FARBE = null;
+const OEFFENTLICHE_FARBE = "orange";
+
 // Name der Pipeline, in der die Schul-Deals liegen.
 const PIPELINE = "Schulpartner";
 
@@ -316,7 +322,7 @@ async function main() {
       ort: org.address_locality ?? null,
       lat: Number(lat),
       lon: Number(lon),
-      farbe: FARBEN[stage] ?? "gruen",
+      farbe: OEFFENTLICHE_FARBE ?? FARBEN[stage] ?? "grau",
     });
   }
 
