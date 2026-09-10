@@ -27,18 +27,24 @@ if (!TOKEN || !FIRMA) {
 // Welche Stages auf der oeffentlichen Karte erscheinen duerfen.
 const OEFFENTLICHE_STAGES = [
   "Rahmenvertrag unterzeichnet",
+  "Follow Up Partner",
+  "Unternehmen interessiert",
+  "Vertragsabschluss mit Unternehmen",
   "Säule geliefert",
 ];
 
 // Farbe je Stage.
 const FARBEN = {
+  // gruen = Säule steht bzw. Werbekunde gewonnen
   "Säule geliefert": "gruen",
-  "Rahmenvertrag unterzeichnet": "gruen",
-  "Vertragsabschluss mit Unternehmen": "gelb",
-  "Unternehmen interessiert": "gelb",
-  "Interessiert": "gelb",
+  "Vertragsabschluss mit Unternehmen": "gruen",
+  // orange = Rahmenvertrag steht, Werbekunden werden noch gesucht
+  "Unternehmen interessiert": "orange",
   "Follow Up Partner": "orange",
-  "Kontaktaufnahme": "orange",
+  "Rahmenvertrag unterzeichnet": "orange",
+  // gelb = noch kein Vertrag (nur intern)
+  "Kontaktaufnahme": "gelb",
+  "Interessiert": "gelb",
 };
 
 // Name der Pipeline, in der die Schul-Deals liegen.
