@@ -151,10 +151,16 @@ async function geokodiere(adresse) {
     { headers: { "User-Agent": `Lehrlingssaeule-Schulkarte (${KONTAKT})` } }
   );
 
-  if (!antwort.ok) return null;
+  if (!antwort.ok) {
+    console.log(`  Adressdienst antwortet ${antwort.status} bei: ${adresse}`);
+    return null;
+  }
 
   const treffer = await antwort.json();
-  if (!treffer.length) return null;
+  if (!treffer.length) {
+    console.log(`  kein Treffer fuer: ${adresse}`);
+    return null;
+  }
 
   return { lat: Number(treffer[0].lat), lon: Number(treffer[0].lon) };
 }
