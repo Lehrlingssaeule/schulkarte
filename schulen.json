@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-10T16:46:21.894Z",
+ "stand": "2026-09-10T17:14:13.505Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
@@ -26,6 +26,24 @@
    "ort": "Wien",
    "lat": 48.1514342,
    "lon": 16.371282,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
+   "strasse": "Unterrotte 99",
+   "plz": null,
+   "ort": null,
+   "lat": 46.9154217,
+   "lon": 12.3299335,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Hanreitergasse",
+   "strasse": "Hanreitergasse 2",
+   "plz": "1210",
+   "ort": "Wien",
+   "lat": 48.2831449,
+   "lon": 16.415076,
    "farbe": "orange"
   },
   {
