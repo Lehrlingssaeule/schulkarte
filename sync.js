@@ -143,6 +143,17 @@ function adressSchluessel(org) {
     .trim();
 }
 
+/** Strasse und Hausnummer, ohne PLZ und Ort. */
+function strasseUndNummer(org) {
+  const weg = String(org.address_route ?? "").trim();
+  const nr = String(org.address_street_number ?? "").trim();
+  if (weg) return (weg + " " + nr).trim();
+
+  // Ersatzweise der erste Teil des vollen Adressfelds.
+  const ersterTeil = String(org.address ?? "").split(",")[0].trim();
+  return ersterTeil || null;
+}
+
 /** Fragt OpenStreetMap nach einer Adresse. Gibt null zurueck, wenn nichts passt. */
 async function geokodiere(adresse) {
   const params = new URLSearchParams({
@@ -275,6 +286,7 @@ async function main() {
 
     schulen.push({
       name: org.name ?? null,
+      strasse: strasseUndNummer(org),
       plz: org.address_postal_code ?? null,
       ort: org.address_locality ?? null,
       lat: Number(lat),
