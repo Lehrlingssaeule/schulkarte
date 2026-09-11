@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-11T14:15:53.452Z",
+ "stand": "2026-09-11T14:43:50.785Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
@@ -62,6 +62,15 @@
    "ort": "Zams",
    "lat": 47.158755,
    "lon": 10.5834888,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neue Mittelschule",
+   "strasse": "Schwimmbadweg 1",
+   "plz": "6280",
+   "ort": "Zell am Ziller",
+   "lat": 47.2325101,
+   "lon": 11.8791226,
    "farbe": "orange"
   },
   {
