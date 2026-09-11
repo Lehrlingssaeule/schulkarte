@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-11T11:41:53.529Z",
+ "stand": "2026-09-11T12:19:55.717Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
@@ -8,6 +8,15 @@
    "ort": "Wien",
    "lat": 48.1498226,
    "lon": 16.3142336,
+   "farbe": "orange"
+  },
+  {
+   "name": "Bundesgymnasium (Ettenreichgasse 41-43)",
+   "strasse": "Ettenreichgasse 41-43",
+   "plz": "1100",
+   "ort": "Wien",
+   "lat": 48.1674879,
+   "lon": 16.375773,
    "farbe": "orange"
   },
   {
