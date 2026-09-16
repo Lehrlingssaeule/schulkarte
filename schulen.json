@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-16T13:44:41.100Z",
+ "stand": "2026-09-16T14:16:25.106Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
@@ -143,6 +143,15 @@
    "ort": "Graz",
    "lat": 47.0561459,
    "lon": 15.4689486,
+   "farbe": "orange"
+  },
+  {
+   "name": "PTS/FMS Wien West",
+   "strasse": "Schopenhauerstraße 81",
+   "plz": null,
+   "ort": null,
+   "lat": 48.2264669,
+   "lon": 16.3346365,
    "farbe": "orange"
   }
  ]
