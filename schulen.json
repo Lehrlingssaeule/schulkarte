@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-16T07:16:38.565Z",
+ "stand": "2026-09-16T07:43:25.912Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
@@ -35,6 +35,15 @@
    "ort": "Wien",
    "lat": 48.1514342,
    "lon": 16.371282,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
+   "strasse": "Absberggasse 50",
+   "plz": "1100",
+   "ort": "Wien",
+   "lat": 48.1657374,
+   "lon": 16.3847157,
    "farbe": "orange"
   },
   {

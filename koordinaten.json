@@ -56,5 +56,9 @@
   "lat": 47.2325101,
   "lon": 11.8791226
  },
- "PTS/FMS Wien West, Schopenhauerstraße 81, 1180 Vienna, Austria": null
+ "PTS/FMS Wien West, Schopenhauerstraße 81, 1180 Vienna, Austria": null,
+ "Absberggasse 50, Wien, Wien 1100": {
+  "lat": 48.1657374,
+  "lon": 16.3847157
+ }
 }
