@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-22T08:15:55.102Z",
+ "stand": "2026-09-22T08:43:44.170Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
@@ -53,6 +53,15 @@
    "ort": "Wien",
    "lat": 48.1396034,
    "lon": 16.3977865,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
+   "strasse": "Fabriksgasse 53",
+   "plz": "7022",
+   "ort": "Schattendorf",
+   "lat": 47.7106012,
+   "lon": 16.5142787,
    "farbe": "orange"
   },
   {
