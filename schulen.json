@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-24T09:43:11.215Z",
+ "stand": "2026-09-24T10:15:20.696Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
@@ -62,6 +62,15 @@
    "ort": "Wien",
    "lat": 48.1396034,
    "lon": 16.3977865,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
+   "strasse": "Lindenweg 6",
+   "plz": "6094",
+   "ort": "Axams",
+   "lat": 47.2338082,
+   "lon": 11.2767306,
    "farbe": "orange"
   },
   {
