@@ -1,6 +1,15 @@
 {
- "stand": "2026-09-24T10:15:20.696Z",
+ "stand": "2026-09-24T10:43:03.438Z",
  "schulen": [
+  {
+   "name": "Allgemeine Sonderschule",
+   "strasse": "Raulestraße 8",
+   "plz": "2540",
+   "ort": "Bad Vöslau",
+   "lat": 47.9697965,
+   "lon": 16.2167758,
+   "farbe": "orange"
+  },
   {
    "name": "BG, BRG, BWRG",
    "strasse": "Anton-Baumgartner-Straße 123",
