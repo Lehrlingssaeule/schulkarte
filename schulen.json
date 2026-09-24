@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-24T07:15:53.770Z",
+ "stand": "2026-09-24T07:43:10.032Z",
  "schulen": [
   {
    "name": "BG, BRG, BWRG",
@@ -17,6 +17,15 @@
    "ort": "Wien",
    "lat": 48.1674879,
    "lon": 16.375773,
+   "farbe": "orange"
+  },
+  {
+   "name": "Höhere Bundeslehranstalt für wirtschaftliche Berufe (die Schrödinger)",
+   "strasse": "Schrödingerstraße 5",
+   "plz": "8020",
+   "ort": "Graz",
+   "lat": 47.0791359,
+   "lon": 15.4208852,
    "farbe": "orange"
   },
   {
