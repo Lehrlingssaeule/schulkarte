@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-24T13:16:38.661Z",
+ "stand": "2026-09-24T13:45:05.789Z",
  "schulen": [
   {
    "name": "Allgemeine Sonderschule",
@@ -143,6 +143,15 @@
    "ort": "Söll",
    "lat": 47.5053187,
    "lon": 12.1948725,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neue Mittelschule",
+   "strasse": "Mühlweg 12",
+   "plz": "6401",
+   "ort": "Inzing",
+   "lat": 47.2738743,
+   "lon": 11.1924075,
    "farbe": "orange"
   },
   {
