@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-29T08:18:18.261Z",
+ "stand": "2026-09-29T08:46:26.390Z",
  "schulen": [
   {
    "name": "Allgemeine Sonderschule",
@@ -107,6 +107,15 @@
    "ort": null,
    "lat": 46.9154217,
    "lon": 12.3299335,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule 2",
+   "strasse": "Waidhoferstraße 2",
+   "plz": "4320",
+   "ort": "Perg",
+   "lat": 48.2408785,
+   "lon": 14.6381357,
    "farbe": "orange"
   },
   {
