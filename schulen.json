@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-29T17:14:05.886Z",
+ "stand": "2026-09-29T17:45:08.995Z",
  "schulen": [
   {
    "name": "Allgemeine Sonderschule",
@@ -134,6 +134,15 @@
    "ort": "Zams",
    "lat": 47.158755,
    "lon": 10.5834888,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neue Mittelschule",
+   "strasse": "Goetheplatz 1",
+   "plz": "3435",
+   "ort": "Zwentendorf an der Donau",
+   "lat": 48.3453563,
+   "lon": 15.9114914,
    "farbe": "orange"
   },
   {
