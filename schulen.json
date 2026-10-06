@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-06T08:17:16.472Z",
+ "stand": "2026-10-06T08:47:26.788Z",
  "schulen": [
   {
    "name": "Allgemeine Sonderschule",
@@ -71,6 +71,15 @@
    "ort": "Wien",
    "lat": 48.1657374,
    "lon": 16.3847157,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
+   "strasse": "Leibnizgasse 33",
+   "plz": "1100",
+   "ort": "Wien",
+   "lat": 48.1726954,
+   "lon": 16.3761094,
    "farbe": "orange"
   },
   {
