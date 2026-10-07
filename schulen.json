@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-07T09:48:15.548Z",
+ "stand": "2026-10-07T10:17:01.772Z",
  "schulen": [
   {
    "name": "Allgemeine Sonderschule",
@@ -120,6 +120,15 @@
   },
   {
    "name": "Mittelschule",
+   "strasse": "Eisenstädterstraße 9",
+   "plz": "7350",
+   "ort": "Oberpullendorf",
+   "lat": 47.4977926,
+   "lon": 16.5105897,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
    "strasse": "Unterrotte 99",
    "plz": null,
    "ort": null,
@@ -215,6 +224,15 @@
    "ort": "Deutschlandsberg",
    "lat": 46.8160326,
    "lon": 15.2128556,
+   "farbe": "orange"
+  },
+  {
+   "name": "Polytechnische Schule",
+   "strasse": "Spitalstraße 33",
+   "plz": "7350",
+   "ort": "Oberpullendorf",
+   "lat": 47.5054884,
+   "lon": 16.506816,
    "farbe": "orange"
   },
   {
