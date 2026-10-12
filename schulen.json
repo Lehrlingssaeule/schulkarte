@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-12T02:11:21.978Z",
+ "stand": "2026-10-12T09:37:52.595Z",
  "schulen": [
   {
    "name": "Allgemeine Sonderschule",
@@ -233,6 +233,15 @@
    "ort": "Oberpullendorf",
    "lat": 47.5054884,
    "lon": 16.506816,
+   "farbe": "orange"
+  },
+  {
+   "name": "Polytechnische Schule Urfahr",
+   "strasse": "Hinsenkampplatz 3",
+   "plz": "4040",
+   "ort": "Linz",
+   "lat": 48.3116458,
+   "lon": 14.2831566,
    "farbe": "orange"
   },
   {
