@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-13T09:09:54.533Z",
+ "stand": "2026-10-13T17:04:47.776Z",
  "schulen": [
   {
    "name": "Allgemeine Sonderschule",
@@ -269,6 +269,15 @@
    "ort": null,
    "lat": 48.2264669,
    "lon": 16.3346365,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wiener Mittelschule",
+   "strasse": "Kleine Sperlgasse 2a",
+   "plz": "1020",
+   "ort": "Wien",
+   "lat": 48.2152961,
+   "lon": 16.3776767,
    "farbe": "orange"
   }
  ]
