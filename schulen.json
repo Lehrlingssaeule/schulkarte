@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-14T06:35:41.306Z",
+ "stand": "2026-10-14T12:46:05.526Z",
  "schulen": [
   {
    "name": "Allgemeine Sonderschule",
@@ -62,6 +62,15 @@
    "ort": "Wien",
    "lat": 48.2261945,
    "lon": 16.4574219,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
+   "strasse": "Gassergasse 44",
+   "plz": "1050",
+   "ort": "Wien",
+   "lat": 48.1827912,
+   "lon": 16.3614296,
    "farbe": "orange"
   },
   {
