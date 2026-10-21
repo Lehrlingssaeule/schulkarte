@@ -1,6 +1,15 @@
 {
- "stand": "2026-10-21T13:06:46.875Z",
+ "stand": "2026-10-21T18:11:51.951Z",
  "schulen": [
+  {
+   "name": "Akademisches Gymnasium",
+   "strasse": "Angerzellgasse 14",
+   "plz": "6020",
+   "ort": "Innsbruck",
+   "lat": 47.2680098,
+   "lon": 11.3978221,
+   "farbe": "orange"
+  },
   {
    "name": "Allgemeine Sonderschule",
    "strasse": "Anastasius-Grün-Gasse 10",
