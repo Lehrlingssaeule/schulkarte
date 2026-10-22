@@ -132,5 +132,13 @@
  "Angerzellgasse 14, Innsbruck, Tirol 6020": {
   "lat": 47.2680098,
   "lon": 11.3978221
+ },
+ "Am Kaisermühlendamm 2, Wien, Wien 1220": {
+  "lat": 48.2267517,
+  "lon": 16.4181589
+ },
+ "Zeppelinstraße 44, Linz, Oberösterreich 4020": {
+  "lat": 48.254692,
+  "lon": 14.3147904
  }
 }

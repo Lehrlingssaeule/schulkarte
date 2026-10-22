@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-22T05:53:21.395Z",
+ "stand": "2026-10-22T11:29:35.594Z",
  "schulen": [
   {
    "name": "Akademisches Gymnasium",
@@ -155,6 +155,15 @@
    "farbe": "orange"
   },
   {
+   "name": "Mittelschule 10 (Löwenfeldschule)",
+   "strasse": "Zeppelinstraße 44",
+   "plz": "4020",
+   "ort": "Linz",
+   "lat": 48.254692,
+   "lon": 14.3147904,
+   "farbe": "orange"
+  },
+  {
    "name": "Mittelschule 2",
    "strasse": "Waidhoferstraße 2",
    "plz": "4320",
@@ -287,6 +296,15 @@
    "ort": null,
    "lat": 48.2264669,
    "lon": 16.3346365,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sportmittelschule",
+   "strasse": "Am Kaisermühlendamm 2",
+   "plz": "1220",
+   "ort": "Wien",
+   "lat": 48.2267517,
+   "lon": 16.4181589,
    "farbe": "orange"
   },
   {
