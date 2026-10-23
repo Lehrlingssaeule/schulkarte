@@ -140,5 +140,13 @@
  "Zeppelinstraße 44, Linz, Oberösterreich 4020": {
   "lat": 48.254692,
   "lon": 14.3147904
+ },
+ "Singrienergasse 19, Wien, Wien 1120": {
+  "lat": 48.1783158,
+  "lon": 16.3253738
+ },
+ "Felberstraße 3, Mittersill, Salzburg 5730": {
+  "lat": 47.2814838,
+  "lon": 12.4846523
  }
 }
