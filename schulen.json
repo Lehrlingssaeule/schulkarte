@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-05T00:13:50.641Z",
+ "stand": "2026-11-05T07:13:02.414Z",
  "schulen": [
   {
    "name": "Akademisches Gymnasium",
@@ -80,6 +80,15 @@
    "ort": "Wien",
    "lat": 48.2261945,
    "lon": 16.4574219,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mafalda feministische Jugendarbeit",
+   "strasse": "Belgiergasse 3",
+   "plz": "8020",
+   "ort": "Graz",
+   "lat": 47.0694891,
+   "lon": 15.4337307,
    "farbe": "orange"
   },
   {

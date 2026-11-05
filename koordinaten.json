@@ -148,5 +148,9 @@
  "Felberstraße 3, Mittersill, Salzburg 5730": {
   "lat": 47.2814838,
   "lon": 12.4846523
+ },
+ "Belgiergasse 3, Graz, Austria": {
+  "lat": 47.0694891,
+  "lon": 15.4337307
  }
 }
