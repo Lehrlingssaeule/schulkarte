@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T02:06:30.050Z",
+ "stand": "2026-11-06T09:43:23.966Z",
  "schulen": [
   {
    "name": "Akademisches Gymnasium",
@@ -197,6 +197,15 @@
    "ort": "Wien",
    "lat": 48.2831449,
    "lon": 16.415076,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule mit angeschlossene Fachmittelschule",
+   "strasse": "Roda-Roda-Gasse 3",
+   "plz": "1210",
+   "ort": "Wien",
+   "lat": 48.2908821,
+   "lon": 16.3830577,
    "farbe": "orange"
   },
   {
