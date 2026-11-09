@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-09T09:27:42.935Z",
+ "stand": "2026-11-09T19:58:59.455Z",
  "schulen": [
   {
    "name": "Akademisches Gymnasium",
@@ -206,6 +206,15 @@
    "ort": "Wien",
    "lat": 48.2908821,
    "lon": 16.3830577,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Reichenau",
+   "strasse": "Burghard-Breitner-Straße 22",
+   "plz": "6020",
+   "ort": "Innsbruck",
+   "lat": 47.2731553,
+   "lon": 11.4255177,
    "farbe": "orange"
   },
   {
