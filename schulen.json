@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T21:34:50.500Z",
+ "stand": "2026-11-16T21:48:00.020Z",
  "schulen": [
   {
    "name": "Akademisches Gymnasium",
@@ -278,6 +278,15 @@
    "ort": "Hohenems",
    "lat": 47.3633285,
    "lon": 9.6855568,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neue Mittelschule",
+   "strasse": "Rotkreuzstraße 10",
+   "plz": "6890",
+   "ort": "Lustenau",
+   "lat": 47.4373823,
+   "lon": 9.6630413,
    "farbe": "orange"
   },
   {

@@ -161,5 +161,9 @@
   "lat": 47.2731553,
   "lon": 11.4255177
  },
- "Rotkreuzstraße 10, Lustenau-Rheindorf, Vorarlberg 6890": null
+ "Rotkreuzstraße 10, Lustenau-Rheindorf, Vorarlberg 6890": null,
+ "Rotkreuzstraße 10, 6890 Lustenau, Vorarlberg, Austria": {
+  "lat": 47.4373823,
+  "lon": 9.6630413
+ }
 }
