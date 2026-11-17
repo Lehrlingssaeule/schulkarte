@@ -326,6 +326,29 @@ async function main() {
     });
   }
 
+  // Azubisäule-Schulen (Deutschland) aus der festen Liste azubisaeule.json
+  // dazunehmen. Nur Name und Koordinaten, keine Adresse.
+  try {
+    const az = JSON.parse(await readFile("azubisaeule.json", "utf-8"));
+    let dazu = 0;
+    for (const s of az.schulen ?? []) {
+      if (typeof s.lat !== "number" || typeof s.lon !== "number") continue;
+      schulen.push({
+        name: s.name ?? null,
+        strasse: null,
+        plz: null,
+        ort: null,
+        lat: s.lat,
+        lon: s.lon,
+        farbe: OEFFENTLICHE_FARBE ?? "orange",
+      });
+      dazu++;
+    }
+    console.log(`Azubisäule-Schulen dazugenommen: ${dazu}`);
+  } catch (e) {
+    console.log("azubisaeule.json nicht gelesen: " + e.message);
+  }
+
   schulen.sort((a, b) => String(a.name).localeCompare(String(b.name), "de"));
 
   await writeFile("koordinaten.json", JSON.stringify(cache, null, 1), "utf-8");
