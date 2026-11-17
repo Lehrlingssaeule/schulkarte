@@ -1,13 +1,13 @@
 {
- "stand": "2026-11-17T11:16:24.423Z",
+ "stand": "2026-11-17T19:41:31.412Z",
  "schulen": [
   {
    "name": "Aartalschule Aarbergen",
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.226844,
-   "lon": 8.055739,
+   "lat": 50.22684,
+   "lon": 8.05574,
    "farbe": "orange"
   },
   {
@@ -15,8 +15,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.408606,
-   "lon": 9.954965,
+   "lat": 48.40861,
+   "lon": 9.95497,
    "farbe": "orange"
   },
   {
@@ -25,7 +25,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.78759,
-   "lon": 9.827505,
+   "lon": 9.8275,
    "farbe": "orange"
   },
   {
@@ -33,8 +33,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.234156,
-   "lon": 7.626741,
+   "lat": 51.23416,
+   "lon": 7.62674,
    "farbe": "orange"
   },
   {
@@ -42,8 +42,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.812204,
-   "lon": 7.629972,
+   "lat": 47.81184,
+   "lon": 7.63004,
    "farbe": "orange"
   },
   {
@@ -60,8 +60,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.679884,
-   "lon": 9.026141,
+   "lat": 48.67988,
+   "lon": 9.02614,
    "farbe": "orange"
   },
   {
@@ -69,8 +69,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.833077,
-   "lon": 9.265999,
+   "lat": 48.83308,
+   "lon": 9.266,
    "farbe": "orange"
   },
   {
@@ -78,8 +78,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.982261,
-   "lon": 8.443255,
+   "lat": 49.98226,
+   "lon": 8.44326,
    "farbe": "orange"
   },
   {
@@ -87,8 +87,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.593107,
-   "lon": 8.659018,
+   "lat": 50.59311,
+   "lon": 8.65902,
    "farbe": "orange"
   },
   {
@@ -96,8 +96,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.641486,
-   "lon": 9.404437,
+   "lat": 50.63964,
+   "lon": 9.39885,
    "farbe": "orange"
   },
   {
@@ -105,8 +105,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.897725,
-   "lon": 8.831348,
+   "lat": 49.89773,
+   "lon": 8.83135,
    "farbe": "orange"
   },
   {
@@ -114,8 +114,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.645757,
-   "lon": 9.448313,
+   "lat": 48.64576,
+   "lon": 9.44831,
    "farbe": "orange"
   },
   {
@@ -123,8 +123,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.894333,
-   "lon": 10.100357,
+   "lat": 48.89433,
+   "lon": 10.10036,
    "farbe": "orange"
   },
   {
@@ -168,8 +168,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.810927,
-   "lon": 9.207811,
+   "lat": 48.81093,
+   "lon": 9.20781,
    "farbe": "orange"
   },
   {
@@ -177,8 +177,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.401445,
-   "lon": 7.157558,
+   "lat": 49.40145,
+   "lon": 7.15756,
    "farbe": "orange"
   },
   {
@@ -186,8 +186,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.659509,
-   "lon": 7.744935,
+   "lat": 51.65951,
+   "lon": 7.74494,
    "farbe": "orange"
   },
   {
@@ -195,7 +195,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.200375,
+   "lat": 49.20037,
    "lon": 9.50922,
    "farbe": "orange"
   },
@@ -204,8 +204,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.383241,
-   "lon": 7.757513,
+   "lat": 48.38324,
+   "lon": 7.75751,
    "farbe": "orange"
   },
   {
@@ -214,7 +214,7 @@
    "plz": null,
    "ort": null,
    "lat": 47.6852,
-   "lon": 9.150856,
+   "lon": 9.15086,
    "farbe": "orange"
   },
   {
@@ -222,8 +222,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 54.305199,
-   "lon": 9.599776,
+   "lat": 54.3052,
+   "lon": 9.59978,
    "farbe": "orange"
   },
   {
@@ -231,8 +231,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.296729,
-   "lon": 8.682041,
+   "lat": 49.29673,
+   "lon": 8.68204,
    "farbe": "orange"
   },
   {
@@ -240,7 +240,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.386096,
+   "lat": 50.3861,
    "lon": 8.06527,
    "farbe": "orange"
   },
@@ -249,8 +249,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.866417,
-   "lon": 9.729793,
+   "lat": 50.86642,
+   "lon": 9.72979,
    "farbe": "orange"
   },
   {
@@ -258,8 +258,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.185225,
-   "lon": 10.032361,
+   "lat": 51.18522,
+   "lon": 10.03236,
    "farbe": "orange"
   },
   {
@@ -267,8 +267,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.288437,
-   "lon": 8.580096,
+   "lat": 48.28844,
+   "lon": 8.5801,
    "farbe": "orange"
   },
   {
@@ -276,8 +276,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.362141,
-   "lon": 8.627335,
+   "lat": 48.36214,
+   "lon": 8.62733,
    "farbe": "orange"
   },
   {
@@ -285,8 +285,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.784754,
-   "lon": 7.476235,
+   "lat": 49.787,
+   "lon": 7.492,
    "farbe": "orange"
   },
   {
@@ -294,8 +294,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.582179,
-   "lon": 7.305645,
+   "lat": 51.58218,
+   "lon": 7.30565,
    "farbe": "orange"
   },
   {
@@ -303,8 +303,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.919551,
-   "lon": 6.360513,
+   "lat": 50.91955,
+   "lon": 6.36051,
    "farbe": "orange"
   },
   {
@@ -312,8 +312,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.085816,
-   "lon": 7.009917,
+   "lat": 52.08582,
+   "lon": 7.00992,
    "farbe": "orange"
   },
   {
@@ -321,8 +321,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.863133,
-   "lon": 6.106993,
+   "lat": 50.86313,
+   "lon": 6.10699,
    "farbe": "orange"
   },
   {
@@ -330,8 +330,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.602088,
-   "lon": 6.294771,
+   "lat": 50.60209,
+   "lon": 6.29477,
    "farbe": "orange"
   },
   {
@@ -339,8 +339,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.774883,
-   "lon": 6.232368,
+   "lat": 50.77488,
+   "lon": 6.23237,
    "farbe": "orange"
   },
   {
@@ -348,8 +348,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.251481,
-   "lon": 6.349986,
+   "lat": 51.25148,
+   "lon": 6.34999,
    "farbe": "orange"
   },
   {
@@ -358,7 +358,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.1348,
-   "lon": 6.947323,
+   "lon": 6.94732,
    "farbe": "orange"
   },
   {
@@ -366,8 +366,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.326706,
-   "lon": 12.104623,
+   "lat": 49.32671,
+   "lon": 12.10462,
    "farbe": "orange"
   },
   {
@@ -384,8 +384,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.100015,
-   "lon": 8.859315,
+   "lat": 49.10002,
+   "lon": 8.85931,
    "farbe": "orange"
   },
   {
@@ -393,8 +393,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.948262,
-   "lon": 10.022875,
+   "lat": 50.94826,
+   "lon": 10.02287,
    "farbe": "orange"
   },
   {
@@ -402,8 +402,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.662948,
-   "lon": 9.440731,
+   "lat": 47.66295,
+   "lon": 9.44073,
    "farbe": "orange"
   },
   {
@@ -411,8 +411,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.183712,
-   "lon": 10.068297,
+   "lat": 51.18371,
+   "lon": 10.0683,
    "farbe": "orange"
   },
   {
@@ -429,8 +429,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.405384,
-   "lon": 11.731325,
+   "lat": 48.40538,
+   "lon": 11.73132,
    "farbe": "orange"
   },
   {
@@ -438,8 +438,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.596542,
-   "lon": 8.651942,
+   "lat": 49.59654,
+   "lon": 8.65194,
    "farbe": "orange"
   },
   {
@@ -447,8 +447,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.322676,
-   "lon": 12.116518,
+   "lat": 49.32268,
+   "lon": 12.11652,
    "farbe": "orange"
   },
   {
@@ -456,8 +456,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.870202,
-   "lon": 8.334741,
+   "lat": 49.8702,
+   "lon": 8.33474,
    "farbe": "orange"
   },
   {
@@ -465,8 +465,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.326627,
-   "lon": 12.384476,
+   "lat": 51.32663,
+   "lon": 12.38448,
    "farbe": "orange"
   },
   {
@@ -474,8 +474,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.316507,
-   "lon": 11.929265,
+   "lat": 50.31651,
+   "lon": 11.92927,
    "farbe": "orange"
   },
   {
@@ -483,8 +483,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.639044,
-   "lon": 7.257662,
+   "lat": 51.63904,
+   "lon": 7.25766,
    "farbe": "orange"
   },
   {
@@ -492,8 +492,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.727086,
-   "lon": 7.101386,
+   "lat": 50.72709,
+   "lon": 7.10139,
    "farbe": "orange"
   },
   {
@@ -501,7 +501,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.652601,
+   "lat": 51.6526,
    "lon": 6.11852,
    "farbe": "orange"
   },
@@ -510,8 +510,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.582752,
-   "lon": 13.194417,
+   "lat": 48.58275,
+   "lon": 13.19442,
    "farbe": "orange"
   },
   {
@@ -519,8 +519,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.778612,
-   "lon": 9.504168,
+   "lat": 49.77861,
+   "lon": 9.50417,
    "farbe": "orange"
   },
   {
@@ -528,8 +528,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.692313,
-   "lon": 8.314325,
+   "lat": 50.69231,
+   "lon": 8.31432,
    "farbe": "orange"
   },
   {
@@ -537,8 +537,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.503405,
-   "lon": 7.962268,
+   "lat": 51.5034,
+   "lon": 7.96227,
    "farbe": "orange"
   },
   {
@@ -546,8 +546,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.371691,
-   "lon": 12.344017,
+   "lat": 51.37169,
+   "lon": 12.34402,
    "farbe": "orange"
   },
   {
@@ -555,8 +555,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.250672,
-   "lon": 10.964679,
+   "lat": 50.25067,
+   "lon": 10.96468,
    "farbe": "orange"
   },
   {
@@ -564,8 +564,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.908452,
-   "lon": 10.905776,
+   "lat": 49.90773,
+   "lon": 10.90561,
    "farbe": "orange"
   },
   {
@@ -573,8 +573,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.119202,
-   "lon": 11.539728,
+   "lat": 48.1192,
+   "lon": 11.53973,
    "farbe": "orange"
   },
   {
@@ -582,8 +582,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.051893,
-   "lon": 10.861695,
+   "lat": 48.05189,
+   "lon": 10.8617,
    "farbe": "orange"
   },
   {
@@ -591,8 +591,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.163087,
-   "lon": 12.134692,
+   "lat": 50.16309,
+   "lon": 12.13469,
    "farbe": "orange"
   },
   {
@@ -600,8 +600,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.708067,
-   "lon": 10.263506,
+   "lat": 49.70807,
+   "lon": 10.26351,
    "farbe": "orange"
   },
   {
@@ -609,8 +609,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.095119,
-   "lon": 10.797009,
+   "lat": 50.09512,
+   "lon": 10.79701,
    "farbe": "orange"
   },
   {
@@ -618,8 +618,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.490336,
-   "lon": 10.969046,
+   "lat": 49.49034,
+   "lon": 10.96905,
    "farbe": "orange"
   },
   {
@@ -627,8 +627,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.452527,
-   "lon": 13.199574,
+   "lat": 48.45253,
+   "lon": 13.19957,
    "farbe": "orange"
   },
   {
@@ -636,8 +636,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.408218,
-   "lon": 9.394356,
+   "lat": 49.40822,
+   "lon": 9.39436,
    "farbe": "orange"
   },
   {
@@ -645,8 +645,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.162247,
-   "lon": 11.727889,
+   "lat": 49.16152,
+   "lon": 11.72787,
    "farbe": "orange"
   },
   {
@@ -654,8 +654,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.468835,
-   "lon": 8.419629,
+   "lat": 48.46884,
+   "lon": 8.41963,
    "farbe": "orange"
   },
   {
@@ -663,8 +663,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.694036,
-   "lon": 10.363365,
+   "lat": 48.69404,
+   "lon": 10.36337,
    "farbe": "orange"
   },
   {
@@ -672,8 +672,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.143864,
-   "lon": 9.110247,
+   "lat": 49.14386,
+   "lon": 9.11025,
    "farbe": "orange"
   },
   {
@@ -681,8 +681,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.804609,
-   "lon": 9.236983,
+   "lat": 48.80461,
+   "lon": 9.23698,
    "farbe": "orange"
   },
   {
@@ -690,8 +690,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.922262,
-   "lon": 8.998848,
+   "lat": 49.92226,
+   "lon": 8.99885,
    "farbe": "orange"
   },
   {
@@ -699,8 +699,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.761757,
-   "lon": 8.836637,
+   "lat": 47.76176,
+   "lon": 8.83664,
    "farbe": "orange"
   },
   {
@@ -708,8 +708,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.145415,
-   "lon": 9.179932,
+   "lat": 49.14541,
+   "lon": 9.17993,
    "farbe": "orange"
   },
   {
@@ -717,8 +717,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.892228,
-   "lon": 9.192532,
+   "lat": 48.89223,
+   "lon": 9.19253,
    "farbe": "orange"
   },
   {
@@ -726,8 +726,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.726811,
-   "lon": 13.610235,
+   "lat": 48.72681,
+   "lon": 13.61023,
    "farbe": "orange"
   },
   {
@@ -735,7 +735,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.450873,
+   "lat": 51.45087,
    "lon": 7.24526,
    "farbe": "orange"
   },
@@ -744,8 +744,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.161776,
-   "lon": 8.618089,
+   "lat": 48.16178,
+   "lon": 8.61809,
    "farbe": "orange"
   },
   {
@@ -753,8 +753,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.451603,
-   "lon": 7.089826,
+   "lat": 51.4516,
+   "lon": 7.08983,
    "farbe": "orange"
   },
   {
@@ -762,8 +762,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.662202,
-   "lon": 7.136132,
+   "lat": 51.6622,
+   "lon": 7.13613,
    "farbe": "orange"
   },
   {
@@ -771,8 +771,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.184707,
-   "lon": 14.020079,
+   "lat": 51.18471,
+   "lon": 14.02008,
    "farbe": "orange"
   },
   {
@@ -780,8 +780,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.934571,
-   "lon": 7.009901,
+   "lat": 50.93457,
+   "lon": 7.0099,
    "farbe": "orange"
   },
   {
@@ -789,8 +789,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.496358,
-   "lon": 11.103229,
+   "lat": 47.49636,
+   "lon": 11.10323,
    "farbe": "orange"
   },
   {
@@ -798,8 +798,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.909023,
-   "lon": 7.884661,
+   "lat": 50.90902,
+   "lon": 7.88466,
    "farbe": "orange"
   },
   {
@@ -807,7 +807,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.438299,
+   "lat": 53.4383,
    "lon": 11.1809,
    "farbe": "orange"
   },
@@ -816,7 +816,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.490055,
+   "lat": 51.49005,
    "lon": 6.53034,
    "farbe": "orange"
   },
@@ -825,8 +825,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.196897,
-   "lon": 7.964022,
+   "lat": 49.1969,
+   "lon": 7.96402,
    "farbe": "orange"
   },
   {
@@ -834,8 +834,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.899546,
-   "lon": 8.019446,
+   "lat": 50.89955,
+   "lon": 8.01945,
    "farbe": "orange"
   },
   {
@@ -843,8 +843,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.593554,
-   "lon": 12.592173,
+   "lat": 51.59626,
+   "lon": 12.59739,
    "farbe": "orange"
   },
   {
@@ -852,8 +852,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.934754,
-   "lon": 8.957089,
+   "lat": 48.93475,
+   "lon": 8.95709,
    "farbe": "orange"
   },
   {
@@ -862,7 +862,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.35598,
-   "lon": 7.469436,
+   "lon": 7.46944,
    "farbe": "orange"
   },
   {
@@ -870,8 +870,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.320236,
-   "lon": 11.915586,
+   "lat": 50.32024,
+   "lon": 11.91559,
    "farbe": "orange"
   },
   {
@@ -879,8 +879,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.263103,
-   "lon": 11.469308,
+   "lat": 49.2631,
+   "lon": 11.46931,
    "farbe": "orange"
   },
   {
@@ -888,8 +888,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.088264,
-   "lon": 8.983886,
+   "lat": 50.08826,
+   "lon": 8.98389,
    "farbe": "orange"
   },
   {
@@ -906,8 +906,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.264351,
-   "lon": 7.048839,
+   "lat": 51.26435,
+   "lon": 7.04884,
    "farbe": "orange"
   },
   {
@@ -915,8 +915,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.183267,
-   "lon": 6.862495,
+   "lat": 51.18327,
+   "lon": 6.86249,
    "farbe": "orange"
   },
   {
@@ -924,8 +924,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.154711,
-   "lon": 14.992893,
+   "lat": 51.15471,
+   "lon": 14.99289,
    "farbe": "orange"
   },
   {
@@ -934,7 +934,7 @@
    "plz": null,
    "ort": null,
    "lat": 50.37912,
-   "lon": 11.778488,
+   "lon": 11.77849,
    "farbe": "orange"
   },
   {
@@ -942,7 +942,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.324926,
+   "lat": 50.32493,
    "lon": 8.16958,
    "farbe": "orange"
   },
@@ -951,8 +951,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.610838,
-   "lon": 7.515829,
+   "lat": 51.61084,
+   "lon": 7.51583,
    "farbe": "orange"
   },
   {
@@ -960,8 +960,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.208869,
-   "lon": 6.788144,
+   "lat": 51.20887,
+   "lon": 6.78814,
    "farbe": "orange"
   },
   {
@@ -969,8 +969,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.308101,
-   "lon": 6.589434,
+   "lat": 51.3081,
+   "lon": 6.58943,
    "farbe": "orange"
   },
   {
@@ -978,8 +978,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.704695,
-   "lon": 9.653203,
+   "lat": 48.7047,
+   "lon": 9.6532,
    "farbe": "orange"
   },
   {
@@ -987,8 +987,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.983903,
-   "lon": 8.803418,
+   "lat": 51.9839,
+   "lon": 8.80342,
    "farbe": "orange"
   },
   {
@@ -996,8 +996,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.700033,
-   "lon": 9.717978,
+   "lat": 48.70003,
+   "lon": 9.71798,
    "farbe": "orange"
   },
   {
@@ -1006,7 +1006,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.46228,
-   "lon": 12.630716,
+   "lon": 12.63072,
    "farbe": "orange"
   },
   {
@@ -1014,8 +1014,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.935912,
-   "lon": 8.955827,
+   "lat": 48.93591,
+   "lon": 8.95583,
    "farbe": "orange"
   },
   {
@@ -1023,8 +1023,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.573528,
-   "lon": 10.612497,
+   "lat": 49.57353,
+   "lon": 10.6125,
    "farbe": "orange"
   },
   {
@@ -1032,8 +1032,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.465718,
-   "lon": 9.965571,
+   "lat": 53.46572,
+   "lon": 9.96557,
    "farbe": "orange"
   },
   {
@@ -1041,7 +1041,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.606832,
+   "lat": 50.60683,
    "lon": 8.70475,
    "farbe": "orange"
   },
@@ -1050,8 +1050,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.296406,
-   "lon": 9.142928,
+   "lat": 49.29641,
+   "lon": 9.14293,
    "farbe": "orange"
   },
   {
@@ -1059,8 +1059,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.093545,
-   "lon": 10.802455,
+   "lat": 50.09355,
+   "lon": 10.80245,
    "farbe": "orange"
   },
   {
@@ -1068,8 +1068,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.935124,
-   "lon": 9.262617,
+   "lat": 48.93512,
+   "lon": 9.26262,
    "farbe": "orange"
   },
   {
@@ -1077,7 +1077,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.227117,
+   "lat": 48.22712,
    "lon": 9.88041,
    "farbe": "orange"
   },
@@ -1086,8 +1086,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.594552,
-   "lon": 8.132507,
+   "lat": 47.59455,
+   "lon": 8.13251,
    "farbe": "orange"
   },
   {
@@ -1095,8 +1095,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.098649,
-   "lon": 8.701928,
+   "lat": 48.09865,
+   "lon": 8.70193,
    "farbe": "orange"
   },
   {
@@ -1104,8 +1104,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.685905,
-   "lon": 10.158316,
+   "lat": 48.68591,
+   "lon": 10.15832,
    "farbe": "orange"
   },
   {
@@ -1113,8 +1113,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 54.661883,
-   "lon": 9.924363,
+   "lat": 54.66225,
+   "lon": 9.924,
    "farbe": "orange"
   },
   {
@@ -1122,8 +1122,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.453001,
-   "lon": 8.690713,
+   "lat": 48.453,
+   "lon": 8.69071,
    "farbe": "orange"
   },
   {
@@ -1140,8 +1140,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.664222,
-   "lon": 7.996907,
+   "lat": 47.66422,
+   "lon": 7.99691,
    "farbe": "orange"
   },
   {
@@ -1149,8 +1149,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.912686,
-   "lon": 8.498263,
+   "lat": 48.91255,
+   "lon": 8.49768,
    "farbe": "orange"
   },
   {
@@ -1158,8 +1158,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.844273,
-   "lon": 9.356095,
+   "lat": 48.84427,
+   "lon": 9.35609,
    "farbe": "orange"
   },
   {
@@ -1167,8 +1167,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.017906,
-   "lon": 8.924176,
+   "lat": 48.01791,
+   "lon": 8.92418,
    "farbe": "orange"
   },
   {
@@ -1176,8 +1176,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.570908,
-   "lon": 8.431063,
+   "lat": 47.57091,
+   "lon": 8.43106,
    "farbe": "orange"
   },
   {
@@ -1185,8 +1185,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.376378,
-   "lon": 9.734644,
+   "lat": 48.37638,
+   "lon": 9.73464,
    "farbe": "orange"
   },
   {
@@ -1195,7 +1195,7 @@
    "plz": null,
    "ort": null,
    "lat": 49.28603,
-   "lon": 7.166317,
+   "lon": 7.16632,
    "farbe": "orange"
   },
   {
@@ -1203,8 +1203,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.720235,
-   "lon": 8.841522,
+   "lat": 49.72024,
+   "lon": 8.84152,
    "farbe": "orange"
   },
   {
@@ -1212,8 +1212,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.300758,
-   "lon": 9.647408,
+   "lat": 49.30076,
+   "lon": 9.64741,
    "farbe": "orange"
   },
   {
@@ -1221,8 +1221,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.863212,
-   "lon": 12.739026,
+   "lat": 50.86321,
+   "lon": 12.73903,
    "farbe": "orange"
   },
   {
@@ -1230,8 +1230,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.078674,
-   "lon": 8.220575,
+   "lat": 50.07867,
+   "lon": 8.22058,
    "farbe": "orange"
   },
   {
@@ -1239,8 +1239,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.014181,
-   "lon": 8.632519,
+   "lat": 51.01418,
+   "lon": 8.63252,
    "farbe": "orange"
   },
   {
@@ -1248,8 +1248,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.591095,
-   "lon": 6.659403,
+   "lat": 50.5911,
+   "lon": 6.6594,
    "farbe": "orange"
   },
   {
@@ -1257,8 +1257,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.432625,
-   "lon": 6.78751,
+   "lat": 51.43018,
+   "lon": 6.79061,
    "farbe": "orange"
   },
   {
@@ -1266,8 +1266,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.741479,
-   "lon": 8.841264,
+   "lat": 50.74148,
+   "lon": 8.84126,
    "farbe": "orange"
   },
   {
@@ -1275,8 +1275,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.340109,
-   "lon": 7.489774,
+   "lat": 51.34011,
+   "lon": 7.48977,
    "farbe": "orange"
   },
   {
@@ -1284,7 +1284,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.835976,
+   "lat": 51.83598,
    "lon": 6.23876,
    "farbe": "orange"
   },
@@ -1293,8 +1293,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.876848,
-   "lon": 9.694751,
+   "lat": 50.87685,
+   "lon": 9.69475,
    "farbe": "orange"
   },
   {
@@ -1302,8 +1302,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.526415,
-   "lon": 6.330026,
+   "lat": 51.52642,
+   "lon": 6.33003,
    "farbe": "orange"
   },
   {
@@ -1311,8 +1311,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.055964,
-   "lon": 6.150415,
+   "lat": 51.05596,
+   "lon": 6.15041,
    "farbe": "orange"
   },
   {
@@ -1321,7 +1321,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.96438,
-   "lon": 7.619891,
+   "lon": 7.61989,
    "farbe": "orange"
   },
   {
@@ -1329,8 +1329,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.739185,
-   "lon": 8.683586,
+   "lat": 51.73919,
+   "lon": 8.68359,
    "farbe": "orange"
   },
   {
@@ -1338,8 +1338,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.822745,
-   "lon": 9.843613,
+   "lat": 50.82275,
+   "lon": 9.84361,
    "farbe": "orange"
   },
   {
@@ -1347,8 +1347,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.715082,
-   "lon": 6.920888,
+   "lat": 50.71508,
+   "lon": 6.92089,
    "farbe": "orange"
   },
   {
@@ -1356,8 +1356,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.269288,
-   "lon": 8.229346,
+   "lat": 50.26929,
+   "lon": 8.22935,
    "farbe": "orange"
   },
   {
@@ -1375,7 +1375,7 @@
    "plz": null,
    "ort": null,
    "lat": 50.7736,
-   "lon": 7.515417,
+   "lon": 7.51542,
    "farbe": "orange"
   },
   {
@@ -1383,8 +1383,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.215809,
-   "lon": 8.361915,
+   "lat": 49.21581,
+   "lon": 8.36192,
    "farbe": "orange"
   },
   {
@@ -1392,7 +1392,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.480665,
+   "lat": 49.48066,
    "lon": 11.2521,
    "farbe": "orange"
   },
@@ -1401,8 +1401,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.872393,
-   "lon": 9.402398,
+   "lat": 48.87239,
+   "lon": 9.4024,
    "farbe": "orange"
   },
   {
@@ -1410,8 +1410,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.382909,
-   "lon": 9.633323,
+   "lat": 49.38143,
+   "lon": 9.63384,
    "farbe": "orange"
   },
   {
@@ -1420,7 +1420,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.72499,
-   "lon": 8.792394,
+   "lon": 8.79239,
    "farbe": "orange"
   },
   {
@@ -1428,8 +1428,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.504332,
-   "lon": 10.125861,
+   "lat": 48.50433,
+   "lon": 10.12586,
    "farbe": "orange"
   },
   {
@@ -1437,8 +1437,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.827606,
-   "lon": 7.941484,
+   "lat": 47.82761,
+   "lon": 7.94148,
    "farbe": "orange"
   },
   {
@@ -1446,8 +1446,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.496796,
-   "lon": 9.515406,
+   "lat": 48.4968,
+   "lon": 9.51541,
    "farbe": "orange"
   },
   {
@@ -1455,8 +1455,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.619546,
-   "lon": 9.051305,
+   "lat": 48.61955,
+   "lon": 9.05131,
    "farbe": "orange"
   },
   {
@@ -1464,8 +1464,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.342747,
-   "lon": 10.209089,
+   "lat": 53.34275,
+   "lon": 10.20909,
    "farbe": "orange"
   },
   {
@@ -1474,7 +1474,7 @@
    "plz": null,
    "ort": null,
    "lat": 49.38699,
-   "lon": 8.665395,
+   "lon": 8.66539,
    "farbe": "orange"
   },
   {
@@ -1482,8 +1482,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.506141,
-   "lon": 11.436921,
+   "lat": 49.50614,
+   "lon": 11.43692,
    "farbe": "orange"
   },
   {
@@ -1492,7 +1492,7 @@
    "plz": null,
    "ort": null,
    "lat": 47.50414,
-   "lon": 10.366506,
+   "lon": 10.36651,
    "farbe": "orange"
   },
   {
@@ -1500,8 +1500,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.345007,
-   "lon": 10.779148,
+   "lat": 50.34501,
+   "lon": 10.77915,
    "farbe": "orange"
   },
   {
@@ -1509,8 +1509,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.157181,
-   "lon": 11.941537,
+   "lat": 50.15718,
+   "lon": 11.94154,
    "farbe": "orange"
   },
   {
@@ -1518,8 +1518,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.219896,
-   "lon": 6.655187,
+   "lat": 50.2199,
+   "lon": 6.65519,
    "farbe": "orange"
   },
   {
@@ -1527,8 +1527,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.202858,
-   "lon": 8.588688,
+   "lat": 48.20286,
+   "lon": 8.58869,
    "farbe": "orange"
   },
   {
@@ -1536,8 +1536,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.169738,
-   "lon": 8.595873,
+   "lat": 48.16974,
+   "lon": 8.59587,
    "farbe": "orange"
   },
   {
@@ -1546,7 +1546,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.78004,
-   "lon": 9.208352,
+   "lon": 9.20835,
    "farbe": "orange"
   },
   {
@@ -1554,8 +1554,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.257994,
-   "lon": 7.183125,
+   "lat": 51.25799,
+   "lon": 7.18313,
    "farbe": "orange"
   },
   {
@@ -1564,7 +1564,7 @@
    "plz": null,
    "ort": null,
    "lat": 52.01866,
-   "lon": 8.528995,
+   "lon": 8.529,
    "farbe": "orange"
   },
   {
@@ -1572,8 +1572,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.154447,
-   "lon": 7.343358,
+   "lat": 52.15445,
+   "lon": 7.34336,
    "farbe": "orange"
   },
   {
@@ -1581,8 +1581,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.946172,
-   "lon": 11.583338,
+   "lat": 49.94654,
+   "lon": 11.58478,
    "farbe": "orange"
   },
   {
@@ -1590,8 +1590,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.866892,
-   "lon": 8.941582,
+   "lat": 51.86689,
+   "lon": 8.94158,
    "farbe": "orange"
   },
   {
@@ -1599,8 +1599,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.196632,
-   "lon": 11.793234,
+   "lat": 50.19663,
+   "lon": 11.79323,
    "farbe": "orange"
   },
   {
@@ -1608,8 +1608,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.962901,
-   "lon": 6.838793,
+   "lat": 50.9629,
+   "lon": 6.83879,
    "farbe": "orange"
   },
   {
@@ -1617,8 +1617,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.985999,
-   "lon": 12.207741,
+   "lat": 48.986,
+   "lon": 12.20774,
    "farbe": "orange"
   },
   {
@@ -1626,8 +1626,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.669339,
-   "lon": 10.466626,
+   "lat": 49.66934,
+   "lon": 10.46663,
    "farbe": "orange"
   },
   {
@@ -1635,8 +1635,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.675939,
-   "lon": 8.997135,
+   "lat": 51.67594,
+   "lon": 8.99714,
    "farbe": "orange"
   },
   {
@@ -1644,8 +1644,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.976262,
-   "lon": 8.084017,
+   "lat": 50.97626,
+   "lon": 8.08402,
    "farbe": "orange"
   },
   {
@@ -1653,8 +1653,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.134588,
-   "lon": 8.150865,
+   "lat": 50.13459,
+   "lon": 8.15086,
    "farbe": "orange"
   },
   {
@@ -1662,8 +1662,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.797642,
-   "lon": 10.346147,
+   "lat": 49.79764,
+   "lon": 10.34615,
    "farbe": "orange"
   },
   {
@@ -1671,8 +1671,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.124212,
-   "lon": 8.594043,
+   "lat": 49.12421,
+   "lon": 8.59404,
    "farbe": "orange"
   },
   {
@@ -1680,8 +1680,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.468695,
-   "lon": 7.230832,
+   "lat": 51.4687,
+   "lon": 7.23083,
    "farbe": "orange"
   },
   {
@@ -1689,8 +1689,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.521453,
-   "lon": 9.045908,
+   "lat": 48.52122,
+   "lon": 9.04612,
    "farbe": "orange"
   },
   {
@@ -1698,8 +1698,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.463001,
-   "lon": 11.086206,
+   "lat": 49.463,
+   "lon": 11.08621,
    "farbe": "orange"
   },
   {
@@ -1707,8 +1707,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.566555,
-   "lon": 8.062155,
+   "lat": 47.56656,
+   "lon": 8.06216,
    "farbe": "orange"
   },
   {
@@ -1716,8 +1716,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.997682,
-   "lon": 7.836258,
+   "lat": 47.99768,
+   "lon": 7.83626,
    "farbe": "orange"
   },
   {
@@ -1725,8 +1725,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.266435,
-   "lon": 10.961631,
+   "lat": 50.26643,
+   "lon": 10.96163,
    "farbe": "orange"
   },
   {
@@ -1734,7 +1734,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.806694,
+   "lat": 50.80669,
    "lon": 6.50374,
    "farbe": "orange"
   },
@@ -1743,8 +1743,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.188537,
-   "lon": 8.914751,
+   "lat": 50.18854,
+   "lon": 8.91475,
    "farbe": "orange"
   },
   {
@@ -1752,8 +1752,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.997284,
-   "lon": 8.862482,
+   "lat": 49.99728,
+   "lon": 8.86248,
    "farbe": "orange"
   },
   {
@@ -1761,8 +1761,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.450037,
-   "lon": 9.411934,
+   "lat": 51.45004,
+   "lon": 9.41193,
    "farbe": "orange"
   },
   {
@@ -1770,8 +1770,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.426707,
-   "lon": 7.761442,
+   "lat": 49.42671,
+   "lon": 7.76144,
    "farbe": "orange"
   },
   {
@@ -1779,8 +1779,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.248578,
-   "lon": 7.366464,
+   "lat": 49.24858,
+   "lon": 7.36646,
    "farbe": "orange"
   },
   {
@@ -1788,8 +1788,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.332911,
-   "lon": 12.329112,
+   "lat": 51.33291,
+   "lon": 12.32911,
    "farbe": "orange"
   },
   {
@@ -1797,8 +1797,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.073223,
-   "lon": 8.858011,
+   "lat": 50.07322,
+   "lon": 8.85801,
    "farbe": "orange"
   },
   {
@@ -1806,8 +1806,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.295279,
-   "lon": 11.899469,
+   "lat": 48.29528,
+   "lon": 11.89947,
    "farbe": "orange"
   },
   {
@@ -1815,8 +1815,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.325933,
-   "lon": 11.891326,
+   "lat": 50.32593,
+   "lon": 11.89133,
    "farbe": "orange"
   },
   {
@@ -1834,7 +1834,7 @@
    "plz": null,
    "ort": null,
    "lat": 49.07206,
-   "lon": 9.141649,
+   "lon": 9.14165,
    "farbe": "orange"
   },
   {
@@ -1842,8 +1842,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.876366,
-   "lon": 7.607963,
+   "lat": 50.87637,
+   "lon": 7.60796,
    "farbe": "orange"
   },
   {
@@ -1852,7 +1852,7 @@
    "plz": null,
    "ort": null,
    "lat": 49.28609,
-   "lon": 9.163139,
+   "lon": 9.16314,
    "farbe": "orange"
   },
   {
@@ -1860,8 +1860,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.034184,
-   "lon": 7.591573,
+   "lat": 48.03418,
+   "lon": 7.59157,
    "farbe": "orange"
   },
   {
@@ -1869,8 +1869,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.529703,
-   "lon": 8.379642,
+   "lat": 49.5297,
+   "lon": 8.37964,
    "farbe": "orange"
   },
   {
@@ -1878,8 +1878,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.485446,
-   "lon": 8.366469,
+   "lat": 49.48545,
+   "lon": 8.36647,
    "farbe": "orange"
   },
   {
@@ -1887,8 +1887,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.439035,
-   "lon": 8.351969,
+   "lat": 49.43904,
+   "lon": 8.35197,
    "farbe": "orange"
   },
   {
@@ -1896,8 +1896,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.150762,
-   "lon": 8.156918,
+   "lat": 50.15076,
+   "lon": 8.15692,
    "farbe": "orange"
   },
   {
@@ -1906,7 +1906,7 @@
    "plz": null,
    "ort": null,
    "lat": 50.10497,
-   "lon": 8.555101,
+   "lon": 8.5551,
    "farbe": "orange"
   },
   {
@@ -1914,8 +1914,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.012136,
-   "lon": 8.294246,
+   "lat": 50.01144,
+   "lon": 8.2944,
    "farbe": "orange"
   },
   {
@@ -1923,8 +1923,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.900801,
-   "lon": 7.641498,
+   "lat": 51.9008,
+   "lon": 7.6415,
    "farbe": "orange"
   },
   {
@@ -1932,8 +1932,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.001147,
-   "lon": 9.716359,
+   "lat": 51.00115,
+   "lon": 9.71636,
    "farbe": "orange"
   },
   {
@@ -1941,8 +1941,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.526874,
-   "lon": 6.936477,
+   "lat": 51.52687,
+   "lon": 6.93648,
    "farbe": "orange"
   },
   {
@@ -1950,8 +1950,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.200568,
-   "lon": 6.685061,
+   "lat": 51.20057,
+   "lon": 6.68506,
    "farbe": "orange"
   },
   {
@@ -1959,8 +1959,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.306771,
-   "lon": 11.897802,
+   "lat": 50.30677,
+   "lon": 11.8978,
    "farbe": "orange"
   },
   {
@@ -1968,7 +1968,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.745472,
+   "lat": 47.74547,
    "lon": 8.85302,
    "farbe": "orange"
   },
@@ -1977,8 +1977,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.852986,
-   "lon": 12.132519,
+   "lat": 47.85299,
+   "lon": 12.13252,
    "farbe": "orange"
   },
   {
@@ -1986,8 +1986,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.314286,
-   "lon": 10.558405,
+   "lat": 49.31429,
+   "lon": 10.55841,
    "farbe": "orange"
   },
   {
@@ -1995,8 +1995,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.052125,
-   "lon": 10.861535,
+   "lat": 48.05189,
+   "lon": 10.8617,
    "farbe": "orange"
   },
   {
@@ -2004,8 +2004,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.667221,
-   "lon": 9.377436,
+   "lat": 48.66722,
+   "lon": 9.37744,
    "farbe": "orange"
   },
   {
@@ -2013,8 +2013,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.492955,
-   "lon": 8.465914,
+   "lat": 49.49336,
+   "lon": 8.46631,
    "farbe": "orange"
   },
   {
@@ -2022,8 +2022,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.472428,
-   "lon": 8.944128,
+   "lat": 48.47186,
+   "lon": 8.94613,
    "farbe": "orange"
   },
   {
@@ -2031,8 +2031,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.035058,
-   "lon": 7.590322,
+   "lat": 48.03506,
+   "lon": 7.59032,
    "farbe": "orange"
   },
   {
@@ -2040,8 +2040,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.815106,
-   "lon": 12.382322,
+   "lat": 50.81511,
+   "lon": 12.38232,
    "farbe": "orange"
   },
   {
@@ -2058,8 +2058,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.702958,
-   "lon": 9.632992,
+   "lat": 48.70296,
+   "lon": 9.63299,
    "farbe": "orange"
   },
   {
@@ -2068,7 +2068,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.51771,
-   "lon": 7.471433,
+   "lon": 7.47143,
    "farbe": "orange"
   },
   {
@@ -2076,8 +2076,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.070058,
-   "lon": 8.993561,
+   "lat": 49.07006,
+   "lon": 8.99356,
    "farbe": "orange"
   },
   {
@@ -2085,8 +2085,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.555733,
-   "lon": 13.004305,
+   "lat": 51.55573,
+   "lon": 13.00431,
    "farbe": "orange"
   },
   {
@@ -2094,8 +2094,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.176447,
-   "lon": 7.511403,
+   "lat": 52.17645,
+   "lon": 7.5114,
    "farbe": "orange"
   },
   {
@@ -2103,8 +2103,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.510134,
-   "lon": 7.472954,
+   "lat": 51.51013,
+   "lon": 7.47295,
    "farbe": "orange"
   },
   {
@@ -2112,8 +2112,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.815163,
-   "lon": 12.384463,
+   "lat": 50.81516,
+   "lon": 12.38446,
    "farbe": "orange"
   },
   {
@@ -2121,8 +2121,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.797516,
-   "lon": 9.179026,
+   "lat": 48.79752,
+   "lon": 9.17903,
    "farbe": "orange"
   },
   {
@@ -2130,8 +2130,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.053086,
-   "lon": 8.456459,
+   "lat": 48.05309,
+   "lon": 8.45646,
    "farbe": "orange"
   },
   {
@@ -2148,8 +2148,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.115946,
-   "lon": 8.689094,
+   "lat": 52.11595,
+   "lon": 8.68909,
    "farbe": "orange"
   },
   {
@@ -2157,8 +2157,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.194385,
-   "lon": 12.521999,
+   "lat": 49.19438,
+   "lon": 12.522,
    "farbe": "orange"
   },
   {
@@ -2166,7 +2166,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.565779,
+   "lat": 50.56578,
    "lon": 9.70188,
    "farbe": "orange"
   },
@@ -2175,8 +2175,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.763417,
-   "lon": 8.319713,
+   "lat": 51.76342,
+   "lon": 8.31971,
    "farbe": "orange"
   },
   {
@@ -2184,8 +2184,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.003485,
-   "lon": 8.781558,
+   "lat": 48.00348,
+   "lon": 8.78156,
    "farbe": "orange"
   },
   {
@@ -2194,7 +2194,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.11977,
-   "lon": 6.952955,
+   "lon": 6.95295,
    "farbe": "orange"
   },
   {
@@ -2202,8 +2202,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.471716,
-   "lon": 8.656932,
+   "lat": 49.47172,
+   "lon": 8.65693,
    "farbe": "orange"
   },
   {
@@ -2211,8 +2211,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.321629,
-   "lon": 6.555439,
+   "lat": 51.32163,
+   "lon": 6.55544,
    "farbe": "orange"
   },
   {
@@ -2220,8 +2220,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.226046,
-   "lon": 11.004804,
+   "lat": 52.22605,
+   "lon": 11.0048,
    "farbe": "orange"
   },
   {
@@ -2229,8 +2229,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.897759,
-   "lon": 8.833522,
+   "lat": 49.89776,
+   "lon": 8.83352,
    "farbe": "orange"
   },
   {
@@ -2238,8 +2238,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.820932,
-   "lon": 12.545779,
+   "lat": 50.82093,
+   "lon": 12.54578,
    "farbe": "orange"
   },
   {
@@ -2247,8 +2247,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.389124,
-   "lon": 11.342395,
+   "lat": 49.38912,
+   "lon": 11.34239,
    "farbe": "orange"
   },
   {
@@ -2256,8 +2256,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.295705,
-   "lon": 7.680337,
+   "lat": 51.2957,
+   "lon": 7.68034,
    "farbe": "orange"
   },
   {
@@ -2265,8 +2265,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.499482,
-   "lon": 9.544132,
+   "lat": 49.49948,
+   "lon": 9.54413,
    "farbe": "orange"
   },
   {
@@ -2274,8 +2274,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.397204,
-   "lon": 12.216967,
+   "lat": 51.3972,
+   "lon": 12.21697,
    "farbe": "orange"
   },
   {
@@ -2283,8 +2283,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.213297,
-   "lon": 8.274123,
+   "lat": 50.2133,
+   "lon": 8.27412,
    "farbe": "orange"
   },
   {
@@ -2292,8 +2292,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.777567,
-   "lon": 9.249388,
+   "lat": 48.77716,
+   "lon": 9.24835,
    "farbe": "orange"
   },
   {
@@ -2301,8 +2301,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.586448,
-   "lon": 8.679007,
+   "lat": 48.58677,
+   "lon": 8.67856,
    "farbe": "orange"
   },
   {
@@ -2310,8 +2310,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.273371,
-   "lon": 8.861373,
+   "lat": 51.27337,
+   "lon": 8.86137,
    "farbe": "orange"
   },
   {
@@ -2320,7 +2320,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.38217,
-   "lon": 10.883266,
+   "lon": 10.88327,
    "farbe": "orange"
   },
   {
@@ -2328,8 +2328,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.981641,
-   "lon": 8.807527,
+   "lat": 47.98164,
+   "lon": 8.80753,
    "farbe": "orange"
   },
   {
@@ -2337,8 +2337,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.324268,
-   "lon": 12.114819,
+   "lat": 49.32427,
+   "lon": 12.11482,
    "farbe": "orange"
   },
   {
@@ -2355,8 +2355,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.093017,
-   "lon": 9.795902,
+   "lat": 48.09302,
+   "lon": 9.7959,
    "farbe": "orange"
   },
   {
@@ -2364,8 +2364,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.249044,
-   "lon": 8.519942,
+   "lat": 49.2464,
+   "lon": 8.52031,
    "farbe": "orange"
   },
   {
@@ -2373,8 +2373,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.452599,
-   "lon": 11.090051,
+   "lat": 49.4526,
+   "lon": 11.09005,
    "farbe": "orange"
   },
   {
@@ -2382,8 +2382,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.452599,
-   "lon": 11.090051,
+   "lat": 49.4526,
+   "lon": 11.09005,
    "farbe": "orange"
   },
   {
@@ -2391,8 +2391,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.970035,
-   "lon": 9.152356,
+   "lat": 49.97004,
+   "lon": 9.15236,
    "farbe": "orange"
   },
   {
@@ -2400,8 +2400,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.116652,
-   "lon": 7.856881,
+   "lat": 48.11665,
+   "lon": 7.85688,
    "farbe": "orange"
   },
   {
@@ -2409,8 +2409,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.885098,
-   "lon": 8.660112,
+   "lat": 49.8851,
+   "lon": 8.66011,
    "farbe": "orange"
   },
   {
@@ -2418,7 +2418,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.608896,
+   "lat": 51.6089,
    "lon": 7.0885,
    "farbe": "orange"
   },
@@ -2427,8 +2427,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.910594,
-   "lon": 7.697354,
+   "lat": 47.91059,
+   "lon": 7.69735,
    "farbe": "orange"
   },
   {
@@ -2437,7 +2437,7 @@
    "plz": null,
    "ort": null,
    "lat": 49.4425,
-   "lon": 11.851924,
+   "lon": 11.85192,
    "farbe": "orange"
   },
   {
@@ -2446,7 +2446,7 @@
    "plz": null,
    "ort": null,
    "lat": 47.9994,
-   "lon": 7.831354,
+   "lon": 7.83135,
    "farbe": "orange"
   },
   {
@@ -2454,8 +2454,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.866417,
-   "lon": 9.729793,
+   "lat": 50.86642,
+   "lon": 9.72979,
    "farbe": "orange"
   },
   {
@@ -2463,7 +2463,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.073392,
+   "lat": 48.07339,
    "lon": 10.12891,
    "farbe": "orange"
   },
@@ -2472,8 +2472,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.317577,
-   "lon": 6.485591,
+   "lat": 51.31688,
+   "lon": 6.48595,
    "farbe": "orange"
   },
   {
@@ -2481,8 +2481,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.195629,
-   "lon": 8.802568,
+   "lat": 51.19563,
+   "lon": 8.80257,
    "farbe": "orange"
   },
   {
@@ -2599,7 +2599,7 @@
    "plz": null,
    "ort": null,
    "lat": 49.38358,
-   "lon": 11.345764,
+   "lon": 11.34576,
    "farbe": "orange"
   },
   {
@@ -2607,8 +2607,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.336352,
-   "lon": 11.115709,
+   "lat": 50.33635,
+   "lon": 11.11571,
    "farbe": "orange"
   },
   {
@@ -2616,8 +2616,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.727439,
-   "lon": 10.328399,
+   "lat": 47.72744,
+   "lon": 10.3284,
    "farbe": "orange"
   },
   {
@@ -2626,7 +2626,7 @@
    "plz": null,
    "ort": null,
    "lat": 47.7261,
-   "lon": 10.306106,
+   "lon": 10.30611,
    "farbe": "orange"
   },
   {
@@ -2634,8 +2634,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.351633,
-   "lon": 11.311764,
+   "lat": 49.35163,
+   "lon": 11.31176,
    "farbe": "orange"
   },
   {
@@ -2653,7 +2653,7 @@
    "plz": null,
    "ort": null,
    "lat": 49.37863,
-   "lon": 11.205638,
+   "lon": 11.20564,
    "farbe": "orange"
   },
   {
@@ -2661,7 +2661,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.844245,
+   "lat": 47.84425,
    "lon": 12.98386,
    "farbe": "orange"
   },
@@ -2670,8 +2670,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.170073,
-   "lon": 11.232542,
+   "lat": 48.17007,
+   "lon": 11.23254,
    "farbe": "orange"
   },
   {
@@ -2679,8 +2679,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.402607,
-   "lon": 11.085893,
+   "lat": 49.40261,
+   "lon": 11.08589,
    "farbe": "orange"
   },
   {
@@ -2697,8 +2697,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.776204,
-   "lon": 13.053371,
+   "lat": 48.7762,
+   "lon": 13.05337,
    "farbe": "orange"
   },
   {
@@ -2706,8 +2706,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.516879,
-   "lon": 11.273416,
+   "lat": 49.51688,
+   "lon": 11.27342,
    "farbe": "orange"
   },
   {
@@ -2715,8 +2715,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.481741,
-   "lon": 10.79706,
+   "lat": 49.48892,
+   "lon": 10.79654,
    "farbe": "orange"
   },
   {
@@ -2724,8 +2724,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.503097,
-   "lon": 11.281787,
+   "lat": 49.5031,
+   "lon": 11.28179,
    "farbe": "orange"
   },
   {
@@ -2733,8 +2733,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.125227,
-   "lon": 11.433975,
+   "lat": 48.12523,
+   "lon": 11.43397,
    "farbe": "orange"
   },
   {
@@ -2760,8 +2760,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.555362,
-   "lon": 11.329772,
+   "lat": 49.55536,
+   "lon": 11.32977,
    "farbe": "orange"
   },
   {
@@ -2769,8 +2769,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.189232,
-   "lon": 10.845058,
+   "lat": 50.18923,
+   "lon": 10.84506,
    "farbe": "orange"
   },
   {
@@ -2778,8 +2778,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.401576,
-   "lon": 11.166336,
+   "lat": 48.40158,
+   "lon": 11.16634,
    "farbe": "orange"
   },
   {
@@ -2787,8 +2787,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.478587,
-   "lon": 10.955267,
+   "lat": 49.47859,
+   "lon": 10.95527,
    "farbe": "orange"
   },
   {
@@ -2796,7 +2796,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.354675,
+   "lat": 49.35468,
    "lon": 11.14796,
    "farbe": "orange"
   },
@@ -2805,8 +2805,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.795343,
-   "lon": 10.35012,
+   "lat": 49.79508,
+   "lon": 10.35431,
    "farbe": "orange"
   },
   {
@@ -2823,8 +2823,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.866417,
-   "lon": 9.729793,
+   "lat": 50.86642,
+   "lon": 9.72979,
    "farbe": "orange"
   },
   {
@@ -2832,8 +2832,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.840824,
-   "lon": 7.833738,
+   "lat": 51.84082,
+   "lon": 7.83374,
    "farbe": "orange"
   },
   {
@@ -2841,8 +2841,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.890105,
-   "lon": 10.883782,
+   "lat": 49.89011,
+   "lon": 10.88378,
    "farbe": "orange"
   },
   {
@@ -2850,8 +2850,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.245738,
-   "lon": 10.206706,
+   "lat": 50.24574,
+   "lon": 10.20671,
    "farbe": "orange"
   },
   {
@@ -2859,8 +2859,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.625653,
-   "lon": 9.339582,
+   "lat": 48.62565,
+   "lon": 9.33958,
    "farbe": "orange"
   },
   {
@@ -2868,8 +2868,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.811622,
-   "lon": 9.861657,
+   "lat": 48.81162,
+   "lon": 9.86166,
    "farbe": "orange"
   },
   {
@@ -2877,8 +2877,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.401445,
-   "lon": 7.157558,
+   "lat": 49.40145,
+   "lon": 7.15756,
    "farbe": "orange"
   },
   {
@@ -2886,8 +2886,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.301139,
-   "lon": 11.913612,
+   "lat": 50.30114,
+   "lon": 11.91361,
    "farbe": "orange"
   },
   {
@@ -2895,8 +2895,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.99675,
-   "lon": 8.406905,
+   "lat": 48.99698,
+   "lon": 8.40759,
    "farbe": "orange"
   },
   {
@@ -2904,8 +2904,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.631922,
-   "lon": 9.332965,
+   "lat": 48.63192,
+   "lon": 9.33296,
    "farbe": "orange"
   },
   {
@@ -2913,8 +2913,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.798649,
-   "lon": 9.180569,
+   "lat": 48.79865,
+   "lon": 9.18057,
    "farbe": "orange"
   },
   {
@@ -2922,8 +2922,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.089438,
-   "lon": 7.622674,
+   "lat": 52.08944,
+   "lon": 7.62267,
    "farbe": "orange"
   },
   {
@@ -3012,7 +3012,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.374858,
+   "lat": 49.37486,
    "lon": 8.53508,
    "farbe": "orange"
   },
@@ -3021,8 +3021,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.883882,
-   "lon": 11.692925,
+   "lat": 47.88388,
+   "lon": 11.69293,
    "farbe": "orange"
   },
   {
@@ -3030,8 +3030,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.096226,
-   "lon": 14.305894,
+   "lat": 51.09623,
+   "lon": 14.30589,
    "farbe": "orange"
   },
   {
@@ -3039,8 +3039,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.277232,
-   "lon": 14.106044,
+   "lat": 51.27723,
+   "lon": 14.10604,
    "farbe": "orange"
   },
   {
@@ -3048,8 +3048,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.573811,
-   "lon": 13.068793,
+   "lat": 51.57381,
+   "lon": 13.06879,
    "farbe": "orange"
   },
   {
@@ -3057,8 +3057,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.342112,
-   "lon": 12.413799,
+   "lat": 51.34211,
+   "lon": 12.4138,
    "farbe": "orange"
   },
   {
@@ -3075,8 +3075,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.299836,
-   "lon": 13.821826,
+   "lat": 53.29984,
+   "lon": 13.82183,
    "farbe": "orange"
   },
   {
@@ -3084,8 +3084,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.566104,
-   "lon": 12.963889,
+   "lat": 51.5661,
+   "lon": 12.96389,
    "farbe": "orange"
   },
   {
@@ -3093,8 +3093,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.142349,
-   "lon": 14.028262,
+   "lat": 51.14235,
+   "lon": 14.02826,
    "farbe": "orange"
   },
   {
@@ -3111,8 +3111,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.331391,
-   "lon": 13.894334,
+   "lat": 53.33139,
+   "lon": 13.89433,
    "farbe": "orange"
   },
   {
@@ -3120,7 +3120,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.006239,
+   "lat": 53.00624,
    "lon": 7.95994,
    "farbe": "orange"
   },
@@ -3129,8 +3129,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.282389,
-   "lon": 11.453214,
+   "lat": 49.28239,
+   "lon": 11.45321,
    "farbe": "orange"
   },
   {
@@ -3138,8 +3138,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.893139,
-   "lon": 8.687633,
+   "lat": 48.89347,
+   "lon": 8.68751,
    "farbe": "orange"
   },
   {
@@ -3147,8 +3147,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.940781,
-   "lon": 7.168475,
+   "lat": 51.94078,
+   "lon": 7.16847,
    "farbe": "orange"
   },
   {
@@ -3156,8 +3156,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.080609,
-   "lon": 8.750971,
+   "lat": 50.08061,
+   "lon": 8.75097,
    "farbe": "orange"
   },
   {
@@ -3165,8 +3165,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.868294,
-   "lon": 9.422564,
+   "lat": 47.86829,
+   "lon": 9.42256,
    "farbe": "orange"
   },
   {
@@ -3174,8 +3174,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.864725,
-   "lon": 7.088298,
+   "lat": 50.86473,
+   "lon": 7.0883,
    "farbe": "orange"
   },
   {
@@ -3183,8 +3183,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.365163,
-   "lon": 10.849297,
+   "lat": 48.36516,
+   "lon": 10.8493,
    "farbe": "orange"
   },
   {
@@ -3192,8 +3192,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.383258,
-   "lon": 12.321596,
+   "lat": 51.38326,
+   "lon": 12.3216,
    "farbe": "orange"
   },
   {
@@ -3201,8 +3201,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.427617,
-   "lon": 10.971257,
+   "lat": 49.42762,
+   "lon": 10.97126,
    "farbe": "orange"
   },
   {
@@ -3210,8 +3210,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.477281,
-   "lon": 7.150238,
+   "lat": 51.47728,
+   "lon": 7.15024,
    "farbe": "orange"
   },
   {
@@ -3219,8 +3219,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.201281,
-   "lon": 9.187383,
+   "lat": 50.20128,
+   "lon": 9.18738,
    "farbe": "orange"
   },
   {
@@ -3246,8 +3246,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.617539,
-   "lon": 14.602326,
+   "lat": 51.61754,
+   "lon": 14.60233,
    "farbe": "orange"
   },
   {
@@ -3255,8 +3255,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.953928,
-   "lon": 11.581122,
+   "lat": 49.95393,
+   "lon": 11.58112,
    "farbe": "orange"
   },
   {
@@ -3273,8 +3273,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.018236,
-   "lon": 12.099028,
+   "lat": 49.01824,
+   "lon": 12.09903,
    "farbe": "orange"
   },
   {
@@ -3282,7 +3282,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.499204,
+   "lat": 51.4992,
    "lon": 7.5232,
    "farbe": "orange"
   },
@@ -3309,8 +3309,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.599108,
-   "lon": 10.977844,
+   "lat": 49.59911,
+   "lon": 10.97784,
    "farbe": "orange"
   },
   {
@@ -3318,8 +3318,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.020662,
-   "lon": 12.086082,
+   "lat": 49.02066,
+   "lon": 12.08608,
    "farbe": "orange"
   },
   {
@@ -3327,8 +3327,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.875259,
-   "lon": 8.027773,
+   "lat": 50.87551,
+   "lon": 8.02912,
    "farbe": "orange"
   },
   {
@@ -3336,8 +3336,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.553046,
-   "lon": 12.809073,
+   "lat": 48.55305,
+   "lon": 12.80907,
    "farbe": "orange"
   },
   {
@@ -3346,7 +3346,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.92111,
-   "lon": 9.486502,
+   "lon": 9.4865,
    "farbe": "orange"
   },
   {
@@ -3354,8 +3354,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.479093,
-   "lon": 8.994169,
+   "lat": 49.47909,
+   "lon": 8.99417,
    "farbe": "orange"
   },
   {
@@ -3363,7 +3363,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.142975,
+   "lat": 48.14298,
    "lon": 8.77185,
    "farbe": "orange"
   },
@@ -3372,8 +3372,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.356194,
-   "lon": 8.960324,
+   "lat": 48.35619,
+   "lon": 8.96032,
    "farbe": "orange"
   },
   {
@@ -3381,8 +3381,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.453001,
-   "lon": 8.690713,
+   "lat": 48.453,
+   "lon": 8.69071,
    "farbe": "orange"
   },
   {
@@ -3390,8 +3390,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.218263,
-   "lon": 8.792902,
+   "lat": 52.21826,
+   "lon": 8.7929,
    "farbe": "orange"
   },
   {
@@ -3399,8 +3399,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.901729,
-   "lon": 9.081618,
+   "lat": 48.90173,
+   "lon": 9.08162,
    "farbe": "orange"
   },
   {
@@ -3408,7 +3408,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.185614,
+   "lat": 48.18561,
    "lon": 8.97102,
    "farbe": "orange"
   },
@@ -3417,8 +3417,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.550476,
-   "lon": 9.372311,
+   "lat": 48.55048,
+   "lon": 9.37231,
    "farbe": "orange"
   },
   {
@@ -3426,8 +3426,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.354413,
-   "lon": 9.094921,
+   "lat": 49.35441,
+   "lon": 9.09492,
    "farbe": "orange"
   },
   {
@@ -3435,8 +3435,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.196068,
-   "lon": 9.513485,
+   "lat": 49.19607,
+   "lon": 9.51348,
    "farbe": "orange"
   },
   {
@@ -3444,8 +3444,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.696282,
-   "lon": 7.325199,
+   "lat": 49.69628,
+   "lon": 7.3252,
    "farbe": "orange"
   },
   {
@@ -3453,8 +3453,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.531356,
-   "lon": 7.399786,
+   "lat": 49.53136,
+   "lon": 7.39979,
    "farbe": "orange"
   },
   {
@@ -3462,7 +3462,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.504421,
+   "lat": 50.50442,
    "lon": 7.32531,
    "farbe": "orange"
   },
@@ -3471,8 +3471,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.160402,
-   "lon": 8.624103,
+   "lat": 48.1604,
+   "lon": 8.6241,
    "farbe": "orange"
   },
   {
@@ -3480,8 +3480,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.845686,
-   "lon": 7.818236,
+   "lat": 51.84493,
+   "lon": 7.81797,
    "farbe": "orange"
   },
   {
@@ -3490,7 +3490,7 @@
    "plz": null,
    "ort": null,
    "lat": 47.75388,
-   "lon": 11.727198,
+   "lon": 11.7272,
    "farbe": "orange"
   },
   {
@@ -3498,8 +3498,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.630005,
-   "lon": 8.272474,
+   "lat": 47.63001,
+   "lon": 8.27247,
    "farbe": "orange"
   },
   {
@@ -3507,8 +3507,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.347244,
-   "lon": 8.015216,
+   "lat": 52.34724,
+   "lon": 8.01522,
    "farbe": "orange"
   },
   {
@@ -3516,8 +3516,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.637023,
-   "lon": 7.902804,
+   "lat": 47.63702,
+   "lon": 7.9028,
    "farbe": "orange"
   },
   {
@@ -3526,7 +3526,7 @@
    "plz": null,
    "ort": null,
    "lat": 53.9219,
-   "lon": 12.347987,
+   "lon": 12.34799,
    "farbe": "orange"
   },
   {
@@ -3534,8 +3534,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.143987,
-   "lon": 8.486823,
+   "lat": 52.14399,
+   "lon": 8.48682,
    "farbe": "orange"
   },
   {
@@ -3543,8 +3543,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.493023,
-   "lon": 13.318118,
+   "lat": 53.49302,
+   "lon": 13.31812,
    "farbe": "orange"
   },
   {
@@ -3552,8 +3552,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.419271,
-   "lon": 11.839324,
+   "lat": 53.41927,
+   "lon": 11.83932,
    "farbe": "orange"
   },
   {
@@ -3561,8 +3561,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.301319,
-   "lon": 7.358055,
+   "lat": 51.30132,
+   "lon": 7.35805,
    "farbe": "orange"
   },
   {
@@ -3570,8 +3570,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.951184,
-   "lon": 9.369049,
+   "lat": 47.95171,
+   "lon": 9.37022,
    "farbe": "orange"
   },
   {
@@ -3580,7 +3580,7 @@
    "plz": null,
    "ort": null,
    "lat": 47.94095,
-   "lon": 8.729889,
+   "lon": 8.72989,
    "farbe": "orange"
   },
   {
@@ -3588,8 +3588,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.809607,
-   "lon": 8.431138,
+   "lat": 51.80961,
+   "lon": 8.43114,
    "farbe": "orange"
   },
   {
@@ -3597,8 +3597,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.970965,
-   "lon": 9.272058,
+   "lat": 48.97097,
+   "lon": 9.27206,
    "farbe": "orange"
   },
   {
@@ -3606,8 +3606,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.443085,
-   "lon": 7.025835,
+   "lat": 51.44308,
+   "lon": 7.02584,
    "farbe": "orange"
   },
   {
@@ -3615,8 +3615,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.626189,
-   "lon": 8.215534,
+   "lat": 47.62619,
+   "lon": 8.21553,
    "farbe": "orange"
   },
   {
@@ -3624,8 +3624,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.260156,
-   "lon": 10.960632,
+   "lat": 50.26016,
+   "lon": 10.96063,
    "farbe": "orange"
   },
   {
@@ -3633,8 +3633,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.422403,
-   "lon": 8.40268,
+   "lat": 49.42162,
+   "lon": 8.40452,
    "farbe": "orange"
   },
   {
@@ -3642,8 +3642,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.827008,
-   "lon": 12.386358,
+   "lat": 50.82701,
+   "lon": 12.38636,
    "farbe": "orange"
   },
   {
@@ -3651,8 +3651,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.281053,
-   "lon": 8.997448,
+   "lat": 48.28105,
+   "lon": 8.99745,
    "farbe": "orange"
   },
   {
@@ -3660,8 +3660,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.321529,
-   "lon": 12.420142,
+   "lat": 51.32153,
+   "lon": 12.42014,
    "farbe": "orange"
   },
   {
@@ -3669,7 +3669,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.315286,
+   "lat": 51.31529,
    "lon": 12.30537,
    "farbe": "orange"
   },
@@ -3679,7 +3679,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.72029,
-   "lon": 9.179757,
+   "lon": 9.17976,
    "farbe": "orange"
   },
   {
@@ -3687,7 +3687,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.795266,
+   "lat": 50.79527,
    "lon": 6.46637,
    "farbe": "orange"
   },
@@ -3696,8 +3696,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.291376,
-   "lon": 8.572324,
+   "lat": 48.29138,
+   "lon": 8.57232,
    "farbe": "orange"
   },
   {
@@ -3706,7 +3706,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.24476,
-   "lon": 8.998132,
+   "lon": 8.99813,
    "farbe": "orange"
   },
   {
@@ -3715,7 +3715,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.88888,
-   "lon": 9.533861,
+   "lon": 9.53386,
    "farbe": "orange"
   },
   {
@@ -3723,8 +3723,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.121515,
-   "lon": 9.074768,
+   "lat": 48.12132,
+   "lon": 9.07628,
    "farbe": "orange"
   },
   {
@@ -3732,8 +3732,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.918998,
-   "lon": 9.255247,
+   "lat": 47.919,
+   "lon": 9.25525,
    "farbe": "orange"
   },
   {
@@ -3741,8 +3741,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.609697,
-   "lon": 11.862191,
+   "lat": 52.6097,
+   "lon": 11.86219,
    "farbe": "orange"
   },
   {
@@ -3750,8 +3750,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.69858,
-   "lon": 11.086305,
+   "lat": 52.69852,
+   "lon": 11.08318,
    "farbe": "orange"
   },
   {
@@ -3760,7 +3760,7 @@
    "plz": null,
    "ort": null,
    "lat": 50.6971,
-   "lon": 6.480651,
+   "lon": 6.48065,
    "farbe": "orange"
   },
   {
@@ -3768,8 +3768,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.745106,
-   "lon": 6.484839,
+   "lat": 50.74511,
+   "lon": 6.48484,
    "farbe": "orange"
   },
   {
@@ -3777,8 +3777,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.203916,
-   "lon": 7.34882,
+   "lat": 51.20606,
+   "lon": 7.34702,
    "farbe": "orange"
   },
   {
@@ -3786,8 +3786,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.996688,
-   "lon": 8.044344,
+   "lat": 51.99663,
+   "lon": 8.04376,
    "farbe": "orange"
   },
   {
@@ -3795,7 +3795,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.274261,
+   "lat": 48.27426,
    "lon": 8.8479,
    "farbe": "orange"
   },
@@ -3804,7 +3804,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.987891,
+   "lat": 50.98789,
    "lon": 6.56617,
    "farbe": "orange"
   },
@@ -3813,8 +3813,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.775712,
-   "lon": 11.399947,
+   "lat": 48.77571,
+   "lon": 11.39995,
    "farbe": "orange"
   },
   {
@@ -3822,8 +3822,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.182055,
-   "lon": 7.219404,
+   "lat": 51.18206,
+   "lon": 7.2194,
    "farbe": "orange"
   },
   {
@@ -3831,8 +3831,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.672949,
-   "lon": 12.163001,
+   "lat": 49.67291,
+   "lon": 12.16348,
    "farbe": "orange"
   },
   {
@@ -3849,8 +3849,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.344996,
-   "lon": 12.354692,
+   "lat": 51.34967,
+   "lon": 12.35181,
    "farbe": "orange"
   },
   {
@@ -3858,8 +3858,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.246269,
-   "lon": 6.517296,
+   "lat": 51.24627,
+   "lon": 6.5173,
    "farbe": "orange"
   },
   {
@@ -3867,8 +3867,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.773009,
-   "lon": 12.235817,
+   "lat": 48.77301,
+   "lon": 12.23582,
    "farbe": "orange"
   },
   {
@@ -3877,7 +3877,7 @@
    "plz": null,
    "ort": null,
    "lat": 50.31635,
-   "lon": 7.060202,
+   "lon": 7.0602,
    "farbe": "orange"
   },
   {
@@ -3885,8 +3885,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.007467,
-   "lon": 12.091047,
+   "lat": 50.00747,
+   "lon": 12.09105,
    "farbe": "orange"
   },
   {
@@ -3894,8 +3894,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.30327,
-   "lon": 10.572055,
+   "lat": 49.30336,
+   "lon": 10.57179,
    "farbe": "orange"
   },
   {
@@ -3904,7 +3904,7 @@
    "plz": null,
    "ort": null,
    "lat": 49.94183,
-   "lon": 11.291007,
+   "lon": 11.29101,
    "farbe": "orange"
   },
   {
@@ -3912,8 +3912,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.725941,
-   "lon": 10.310254,
+   "lat": 47.72594,
+   "lon": 10.31025,
    "farbe": "orange"
   },
   {
@@ -3921,8 +3921,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.254311,
-   "lon": 10.974332,
+   "lat": 50.25431,
+   "lon": 10.97433,
    "farbe": "orange"
   },
   {
@@ -3930,8 +3930,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.375501,
-   "lon": 11.204078,
+   "lat": 49.3755,
+   "lon": 11.20408,
    "farbe": "orange"
   },
   {
@@ -3939,8 +3939,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.140589,
-   "lon": 11.404136,
+   "lat": 48.14059,
+   "lon": 11.40414,
    "farbe": "orange"
   },
   {
@@ -3948,8 +3948,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.281263,
-   "lon": 11.469969,
+   "lat": 49.28126,
+   "lon": 11.46997,
    "farbe": "orange"
   },
   {
@@ -3957,8 +3957,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.306306,
-   "lon": 12.841752,
+   "lat": 49.30607,
+   "lon": 12.8418,
    "farbe": "orange"
   },
   {
@@ -3966,8 +3966,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.235859,
-   "lon": 11.337986,
+   "lat": 50.23586,
+   "lon": 11.33799,
    "farbe": "orange"
   },
   {
@@ -3975,8 +3975,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.848065,
-   "lon": 9.609587,
+   "lat": 49.84807,
+   "lon": 9.60959,
    "farbe": "orange"
   },
   {
@@ -3984,8 +3984,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.333773,
-   "lon": 11.127361,
+   "lat": 50.33377,
+   "lon": 11.12736,
    "farbe": "orange"
   },
   {
@@ -3993,8 +3993,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.755922,
-   "lon": 13.175739,
+   "lat": 48.75592,
+   "lon": 13.17574,
    "farbe": "orange"
   },
   {
@@ -4002,8 +4002,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.162069,
-   "lon": 12.136729,
+   "lat": 50.16207,
+   "lon": 12.13673,
    "farbe": "orange"
   },
   {
@@ -4011,8 +4011,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.846368,
-   "lon": 12.952336,
+   "lat": 48.84637,
+   "lon": 12.95234,
    "farbe": "orange"
   },
   {
@@ -4020,8 +4020,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.317284,
-   "lon": 11.912375,
+   "lat": 50.31728,
+   "lon": 11.91238,
    "farbe": "orange"
   },
   {
@@ -4029,8 +4029,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.566709,
-   "lon": 13.436768,
+   "lat": 48.56671,
+   "lon": 13.43677,
    "farbe": "orange"
   },
   {
@@ -4038,8 +4038,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.513415,
-   "lon": 11.266465,
+   "lat": 49.51342,
+   "lon": 11.26647,
    "farbe": "orange"
   },
   {
@@ -4047,7 +4047,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.487143,
+   "lat": 51.48714,
    "lon": 9.14895,
    "farbe": "orange"
   },
@@ -4056,8 +4056,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.064053,
-   "lon": 8.733442,
+   "lat": 52.06405,
+   "lon": 8.73344,
    "farbe": "orange"
   },
   {
@@ -4065,8 +4065,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.962227,
-   "lon": 8.219644,
+   "lat": 51.96223,
+   "lon": 8.21964,
    "farbe": "orange"
   },
   {
@@ -4074,8 +4074,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.330935,
-   "lon": 6.972721,
+   "lat": 51.33093,
+   "lon": 6.97272,
    "farbe": "orange"
   },
   {
@@ -4084,7 +4084,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.14427,
-   "lon": 7.332114,
+   "lon": 7.33211,
    "farbe": "orange"
   },
   {
@@ -4092,8 +4092,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.436904,
-   "lon": 8.617959,
+   "lat": 52.4369,
+   "lon": 8.61796,
    "farbe": "orange"
   },
   {
@@ -4101,8 +4101,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.766109,
-   "lon": 8.559149,
+   "lat": 51.76611,
+   "lon": 8.55915,
    "farbe": "orange"
   },
   {
@@ -4111,7 +4111,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.69361,
-   "lon": 9.746265,
+   "lon": 9.74626,
    "farbe": "orange"
   },
   {
@@ -4119,8 +4119,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 52.434498,
-   "lon": 8.461377,
+   "lat": 52.4345,
+   "lon": 8.46138,
    "farbe": "orange"
   },
   {
@@ -4128,8 +4128,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.094189,
-   "lon": 9.276552,
+   "lat": 49.09419,
+   "lon": 9.27655,
    "farbe": "orange"
   },
   {
@@ -4137,8 +4137,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.500178,
-   "lon": 10.189435,
+   "lat": 53.50018,
+   "lon": 10.18943,
    "farbe": "orange"
   },
   {
@@ -4146,8 +4146,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.006919,
-   "lon": 10.164255,
+   "lat": 51.00692,
+   "lon": 10.16425,
    "farbe": "orange"
   },
   {
@@ -4155,7 +4155,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.848696,
+   "lat": 50.8487,
    "lon": 12.4573,
    "farbe": "orange"
   },
@@ -4164,8 +4164,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.300013,
-   "lon": 8.267505,
+   "lat": 50.30001,
+   "lon": 8.26751,
    "farbe": "orange"
   },
   {
@@ -4173,8 +4173,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.465245,
-   "lon": 8.978074,
+   "lat": 49.46524,
+   "lon": 8.97807,
    "farbe": "orange"
   },
   {
@@ -4182,8 +4182,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.206579,
-   "lon": 7.346242,
+   "lat": 51.20658,
+   "lon": 7.34624,
    "farbe": "orange"
   },
   {
@@ -4192,7 +4192,7 @@
    "plz": null,
    "ort": null,
    "lat": 51.61998,
-   "lon": 7.399184,
+   "lon": 7.39918,
    "farbe": "orange"
   },
   {
@@ -4200,8 +4200,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.257178,
-   "lon": 9.410141,
+   "lat": 51.25718,
+   "lon": 9.41014,
    "farbe": "orange"
   },
   {
@@ -4210,7 +4210,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.26992,
-   "lon": 11.583641,
+   "lon": 11.58364,
    "farbe": "orange"
   },
   {
@@ -4218,8 +4218,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.935382,
-   "lon": 9.264577,
+   "lat": 48.93538,
+   "lon": 9.26458,
    "farbe": "orange"
   },
   {
@@ -4227,8 +4227,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.724756,
-   "lon": 12.724444,
+   "lat": 50.72476,
+   "lon": 12.72444,
    "farbe": "orange"
   },
   {
@@ -4236,8 +4236,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.051089,
-   "lon": 8.529972,
+   "lat": 49.05109,
+   "lon": 8.52997,
    "farbe": "orange"
   },
   {
@@ -4245,8 +4245,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.49872,
-   "lon": 6.571405,
+   "lat": 51.50165,
+   "lon": 6.56804,
    "farbe": "orange"
   },
   {
@@ -4254,8 +4254,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.810722,
-   "lon": 8.785454,
+   "lat": 48.81072,
+   "lon": 8.78545,
    "farbe": "orange"
   },
   {
@@ -4263,8 +4263,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.750787,
-   "lon": 9.185631,
+   "lat": 48.75079,
+   "lon": 9.18563,
    "farbe": "orange"
   },
   {
@@ -4272,8 +4272,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.162734,
-   "lon": 12.137498,
+   "lat": 50.16273,
+   "lon": 12.1375,
    "farbe": "orange"
   },
   {
@@ -4281,8 +4281,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.979743,
-   "lon": 9.575637,
+   "lat": 48.97974,
+   "lon": 9.57564,
    "farbe": "orange"
   },
   {
@@ -4291,7 +4291,7 @@
    "plz": null,
    "ort": null,
    "lat": 48.70859,
-   "lon": 9.671722,
+   "lon": 9.67172,
    "farbe": "orange"
   },
   {
@@ -4299,8 +4299,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.006142,
-   "lon": 7.861849,
+   "lat": 48.00614,
+   "lon": 7.86185,
    "farbe": "orange"
   },
   {
@@ -4308,8 +4308,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.013873,
-   "lon": 7.82391,
+   "lat": 48.01331,
+   "lon": 7.82364,
    "farbe": "orange"
   },
   {
@@ -4317,8 +4317,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.309785,
-   "lon": 9.237418,
+   "lat": 48.3086,
+   "lon": 9.23805,
    "farbe": "orange"
   },
   {
@@ -4326,8 +4326,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.550857,
-   "lon": 9.476249,
+   "lat": 48.55086,
+   "lon": 9.47625,
    "farbe": "orange"
   },
   {
@@ -4335,7 +4335,7 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.699584,
+   "lat": 48.69958,
    "lon": 9.64761,
    "farbe": "orange"
   },
@@ -4353,8 +4353,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.769765,
-   "lon": 9.162477,
+   "lat": 47.76976,
+   "lon": 9.16248,
    "farbe": "orange"
   },
   {
@@ -4362,8 +4362,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.474772,
-   "lon": 12.364528,
+   "lat": 50.47477,
+   "lon": 12.36453,
    "farbe": "orange"
   },
   {
@@ -4371,8 +4371,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.846124,
-   "lon": 8.529085,
+   "lat": 48.84612,
+   "lon": 8.52908,
    "farbe": "orange"
   },
   {
@@ -4380,8 +4380,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.859745,
-   "lon": 9.251024,
+   "lat": 48.86669,
+   "lon": 9.25651,
    "farbe": "orange"
   },
   {
@@ -4389,8 +4389,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 48.754332,
-   "lon": 9.252733,
+   "lat": 48.75433,
+   "lon": 9.25273,
    "farbe": "orange"
   },
   {
@@ -4398,8 +4398,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.281843,
-   "lon": 11.44962,
+   "lat": 49.28082,
+   "lon": 11.44887,
    "farbe": "orange"
   },
   {
@@ -4407,8 +4407,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.920119,
-   "lon": 6.108013,
+   "lat": 50.91841,
+   "lon": 6.10942,
    "farbe": "orange"
   },
   {
@@ -4416,8 +4416,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 47.725921,
-   "lon": 10.309435,
+   "lat": 47.72592,
+   "lon": 10.30943,
    "farbe": "orange"
   },
   {
@@ -4425,8 +4425,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.813303,
-   "lon": 9.964763,
+   "lat": 49.8133,
+   "lon": 9.96476,
    "farbe": "orange"
   },
   {
@@ -4434,8 +4434,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 51.624351,
-   "lon": 7.189062,
+   "lat": 51.62435,
+   "lon": 7.18906,
    "farbe": "orange"
   },
   {
@@ -4443,8 +4443,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 49.492423,
-   "lon": 10.780039,
+   "lat": 49.49242,
+   "lon": 10.78004,
    "farbe": "orange"
   },
   {
@@ -4452,8 +4452,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 50.897152,
-   "lon": 8.724198,
+   "lat": 50.89706,
+   "lon": 8.72406,
    "farbe": "orange"
   },
   {
@@ -4461,8 +4461,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 53.110807,
-   "lon": 9.137849,
+   "lat": 53.11081,
+   "lon": 9.13785,
    "farbe": "orange"
   },
   {
@@ -4470,8 +4470,8 @@
    "strasse": null,
    "plz": null,
    "ort": null,
-   "lat": 54.805089,
-   "lon": 9.393505,
+   "lat": 54.80509,
+   "lon": 9.39351,
    "farbe": "orange"
   }
  ]
