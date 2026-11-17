@@ -1,6 +1,51 @@
 {
- "stand": "2026-11-17T10:33:14.597Z",
+ "stand": "2026-11-17T11:16:24.423Z",
  "schulen": [
+  {
+   "name": "Aartalschule Aarbergen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.226844,
+   "lon": 8.055739,
+   "farbe": "orange"
+  },
+  {
+   "name": "Adalbert-Stifter-Gemeinschaftsschule Ulm",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.408606,
+   "lon": 9.954965,
+   "farbe": "orange"
+  },
+  {
+   "name": "Adalbert-Stifter-Realschule Schwäbisch Gmünd",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.78759,
+   "lon": 9.827505,
+   "farbe": "orange"
+  },
+  {
+   "name": "Adolf-Reichwein-Gesamtschule Lüdenscheid",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.234156,
+   "lon": 7.626741,
+   "farbe": "orange"
+  },
+  {
+   "name": "Adolph Blankenhorn Gemeinschaftsschule Müllheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.812204,
+   "lon": 7.629972,
+   "farbe": "orange"
+  },
   {
    "name": "Akademisches Gymnasium",
    "strasse": "Angerzellgasse 14",
@@ -8,6 +53,78 @@
    "ort": "Innsbruck",
    "lat": 47.2680098,
    "lon": 11.3978221,
+   "farbe": "orange"
+  },
+  {
+   "name": "Albert-Schweitzer Realschule Böblingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.679884,
+   "lon": 9.026141,
+   "farbe": "orange"
+  },
+  {
+   "name": "Albert-Schweitzer-Gemeinschaftsschule Fellbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.833077,
+   "lon": 9.265999,
+   "farbe": "orange"
+  },
+  {
+   "name": "Alexander von Humboldt Schule Rüsselsheim am Main",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.982261,
+   "lon": 8.443255,
+   "farbe": "orange"
+  },
+  {
+   "name": "Alexander-von-Humboldt-Schule Gießen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.593107,
+   "lon": 8.659018,
+   "farbe": "orange"
+  },
+  {
+   "name": "Alexander-von-Humboldt-Schule Lauterbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.641486,
+   "lon": 9.404437,
+   "farbe": "orange"
+  },
+  {
+   "name": "Alfred-Delp-Schule Dieburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.897725,
+   "lon": 8.831348,
+   "farbe": "orange"
+  },
+  {
+   "name": "Alleenschule GWRS Kirchheim unter Teck GWRS",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.645757,
+   "lon": 9.448313,
+   "farbe": "orange"
+  },
+  {
+   "name": "Allemannen-Gemeinschaftsschule Hüttlingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.894333,
+   "lon": 10.100357,
    "farbe": "orange"
   },
   {
@@ -47,12 +164,255 @@
    "farbe": "orange"
   },
   {
+   "name": "Altenburg-Gemeinschaftsschule Stuttgart",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.810927,
+   "lon": 9.207811,
+   "farbe": "orange"
+  },
+  {
+   "name": "Anton-Hansen-Schule Ottweiler",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.401445,
+   "lon": 7.157558,
+   "farbe": "orange"
+  },
+  {
+   "name": "Arnold-Freymuth-Gesamtschule Hamm",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.659509,
+   "lon": 7.744935,
+   "farbe": "orange"
+  },
+  {
+   "name": "August-Weygang-Gemeinschaftsschule Öhringen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.200375,
+   "lon": 9.50922,
+   "farbe": "orange"
+  },
+  {
+   "name": "Bärbel-von-Ottenheim-Gemeinschaftsschule Schwanau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.383241,
+   "lon": 7.757513,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berchenschule Grund-und Werkrealschule Konstanz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.6852,
+   "lon": 9.150856,
+   "farbe": "orange"
+  },
+  {
+   "name": "Bergschule Grund- und Gemeinschaftsschule Fockbeck",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 54.305199,
+   "lon": 9.599776,
+   "farbe": "orange"
+  },
+  {
+   "name": "Bertha-Benz-Realschule Wiesloch",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.296729,
+   "lon": 8.682041,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufliche Marienschule Limburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.386096,
+   "lon": 8.06527,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufliche Schulen Bad Hersfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.866417,
+   "lon": 9.729793,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufliche Schulen Eschwege",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.185225,
+   "lon": 10.032361,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufliche Schulen Oberndorf-Sulz / Oberndorf am Neckar",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.288437,
+   "lon": 8.580096,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufliche Schulen Oberndorf-Sulz / Sulz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.362141,
+   "lon": 8.627335,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufsbildende Schule Kirn",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.784754,
+   "lon": 7.476235,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufskolleg Castrop-Rauxel",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.582179,
+   "lon": 7.305645,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufskolleg Jülich",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.919551,
+   "lon": 6.360513,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufskolleg Lise Meitner Kreis Borken Ahaus",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.085816,
+   "lon": 7.009917,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufskolleg Nord Herzogenrath",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.863133,
+   "lon": 6.106993,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufskolleg Simmerath/Stolberg Standort Simmerath",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.602088,
+   "lon": 6.294771,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufskolleg Simmerath/Stolberg Standort Stolberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.774883,
+   "lon": 6.232368,
+   "farbe": "orange"
+  },
+  {
+   "name": "Berufskolleg Viersen-Dülken des Kreises Viersen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.251481,
+   "lon": 6.349986,
+   "farbe": "orange"
+  },
+  {
+   "name": "Bettine-von-Arnim-Gesamtschule Langenfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.1348,
+   "lon": 6.947323,
+   "farbe": "orange"
+  },
+  {
+   "name": "bfz gGmbH Schwandorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.326706,
+   "lon": 12.104623,
+   "farbe": "orange"
+  },
+  {
    "name": "BG, BRG, BWRG",
    "strasse": "Anton-Baumgartner-Straße 123",
    "plz": "1230",
    "ort": "Wien",
    "lat": 48.1498226,
    "lon": 16.3142336,
+   "farbe": "orange"
+  },
+  {
+   "name": "Blanc-und-Fischer-Gemeinschaftsschule Sulzfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.100015,
+   "lon": 8.859315,
+   "farbe": "orange"
+  },
+  {
+   "name": "Blumensteinschule Wildeck-Obersuhl",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.948262,
+   "lon": 10.022875,
+   "farbe": "orange"
+  },
+  {
+   "name": "Bodensee-Schule St Martin Friedrichshafen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.662948,
+   "lon": 9.440731,
+   "farbe": "orange"
+  },
+  {
+   "name": "Brüder-Grimm-Schule Eschwege",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.183712,
+   "lon": 10.068297,
    "farbe": "orange"
   },
   {
@@ -65,12 +425,1623 @@
    "farbe": "orange"
   },
   {
+   "name": "Camerloher Gymnasium Freising",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.405384,
+   "lon": 11.731325,
+   "farbe": "orange"
+  },
+  {
+   "name": "Carl-Engler-Realschule Hemsbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.596542,
+   "lon": 8.651942,
+   "farbe": "orange"
+  },
+  {
+   "name": "Carl-Friedrich-Gauß-Gymnasium Schwandorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.322676,
+   "lon": 12.116518,
+   "farbe": "orange"
+  },
+  {
+   "name": "Carl-Zuckmayer-Realschule plus und FOS Nierstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.870202,
+   "lon": 8.334741,
+   "farbe": "orange"
+  },
+  {
+   "name": "Caroline-Neuber-Schule Leipzig",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.326627,
+   "lon": 12.384476,
+   "farbe": "orange"
+  },
+  {
+   "name": "Christian-Wolfrum-Mittelschule Hof",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.316507,
+   "lon": 11.929265,
+   "farbe": "orange"
+  },
+  {
+   "name": "Christoph-Stöver-Realschule Oer-Erkenschwick",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.639044,
+   "lon": 7.257662,
+   "farbe": "orange"
+  },
+  {
+   "name": "Clara-Schumann-Gymnasium Bonn",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.727086,
+   "lon": 7.101386,
+   "farbe": "orange"
+  },
+  {
+   "name": "Collegium Augustinianum Gaesdonck Goch",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.652601,
+   "lon": 6.11852,
+   "farbe": "orange"
+  },
+  {
+   "name": "Columba-Neef Realschule Neustift",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.582752,
+   "lon": 13.194417,
+   "farbe": "orange"
+  },
+  {
+   "name": "Comenius-Realschule Wertheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.778612,
+   "lon": 9.504168,
+   "farbe": "orange"
+  },
+  {
+   "name": "Comenius-Schule Herborn",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.692313,
+   "lon": 8.314325,
+   "farbe": "orange"
+  },
+  {
+   "name": "Conrad-von-Ense-Schule Ense",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.503405,
+   "lon": 7.962268,
+   "farbe": "orange"
+  },
+  {
+   "name": "Denis-Diderot-Schule Oberschule der Stadt Leipzig",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.371691,
+   "lon": 12.344017,
+   "farbe": "orange"
+  },
+  {
+   "name": "Deutsche Angestellten-Akademie Coburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.250672,
+   "lon": 10.964679,
+   "farbe": "orange"
+  },
+  {
+   "name": "Dientzenhofer-Gymnasium Bamberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.908452,
+   "lon": 10.905776,
+   "farbe": "orange"
+  },
+  {
+   "name": "Dieter-Hildebrandt-Wirtschaftsschule München",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.119202,
+   "lon": 11.539728,
+   "farbe": "orange"
+  },
+  {
+   "name": "Dominikus-Zimmermann-Gymnasium Landsberg am Lech",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.051893,
+   "lon": 10.861695,
+   "farbe": "orange"
+  },
+  {
+   "name": "Dr. Franz-Bogner Mittelschule Selb",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.163087,
+   "lon": 12.134692,
+   "farbe": "orange"
+  },
+  {
+   "name": "Dr. Karlheinz Spielmann Mittelschule Iphofen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.708067,
+   "lon": 10.263506,
+   "farbe": "orange"
+  },
+  {
+   "name": "Dr.-Ernst-Schmidt-Realschule Ebern",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.095119,
+   "lon": 10.797009,
+   "farbe": "orange"
+  },
+  {
+   "name": "Dr.-Gustav-Schickedanz Schule Fürth",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.490336,
+   "lon": 10.969046,
+   "farbe": "orange"
+  },
+  {
+   "name": "Drei-Quellen-Realschule Bad Griesbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.452527,
+   "lon": 13.199574,
+   "farbe": "orange"
+  },
+  {
+   "name": "Eckenberg-Gymnasium Adelsheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.408218,
+   "lon": 9.394356,
+   "farbe": "orange"
+  },
+  {
+   "name": "Edith-Stein-Realschule Parsberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.162247,
+   "lon": 11.727889,
+   "farbe": "orange"
+  },
+  {
+   "name": "Eduard-Spranger-Schule Freudenstadt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.468835,
+   "lon": 8.419629,
+   "farbe": "orange"
+  },
+  {
+   "name": "Egauschule Dischingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.694036,
+   "lon": 10.363365,
+   "farbe": "orange"
+  },
+  {
+   "name": "Eichbottschule Leingarten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.143864,
+   "lon": 9.110247,
+   "farbe": "orange"
+  },
+  {
+   "name": "Eichendorffschule Bad Cannstatt-Stuttgart",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.804609,
+   "lon": 9.236983,
+   "farbe": "orange"
+  },
+  {
+   "name": "Eichwaldschule Schaafheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.922262,
+   "lon": 8.998848,
+   "farbe": "orange"
+  },
+  {
+   "name": "Ekkehard Realschule Singen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.761757,
+   "lon": 8.836637,
+   "farbe": "orange"
+  },
+  {
+   "name": "Elly-Heuss-Knapp-Gymnasium Heilbronn",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.145415,
+   "lon": 9.179932,
+   "farbe": "orange"
+  },
+  {
+   "name": "Elly-Heuss-Knapp-Realschule Ludwigsburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.892228,
+   "lon": 9.192532,
+   "farbe": "orange"
+  },
+  {
+   "name": "Emerenz-Meier-Mittelschule Waldkirchen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.726811,
+   "lon": 13.610235,
+   "farbe": "orange"
+  },
+  {
+   "name": "Erich Kästner-Schule Bochum",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.450873,
+   "lon": 7.24526,
+   "farbe": "orange"
+  },
+  {
+   "name": "Erich-Hauser-Gewerbeschule Rottweil",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.161776,
+   "lon": 8.618089,
+   "farbe": "orange"
+  },
+  {
+   "name": "Erich-Kästner-Gesamtschule Essen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.451603,
+   "lon": 7.089826,
+   "farbe": "orange"
+  },
+  {
+   "name": "Ernst-Immel-Realschule Marl",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.662202,
+   "lon": 7.136132,
+   "farbe": "orange"
+  },
+  {
+   "name": "Ernst-Rietschel-Oberschule Pulsnitz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.184707,
+   "lon": 14.020079,
+   "farbe": "orange"
+  },
+  {
+   "name": "Erzbischöfliche Gesamtschule am Bildungscampus Köln-Kalk",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.934571,
+   "lon": 7.009901,
+   "farbe": "orange"
+  },
+  {
+   "name": "Erzbischöfliche St. Irmengard Realschule Garmisch-Partenkirchen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.496358,
+   "lon": 11.103229,
+   "farbe": "orange"
+  },
+  {
+   "name": "Esther-Bejarano-Gesamtschule Freudenberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.909023,
+   "lon": 7.884661,
+   "farbe": "orange"
+  },
+  {
+   "name": "Europaschule Hagenow",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.438299,
+   "lon": 11.1809,
+   "farbe": "orange"
+  },
+  {
+   "name": "Europaschule Kamp-Lintfort",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.490055,
+   "lon": 6.53034,
+   "farbe": "orange"
+  },
+  {
+   "name": "Ev. Trifels-Gymnasium Annweiler",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.196897,
+   "lon": 7.964022,
+   "farbe": "orange"
+  },
+  {
+   "name": "Evangelisches Gymnasium Siegen-Weidenau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.899546,
+   "lon": 8.019446,
+   "farbe": "orange"
+  },
+  {
+   "name": "Evangelisches Schulzentrum Bad Düben",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.593554,
+   "lon": 12.592173,
+   "farbe": "orange"
+  },
+  {
+   "name": "Ferdinand-Steinbeis-Realschule Vaihingen/Enz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.934754,
+   "lon": 8.957089,
+   "farbe": "orange"
+  },
+  {
+   "name": "Fichte-Gymnasium Gymnasium Hagen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.35598,
+   "lon": 7.469436,
+   "farbe": "orange"
+  },
+  {
+   "name": "FOS/BOS Hof",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.320236,
+   "lon": 11.915586,
+   "farbe": "orange"
+  },
+  {
+   "name": "FOS/BOS Neumarkt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.263103,
+   "lon": 11.469308,
+   "farbe": "orange"
+  },
+  {
+   "name": "Franziskaner Gymnasium Kreuzburg Großkrotzenburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.088264,
+   "lon": 8.983886,
+   "farbe": "orange"
+  },
+  {
+   "name": "Französische Gemeinschaftsschule Tübingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.50348,
+   "lon": 9.05635,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freie Aktive Gesamtschule Wülfrath",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.264351,
+   "lon": 7.048839,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freie Christliche Gesamtschule Düsseldorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.183267,
+   "lon": 6.862495,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freie Evangelische Oberschule Görlitz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.154711,
+   "lon": 14.992893,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freie Montessori-Volksschule Berg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.37912,
+   "lon": 11.778488,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freiherr-vom-Stein Europaschule Hünfelden-Dauborn",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.324926,
+   "lon": 8.16958,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freiherr-vom-Stein-Gymnasium Lünen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.610838,
+   "lon": 7.515829,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freiherr-vom-Stein-Realschule Düsseldorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.208869,
+   "lon": 6.788144,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freiherr-vom-Stein-Schule Krefeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.308101,
+   "lon": 6.589434,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freihof-Gymnasium Göppingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.704695,
+   "lon": 9.653203,
+   "farbe": "orange"
+  },
+  {
+   "name": "Freiligrath-Realschule Lage",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.983903,
+   "lon": 8.803418,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich Schiller Gemeinschaftsschule Eislingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.700033,
+   "lon": 9.717978,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich Tschanter Oberschule Eilenburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.46228,
+   "lon": 12.630716,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich-Abel-Gymnasium Vaihingen an der Enz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.935912,
+   "lon": 8.955827,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich-Alexander-Gymnasium Neustadt a. d. Aisch",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.573528,
+   "lon": 10.612497,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich-Ebert-Gymnasium Hamburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.465718,
+   "lon": 9.965571,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich-Ebert-Schule Gießen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.606832,
+   "lon": 8.70475,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich-Heuss-Schule Haßmersheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.296406,
+   "lon": 9.142928,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich-Rückert Gymnasium Ebern",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.093545,
+   "lon": 10.802455,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich-Schiller-Gymnasium Marbach am Neckar",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.935124,
+   "lon": 9.262617,
+   "farbe": "orange"
+  },
+  {
+   "name": "Friedrich-Uhlmann-Schule Gemeinschaftsschule Laupheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.227117,
+   "lon": 9.88041,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Albbruck",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.594552,
+   "lon": 8.132507,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Aldingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.098649,
+   "lon": 8.701928,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule am Brenzpark Heidenheim an der Brenz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.685905,
+   "lon": 10.158316,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule an der Schlei Kappeln",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 54.661883,
+   "lon": 9.924363,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Horb",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.453001,
+   "lon": 8.690713,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Horgenzell",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.80292,
+   "lon": 9.49705,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Hotzenwald",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.664222,
+   "lon": 7.996907,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Karlsbad-Waldbronn",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.912686,
+   "lon": 8.498263,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Korb",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.844273,
+   "lon": 9.356095,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Obere Donau Fridingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.017906,
+   "lon": 8.924176,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Rheintal Standort Hohentengen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.570908,
+   "lon": 8.431063,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule Schelklingen-Allmendingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.376378,
+   "lon": 9.734644,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gemeinschaftsschule St. Ingbert-Rohrbach St. Ingbert",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.28603,
+   "lon": 7.166317,
+   "farbe": "orange"
+  },
+  {
+   "name": "Georg-August-Zinn-Schule Reichelsheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.720235,
+   "lon": 8.841522,
+   "farbe": "orange"
+  },
+  {
+   "name": "Georg-Fahrbach-Schule Gemeinschaftsschule Ingelfingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.300758,
+   "lon": 9.647408,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gerhart-Hauptmann-Oberschule Limbach-Oberfrohna",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.863212,
+   "lon": 12.739026,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gerhart-Hauptmann-Schule Wiesbaden",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.078674,
+   "lon": 8.220575,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Battenberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.014181,
+   "lon": 8.632519,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule der Stadt Mechernich",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.591095,
+   "lon": 6.659403,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Duisburg-Mitte",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.432625,
+   "lon": 6.78751,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Ebsdorfer Grund",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.741479,
+   "lon": 8.841264,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Eilpe - Hagen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.340109,
+   "lon": 7.489774,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Emmerich am Rhein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.835976,
+   "lon": 6.23876,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Geistal Bad Hersfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.876848,
+   "lon": 9.694751,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Geldern",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.526415,
+   "lon": 6.330026,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Heinsberg-Waldfeucht",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.055964,
+   "lon": 6.150415,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Münster Mitte",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.96438,
+   "lon": 7.619891,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Paderborn-Elsen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.739185,
+   "lon": 8.683586,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Schenklengsfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.822745,
+   "lon": 9.843613,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Swisttal",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.715082,
+   "lon": 6.920888,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Wallrabenstein Hünstetten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.269288,
+   "lon": 8.229346,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Walsum Duisburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.53188,
+   "lon": 6.74011,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gesamtschule Windeck Standort Herchen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.7736,
+   "lon": 7.515417,
+   "farbe": "orange"
+  },
+  {
+   "name": "Geschwister Scholl Realschule plus Germersheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.215809,
+   "lon": 8.361915,
+   "farbe": "orange"
+  },
+  {
+   "name": "Geschwister-Scholl-Mittelschule Röthenbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.480665,
+   "lon": 11.2521,
+   "farbe": "orange"
+  },
+  {
+   "name": "Geschwister-Scholl-Realschule Winnenden",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.872393,
+   "lon": 9.402398,
+   "farbe": "orange"
+  },
+  {
+   "name": "GHWRS Krautheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.382909,
+   "lon": 9.633323,
+   "farbe": "orange"
+  },
+  {
+   "name": "GMS Althengstett",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.72499,
+   "lon": 8.792394,
+   "farbe": "orange"
+  },
+  {
+   "name": "GMS Langenau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.504332,
+   "lon": 10.125861,
+   "farbe": "orange"
+  },
+  {
+   "name": "GMS Oberes Wiesental Todtnau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.827606,
+   "lon": 7.941484,
+   "farbe": "orange"
+  },
+  {
+   "name": "GMS Vordere Alb Römerstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.496796,
+   "lon": 9.515406,
+   "farbe": "orange"
+  },
+  {
+   "name": "GMS Weil im Schönbuch",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.619546,
+   "lon": 9.051305,
+   "farbe": "orange"
+  },
+  {
+   "name": "GOBS Schule am Ilmer Barg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.342747,
+   "lon": 10.209089,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gregor-Mendel-Realschule Heidelberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.38699,
+   "lon": 8.665395,
+   "farbe": "orange"
+  },
+  {
+   "name": "Grete-Schickedanz-Mittelschule Hersbruck",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.506141,
+   "lon": 11.436921,
+   "farbe": "orange"
+  },
+  {
+   "name": "Grund- und Mittelschule Bad Hindelang",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.50414,
+   "lon": 10.366506,
+   "farbe": "orange"
+  },
+  {
+   "name": "Grund- und Mittelschule Bad Rodach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.345007,
+   "lon": 10.779148,
+   "farbe": "orange"
+  },
+  {
+   "name": "Grund- und Mittelschule Kirchenlamitz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.157181,
+   "lon": 11.941537,
+   "farbe": "orange"
+  },
+  {
+   "name": "Grund- und Realschule plus Gerolstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.219896,
+   "lon": 6.655187,
+   "farbe": "orange"
+  },
+  {
+   "name": "Grund- und Realschule Villingendorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.202858,
+   "lon": 8.588688,
+   "farbe": "orange"
+  },
+  {
+   "name": "Grund- und Werkrealschule Zimmern (ob Rottweil)",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.169738,
+   "lon": 8.595873,
+   "farbe": "orange"
+  },
+  {
+   "name": "GWRS Gablenberg Stuttgart",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.78004,
+   "lon": 9.208352,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Am Kothen Wuppertal",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.257994,
+   "lon": 7.183125,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium am Waldhof Bielefeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.01866,
+   "lon": 8.528995,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Arnoldinum Europaschule Steinfurt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.154447,
+   "lon": 7.343358,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Christian Ernestinum Bayreuth",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.946172,
+   "lon": 11.583338,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Horn-Bad Meinberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.866892,
+   "lon": 8.941582,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Münchberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.196632,
+   "lon": 11.793234,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Neue Sandkaul Köln",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.962901,
+   "lon": 6.838793,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Neutraubling",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.985999,
+   "lon": 12.207741,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Scheinfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.669339,
+   "lon": 10.466626,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium St. Kaspar",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.675939,
+   "lon": 8.997135,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Stift Keppel Hilchenbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.976262,
+   "lon": 8.084017,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Taunusstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.134588,
+   "lon": 8.150865,
+   "farbe": "orange"
+  },
+  {
+   "name": "Gymnasium Wiesentheid",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.797642,
+   "lon": 10.346147,
+   "farbe": "orange"
+  },
+  {
+   "name": "Handelslehranstalt Bruchsal",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.124212,
+   "lon": 8.594043,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hans-Böckler-Realschule Bochum",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.468695,
+   "lon": 7.230832,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hans-Küng-Gemeinschaftsschule mit gymnasialer Oberstufe Tübingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.521453,
+   "lon": 9.045908,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hans-Sachs-Gymnasium Nürnberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.463001,
+   "lon": 11.086206,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hans-Thoma-Schule Laufenburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.566555,
+   "lon": 8.062155,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hansjakob-Realschule Freiburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.997682,
+   "lon": 7.836258,
+   "farbe": "orange"
+  },
+  {
+   "name": "Heiligkreuz-Mittelschule Coburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.266435,
+   "lon": 10.961631,
+   "farbe": "orange"
+  },
+  {
+   "name": "Heinrich-Böll-Gesamtschule Düren",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.806694,
+   "lon": 6.50374,
+   "farbe": "orange"
+  },
+  {
+   "name": "Heinrich-Böll-Schule Bruchköbel (Strahlemann-Säule)",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.188537,
+   "lon": 8.914751,
+   "farbe": "orange"
+  },
+  {
+   "name": "Heinrich-Böll-Schule Rodgau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.997284,
+   "lon": 8.862482,
+   "farbe": "orange"
+  },
+  {
+   "name": "Heinrich-Grupe-Schule Grebenstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.450037,
+   "lon": 9.411934,
+   "farbe": "orange"
+  },
+  {
+   "name": "Heinrich-Heine-Gymnasium Kaiserslautern",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.426707,
+   "lon": 7.761442,
+   "farbe": "orange"
+  },
+  {
+   "name": "Helmholtz-Gymnasium Zweibrücken",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.248578,
+   "lon": 7.366464,
+   "farbe": "orange"
+  },
+  {
+   "name": "Helmholtzschule - Oberschule der Stadt Leipzig",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.332911,
+   "lon": 12.329112,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hermann-Hesse-Schule Obertshausen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.073223,
+   "lon": 8.858011,
+   "farbe": "orange"
+  },
+  {
+   "name": "Herzog-Tassilo-Realschule Erding",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.295279,
+   "lon": 11.899469,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hofecker-Mittelschule Hof",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.325933,
+   "lon": 11.891326,
+   "farbe": "orange"
+  },
+  {
    "name": "Höhere Bundeslehranstalt für wirtschaftliche Berufe (die Schrödinger)",
    "strasse": "Schrödingerstraße 5",
    "plz": "8020",
    "ort": "Graz",
    "lat": 47.0791359,
    "lon": 15.4208852,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hölderlin Werkrealschule Lauffen a.N.",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.07206,
+   "lon": 9.141649,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hollenberg-Gymnasium Waldbröl",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.876366,
+   "lon": 7.607963,
+   "farbe": "orange"
+  },
+  {
+   "name": "Horneckschule Gundelsheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.28609,
+   "lon": 9.163139,
+   "farbe": "orange"
+  },
+  {
+   "name": "Hugo-Höfler-Realschule Breisach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.034184,
+   "lon": 7.591573,
+   "farbe": "orange"
+  },
+  {
+   "name": "IGS Edigheim Ludwigshafen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.529703,
+   "lon": 8.379642,
+   "farbe": "orange"
+  },
+  {
+   "name": "IGS Ernst Bloch Ludwigshafen (Strahlemann-Säule)",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.485446,
+   "lon": 8.366469,
+   "farbe": "orange"
+  },
+  {
+   "name": "IGS Mutterstadt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.439035,
+   "lon": 8.351969,
+   "farbe": "orange"
+  },
+  {
+   "name": "IGS Obere Aar Taunusstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.150762,
+   "lon": 8.156918,
+   "farbe": "orange"
+  },
+  {
+   "name": "IGS West Frankfurt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.10497,
+   "lon": 8.555101,
+   "farbe": "orange"
+  },
+  {
+   "name": "IGS Wilhelm-Leuschner-Schule Mainz-Kostheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.012136,
+   "lon": 8.294246,
+   "farbe": "orange"
+  },
+  {
+   "name": "Immanuel-Kant-Gymnasium Münster",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.900801,
+   "lon": 7.641498,
+   "farbe": "orange"
+  },
+  {
+   "name": "Jakob-Grimm-Schule Rotenburg an der Fulda",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.001147,
+   "lon": 9.716359,
+   "farbe": "orange"
+  },
+  {
+   "name": "Janusz-Korczak Gesamtschule Bottrop",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.526874,
+   "lon": 6.936477,
+   "farbe": "orange"
+  },
+  {
+   "name": "Janusz-Korczak-Gesamtschule Neuss",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.200568,
+   "lon": 6.685061,
+   "farbe": "orange"
+  },
+  {
+   "name": "Johann-Christian-Reinhart-Gymnasium Hof",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.306771,
+   "lon": 11.897802,
+   "farbe": "orange"
+  },
+  {
+   "name": "Johann-Peter-Hebel-Schule Singen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.745472,
+   "lon": 8.85302,
+   "farbe": "orange"
+  },
+  {
+   "name": "Johann-Rieder-Realschule Rosenheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.852986,
+   "lon": 12.132519,
+   "farbe": "orange"
+  },
+  {
+   "name": "Johann-Steingruber-Schule Staatliche Realschule Ansbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.314286,
+   "lon": 10.558405,
+   "farbe": "orange"
+  },
+  {
+   "name": "Johann-Winklhofer-Realschule Landsberg am Lech",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.052125,
+   "lon": 10.861535,
+   "farbe": "orange"
+  },
+  {
+   "name": "Johannes Kepler Realschule Wendlingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.667221,
+   "lon": 9.377436,
+   "farbe": "orange"
+  },
+  {
+   "name": "Johannes-Kepler-Gemeinschaftsschule Mannheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.492955,
+   "lon": 8.465914,
+   "farbe": "orange"
+  },
+  {
+   "name": "Josef-Eberle-Schule Rottenburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.472428,
+   "lon": 8.944128,
+   "farbe": "orange"
+  },
+  {
+   "name": "Julius-Leber-Schule Breisach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.035058,
+   "lon": 7.590322,
+   "farbe": "orange"
+  },
+  {
+   "name": "Julius-Motteler-Gymnasium Crimmitschau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.815106,
+   "lon": 12.382322,
    "farbe": "orange"
   },
   {
@@ -83,12 +2054,444 @@
    "farbe": "orange"
   },
   {
+   "name": "Justus-von-Liebig-Schule Göppingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.702958,
+   "lon": 9.632992,
+   "farbe": "orange"
+  },
+  {
+   "name": "Karl-Schiller-Berufskolleg Dortmund",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.51771,
+   "lon": 7.471433,
+   "farbe": "orange"
+  },
+  {
+   "name": "Katharina-Kepler-Schule Güglingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.070058,
+   "lon": 8.993561,
+   "farbe": "orange"
+  },
+  {
+   "name": "Katharina-von-Bora-Oberschule Torgau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.555733,
+   "lon": 13.004305,
+   "farbe": "orange"
+  },
+  {
+   "name": "Käthe Kollwitz Realschule Emsdetten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.176447,
+   "lon": 7.511403,
+   "farbe": "orange"
+  },
+  {
+   "name": "Käthe-Kollwitz-Gymnasium Dortmund",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.510134,
+   "lon": 7.472954,
+   "farbe": "orange"
+  },
+  {
+   "name": "Käthe-Kollwitz-Oberschule Crimmitschau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.815163,
+   "lon": 12.384463,
+   "farbe": "orange"
+  },
+  {
+   "name": "Kaufmännische Schule Stuttgart-Nord",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.797516,
+   "lon": 9.179026,
+   "farbe": "orange"
+  },
+  {
+   "name": "Kaufmännische Schulen 1 Villingen-Schwenningen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.053086,
+   "lon": 8.456459,
+   "farbe": "orange"
+  },
+  {
+   "name": "Kocherburgschule Aalen-Unterkochen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.81484,
+   "lon": 10.13996,
+   "farbe": "orange"
+  },
+  {
+   "name": "Königin-Mathilde-Gymnasium Herford",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.115946,
+   "lon": 8.689094,
+   "farbe": "orange"
+  },
+  {
+   "name": "Konrad-Adenauer-Realschule Roding",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.194385,
+   "lon": 12.521999,
+   "farbe": "orange"
+  },
+  {
+   "name": "Konrad-Adenauer-Schule Petersberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.565779,
+   "lon": 9.70188,
+   "farbe": "orange"
+  },
+  {
+   "name": "Konrad-Zuse-Schule Sekundarschule Langenberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.763417,
+   "lon": 8.319713,
+   "farbe": "orange"
+  },
+  {
+   "name": "Konzenbergschule Wurmlingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.003485,
+   "lon": 8.781558,
+   "farbe": "orange"
+  },
+  {
+   "name": "Kopernikus-Realschule Langenfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.11977,
+   "lon": 6.952955,
+   "farbe": "orange"
+  },
+  {
+   "name": "Kurpfalz-Realschule- Schriesheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.471716,
+   "lon": 8.656932,
+   "farbe": "orange"
+  },
+  {
+   "name": "Kurt-Tucholsky Gesamtschule Krefeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.321629,
+   "lon": 6.555439,
+   "farbe": "orange"
+  },
+  {
+   "name": "Lademann-Realschule Helmstedt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.226046,
+   "lon": 11.004804,
+   "farbe": "orange"
+  },
+  {
+   "name": "Landrat-Gruber-Schule Dieburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.897759,
+   "lon": 8.833522,
+   "farbe": "orange"
+  },
+  {
+   "name": "Lehngrund Oberschule Glauchau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.820932,
+   "lon": 12.545779,
+   "farbe": "orange"
+  },
+  {
+   "name": "Leibniz-Gymnasium Altdorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.389124,
+   "lon": 11.342395,
+   "farbe": "orange"
+  },
+  {
+   "name": "Lenneschule Altena/Nachrodt-Wiblingwerde - Standort Altena",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.295705,
+   "lon": 7.680337,
+   "farbe": "orange"
+  },
+  {
+   "name": "Lernhaus Ahorn Ahorn-Eubigheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.499482,
+   "lon": 9.544132,
+   "farbe": "orange"
+  },
+  {
+   "name": "Lessing-Oberschule Schkeuditz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.397204,
+   "lon": 12.216967,
+   "farbe": "orange"
+  },
+  {
+   "name": "Limesschule Idstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.213297,
+   "lon": 8.274123,
+   "farbe": "orange"
+  },
+  {
+   "name": "Linden-Realschule Stuttgart",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.777567,
+   "lon": 9.249388,
+   "farbe": "orange"
+  },
+  {
+   "name": "Lindenrainschule Ebhausen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.586448,
+   "lon": 8.679007,
+   "farbe": "orange"
+  },
+  {
+   "name": "Louis-Peter-Schule Korbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.273371,
+   "lon": 8.861373,
+   "farbe": "orange"
+  },
+  {
+   "name": "Löweneck Grund- und Mittelschule Augsburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.38217,
+   "lon": 10.883266,
+   "farbe": "orange"
+  },
+  {
+   "name": "Ludwig-Uhland Realschule Tuttlingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.981641,
+   "lon": 8.807527,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mädchenrealschule St. Josef Schwandorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.324268,
+   "lon": 12.114819,
+   "farbe": "orange"
+  },
+  {
    "name": "Mafalda feministische Jugendarbeit",
    "strasse": "Belgiergasse 3",
    "plz": "8020",
    "ort": "Graz",
    "lat": 47.0694891,
    "lon": 15.4337307,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mali-Gemeinschaftsschule Biberach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.093017,
+   "lon": 9.795902,
+   "farbe": "orange"
+  },
+  {
+   "name": "Margot Friedländer Gemeinschaftsschule Waghäusel",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.249044,
+   "lon": 8.519942,
+   "farbe": "orange"
+  },
+  {
+   "name": "Maria-Ward-Gymnasium Nürnberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.452599,
+   "lon": 11.090051,
+   "farbe": "orange"
+  },
+  {
+   "name": "Maria-Ward-Realschule und Gymnasium Nürnberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.452599,
+   "lon": 11.090051,
+   "farbe": "orange"
+  },
+  {
+   "name": "Maria-Ward-Schule Aschaffenburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.970035,
+   "lon": 9.152356,
+   "farbe": "orange"
+  },
+  {
+   "name": "Markgrafenschule Emmendingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.116652,
+   "lon": 7.856881,
+   "farbe": "orange"
+  },
+  {
+   "name": "Martin-Behaim-Schule Darmstadt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.885098,
+   "lon": 8.660112,
+   "farbe": "orange"
+  },
+  {
+   "name": "Martin-Luther-Europaschule Herten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.608896,
+   "lon": 7.0885,
+   "farbe": "orange"
+  },
+  {
+   "name": "Max-Planck-Schule Bad Krozingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.910594,
+   "lon": 7.697354,
+   "farbe": "orange"
+  },
+  {
+   "name": "Max-Reger-Gymnasium Amberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.4425,
+   "lon": 11.851924,
+   "farbe": "orange"
+  },
+  {
+   "name": "Max-Weber-Schule Kaufmännische Schule II Freiburg im Breisgau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.9994,
+   "lon": 7.831354,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mensa Audimax Schulverbund Obersberg Bad Hersfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.866417,
+   "lon": 9.729793,
+   "farbe": "orange"
+  },
+  {
+   "name": "Michael von Jung Schule Kirchdorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.073392,
+   "lon": 10.12891,
+   "farbe": "orange"
+  },
+  {
+   "name": "Michael-Ende-Gymnasium Tönisvorst",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.317577,
+   "lon": 6.485591,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelpunktschule Goddelsheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.195629,
+   "lon": 8.802568,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelpunktschule Trebur",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.92813,
+   "lon": 8.398,
    "farbe": "orange"
   },
   {
@@ -191,12 +2594,147 @@
    "farbe": "orange"
   },
   {
+   "name": "Mittelschule Altdorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.38358,
+   "lon": 11.345764,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Am Moos Neustadt bei Coburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.336352,
+   "lon": 11.115709,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule auf dem Lindenberg Kempten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.727439,
+   "lon": 10.328399,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule bei der Hofmühle Kempten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.7261,
+   "lon": 10.306106,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Burgthann",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.351633,
+   "lon": 11.311764,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Cadolzburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.46383,
+   "lon": 10.855,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Feucht",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.37863,
+   "lon": 11.205638,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Freilassing",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.844245,
+   "lon": 12.98386,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Fürstenfeldbruck West",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.170073,
+   "lon": 11.232542,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Georg-Holzbauer Nürnberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.402607,
+   "lon": 11.085893,
+   "farbe": "orange"
+  },
+  {
    "name": "Mittelschule Hanreitergasse",
    "strasse": "Hanreitergasse 2",
    "plz": "1210",
    "ort": "Wien",
    "lat": 48.2831449,
    "lon": 16.415076,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Hengersberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.776204,
+   "lon": 13.053371,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule I - Kunigundenschule Lauf a.d. Pegnitz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.516879,
+   "lon": 11.273416,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Langenzenn-Veitsbronn",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.481741,
+   "lon": 10.79706,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Lauf II - Bertleinschule Lauf a. d. Peg.",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.503097,
+   "lon": 11.281787,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Lochham Gräfelfing",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.125227,
+   "lon": 11.433975,
    "farbe": "orange"
   },
   {
@@ -218,12 +2756,174 @@
    "farbe": "orange"
   },
   {
+   "name": "Mittelschule Schnaittach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.555362,
+   "lon": 11.329772,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Seßlach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.189232,
+   "lon": 10.845058,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Sielenbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.401576,
+   "lon": 11.166336,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Soldnerstraße Fürth",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.478587,
+   "lon": 10.955267,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Wendelstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.354675,
+   "lon": 11.14796,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule Wiesentheid",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.795343,
+   "lon": 10.35012,
+   "farbe": "orange"
+  },
+  {
    "name": "Mittelschule Zams-Schönwies",
    "strasse": "Oberreitweg 26",
    "plz": "6511",
    "ort": "Zams",
    "lat": 47.158755,
    "lon": 10.5834888,
+   "farbe": "orange"
+  },
+  {
+   "name": "Modellschule Obersberg Bad Hersfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.866417,
+   "lon": 9.729793,
+   "farbe": "orange"
+  },
+  {
+   "name": "Montessori Gesamtschule Sendenhorst",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.840824,
+   "lon": 7.833738,
+   "farbe": "orange"
+  },
+  {
+   "name": "Montessori Schule Bamberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.890105,
+   "lon": 10.883782,
+   "farbe": "orange"
+  },
+  {
+   "name": "Montessorischule Rhön-Saale Münnerstadt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.245738,
+   "lon": 10.206706,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mörikeschule Nürtingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.625653,
+   "lon": 9.339582,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mozartschule Hussenhofen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.811622,
+   "lon": 9.861657,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mühlbachschule Ottweiler-Schiffweiler",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.401445,
+   "lon": 7.157558,
+   "farbe": "orange"
+  },
+  {
+   "name": "Münster-Mittelschule Hof",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.301139,
+   "lon": 11.913612,
+   "farbe": "orange"
+  },
+  {
+   "name": "Nebenius Realschule Karlsruhe",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.99675,
+   "lon": 8.406905,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neckar-Realschule Nürtingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.631922,
+   "lon": 9.332965,
+   "farbe": "orange"
+  },
+  {
+   "name": "Neckar-Realschule Stuttgart",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.798649,
+   "lon": 9.180569,
+   "farbe": "orange"
+  },
+  {
+   "name": "Nelson-Mandela-Gesamtschule Greven",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.089438,
+   "lon": 7.622674,
    "farbe": "orange"
   },
   {
@@ -308,6 +3008,222 @@
    "farbe": "orange"
   },
   {
+   "name": "Neurott-Gemeinschaftsschule Ketsch",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.374858,
+   "lon": 8.53508,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberland Realschule Holzkirchen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.883882,
+   "lon": 11.692925,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberschule \"Am Valtenberg\" Neukirch / Lausitz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.096226,
+   "lon": 14.305894,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberschule an der Elsteraue Kamenz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.277232,
+   "lon": 14.106044,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberschule Beilrode",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.573811,
+   "lon": 13.068793,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberschule Ihmelsstraße Leipzig",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.342112,
+   "lon": 12.413799,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberschule Markkleeberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.27888,
+   "lon": 12.36234,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberschule mit Grundschule C.F. Grabow Prenzlau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.299836,
+   "lon": 13.821826,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberschule Nordwest Torgau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.566104,
+   "lon": 12.963889,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberschule Rödertal Großröhrsdorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.142349,
+   "lon": 14.028262,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberstufenrealgymnasium mit Instrumentalunterricht",
+   "strasse": "Anton-Krieger-Gasse 25",
+   "plz": "1230",
+   "ort": "Wien",
+   "lat": 48.1404194,
+   "lon": 16.2791487,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oberstufenzentrum Uckermark Prenzlau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.331391,
+   "lon": 13.894334,
+   "farbe": "orange"
+  },
+  {
+   "name": "OBS Bösel",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.006239,
+   "lon": 7.95994,
+   "farbe": "orange"
+  },
+  {
+   "name": "Ostendorfer Gymnasium Neumarkt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.282389,
+   "lon": 11.453214,
+   "farbe": "orange"
+  },
+  {
+   "name": "Osterfeld Realschule Pforzheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.893139,
+   "lon": 8.687633,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oswald-von-Nell-Breuning-Berufskolleg Coesfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.940781,
+   "lon": 7.168475,
+   "farbe": "orange"
+  },
+  {
+   "name": "Oswald-von-Nell-Breuning-Schule, Abteilung 3, Offenbach am Main",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.080609,
+   "lon": 8.750971,
+   "farbe": "orange"
+  },
+  {
+   "name": "Otto-Lilienthal Realschule Wilhelmsdorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.868294,
+   "lon": 9.422564,
+   "farbe": "orange"
+  },
+  {
+   "name": "Otto-Lilienthal-Realschule Köln",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.864725,
+   "lon": 7.088298,
+   "farbe": "orange"
+  },
+  {
+   "name": "Parkschule Stadtbergen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.365163,
+   "lon": 10.849297,
+   "farbe": "orange"
+  },
+  {
+   "name": "Paul-Robeson-Schule Leipzig",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.383258,
+   "lon": 12.321596,
+   "farbe": "orange"
+  },
+  {
+   "name": "Pestalozzi-Mittelschule Oberasbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.427617,
+   "lon": 10.971257,
+   "farbe": "orange"
+  },
+  {
+   "name": "Pestalozzi-Realschule Bochum",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.477281,
+   "lon": 7.150238,
+   "farbe": "orange"
+  },
+  {
+   "name": "Philipp-Reis-Schule Gelnhausen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.201281,
+   "lon": 9.187383,
+   "farbe": "orange"
+  },
+  {
    "name": "Polytechnische Schule",
    "strasse": "Spitalstraße 33",
    "plz": "7350",
@@ -326,12 +3242,48 @@
    "farbe": "orange"
   },
   {
+   "name": "Praxisorientierte Grund- und Oberschule \"Germanus Theiss\" Döbern",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.617539,
+   "lon": 14.602326,
+   "farbe": "orange"
+  },
+  {
+   "name": "Private Montessori Schule Bayreuth",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.953928,
+   "lon": 11.581122,
+   "farbe": "orange"
+  },
+  {
    "name": "Private PTS Schule St. Marien",
    "strasse": "Liniengasse 21",
    "plz": "1060",
    "ort": "Wien",
    "lat": 48.1922446,
    "lon": 16.3444111,
+   "farbe": "orange"
+  },
+  {
+   "name": "Private Schulen Breitschaft Regensburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.018236,
+   "lon": 12.099028,
+   "farbe": "orange"
+  },
+  {
+   "name": "Privatgymnasium Stadtkrone Dortmund",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.499204,
+   "lon": 7.5232,
    "farbe": "orange"
   },
   {
@@ -353,6 +3305,537 @@
    "farbe": "orange"
   },
   {
+   "name": "Realschule am Europakanal Erlangen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.599108,
+   "lon": 10.977844,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule am Judenstein Regensburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.020662,
+   "lon": 12.086082,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule am oberen Schloss Siegen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.875259,
+   "lon": 8.027773,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Arnstorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.553046,
+   "lon": 12.809073,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Bildungszentrum Weissacher Tal",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.92111,
+   "lon": 9.486502,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Eberbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.479093,
+   "lon": 8.994169,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Gosheim-Wehingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.142975,
+   "lon": 8.77185,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Hechingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.356194,
+   "lon": 8.960324,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Horb",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.453001,
+   "lon": 8.690713,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule im Schulzentrum Nord Bad Oeynhausen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.218263,
+   "lon": 8.792902,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Markgröningen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.901729,
+   "lon": 9.081618,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Meßstetten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.185614,
+   "lon": 8.97102,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Neuffen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.550476,
+   "lon": 9.372311,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Obrigheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.354413,
+   "lon": 9.094921,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Öhringen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.196068,
+   "lon": 9.513485,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule plus Idar-Oberstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.696282,
+   "lon": 7.325199,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule plus Kusel",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.531356,
+   "lon": 7.399786,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule plus Rheinbrohl - Römerwall-Schule",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.504421,
+   "lon": 7.32531,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Rottweil",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.160402,
+   "lon": 8.624103,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule St. Martin Sendenhorst",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.845686,
+   "lon": 7.818236,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Tegernseer Tal Gmund",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.75388,
+   "lon": 11.727198,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Tiengen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.630005,
+   "lon": 8.272474,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Wallenhorst",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.347244,
+   "lon": 8.015216,
+   "farbe": "orange"
+  },
+  {
+   "name": "Realschule Wehr",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.637023,
+   "lon": 7.902804,
+   "farbe": "orange"
+  },
+  {
+   "name": "Recknitz Campus Laage",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.9219,
+   "lon": 12.347987,
+   "farbe": "orange"
+  },
+  {
+   "name": "Regenbogen-Gesamtschule Spenge",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.143987,
+   "lon": 8.486823,
+   "farbe": "orange"
+  },
+  {
+   "name": "Regionale Schule Burg Stargard",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.493023,
+   "lon": 13.318118,
+   "farbe": "orange"
+  },
+  {
+   "name": "Regionale Schule J.W.v.Goethe Parchim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.419271,
+   "lon": 11.839324,
+   "farbe": "orange"
+  },
+  {
+   "name": "Reichenbach-Gymnasium Ennepetal",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.301319,
+   "lon": 7.358055,
+   "farbe": "orange"
+  },
+  {
+   "name": "Reinhold-Frank-Schulzentrum Ostrachtal",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.951184,
+   "lon": 9.369049,
+   "farbe": "orange"
+  },
+  {
+   "name": "Reischachschule Realschule und Werkrealschule Immendingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.94095,
+   "lon": 8.729889,
+   "farbe": "orange"
+  },
+  {
+   "name": "Richard-von-Weizsäcker-Gesamtschule der Stadt Rietberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.809607,
+   "lon": 8.431138,
+   "farbe": "orange"
+  },
+  {
+   "name": "Riedbachschule Steinheim an der Murr, GMS",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.970965,
+   "lon": 9.272058,
+   "farbe": "orange"
+  },
+  {
+   "name": "Robert-Schmidt-Berufskolleg Essen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.443085,
+   "lon": 7.025835,
+   "farbe": "orange"
+  },
+  {
+   "name": "Robert-Schuman-Realschule Waldshut-Tiengen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.626189,
+   "lon": 8.215534,
+   "farbe": "orange"
+  },
+  {
+   "name": "Rückert-Mittelschule Coburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.260156,
+   "lon": 10.960632,
+   "farbe": "orange"
+  },
+  {
+   "name": "Rudolf-Wihr-Realschule plus Limburgerhof",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.422403,
+   "lon": 8.40268,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sahnschule Crimmitschau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.827008,
+   "lon": 12.386358,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schillerschule Onstmettingen Albstadt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.281053,
+   "lon": 8.997448,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schule am Weißeplatz - Oberschule der Stadt Leipzig",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.321529,
+   "lon": 12.420142,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schule Ratzelstraße Leipzig",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.315286,
+   "lon": 12.30537,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schulen der Brede Brakel",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.72029,
+   "lon": 9.179757,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schulungszentrum Rureifel Düren",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.795266,
+   "lon": 6.46637,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schulverbund Oberndorf am Neckar",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.291376,
+   "lon": 8.572324,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schulzentrum an der Warte Waldeck",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.24476,
+   "lon": 8.998132,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schulzentrum Rudersberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.88888,
+   "lon": 9.533861,
+   "farbe": "orange"
+  },
+  {
+   "name": "Schulzentrum Stetten a.k.M.",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.121515,
+   "lon": 9.074768,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sechslindenschule GWRS (Pfullendorf)",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.918998,
+   "lon": 9.255247,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sekundarschule \"Adolf Diesterweg\" Stendal",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.609697,
+   "lon": 11.862191,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sekundarschule Beetzendorf-Dähre",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.69858,
+   "lon": 11.086305,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sekundarschule Kreuzau/Nideggen Nideggen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.6971,
+   "lon": 6.480651,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sekundarschule Kreuzau/Nideggen Standort Kreuzau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.745106,
+   "lon": 6.484839,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sekundarschule Radevormwald",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.203916,
+   "lon": 7.34882,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sekundarschule Sassenberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.996688,
+   "lon": 8.044344,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sichelschule Balingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.274261,
+   "lon": 8.8479,
+   "farbe": "orange"
+  },
+  {
+   "name": "Silverberg-Gymnasium Bedburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.987891,
+   "lon": 6.56617,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sir-William-Herschel-Mittelschule-Ingolstadt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.775712,
+   "lon": 11.399947,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sophie-Scholl-Gesamtschule Remscheid",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.182055,
+   "lon": 7.219404,
+   "farbe": "orange"
+  },
+  {
+   "name": "Sophie-Scholl-Realschule Weiden i.d.OPf.",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.672949,
+   "lon": 12.163001,
+   "farbe": "orange"
+  },
+  {
    "name": "Sportmittelschule",
    "strasse": "Am Kaisermühlendamm 2",
    "plz": "1220",
@@ -362,12 +3845,633 @@
    "farbe": "orange"
   },
   {
+   "name": "SportOberschule Stadt Leipzig",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.344996,
+   "lon": 12.354692,
+   "farbe": "orange"
+  },
+  {
+   "name": "St. Bernhard Gymnasium Willich",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.246269,
+   "lon": 6.517296,
+   "farbe": "orange"
+  },
+  {
+   "name": "St. Martin Mittelschule Mallersdorf-Pfaffenberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.773009,
+   "lon": 12.235817,
+   "farbe": "orange"
+  },
+  {
+   "name": "St. Stephanus-Realschule plus Nachtsheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.31635,
+   "lon": 7.060202,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Fach- und Berufsoberschule Marktredwitz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.007467,
+   "lon": 12.091047,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche FOS/BOS Ansbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.30327,
+   "lon": 10.572055,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Gesamtschule Hollfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.94183,
+   "lon": 11.291007,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule an der Salzstraße Kempten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.725941,
+   "lon": 10.310254,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Coburg 1",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.254311,
+   "lon": 10.974332,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Feucht",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.375501,
+   "lon": 11.204078,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Freiham München",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.140589,
+   "lon": 11.404136,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule für Knaben Neumarkt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.281263,
+   "lon": 11.469969,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Furth im Wald",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.306306,
+   "lon": 12.841752,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Kronach I",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.235859,
+   "lon": 11.337986,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Marktheidenfeld",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.848065,
+   "lon": 9.609587,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Neustadt bei Coburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.333773,
+   "lon": 11.127361,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Schöllnach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.755922,
+   "lon": 13.175739,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Realschule Selb",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.162069,
+   "lon": 12.136729,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Wirtschaftsschule Deggendorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.846368,
+   "lon": 12.952336,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Wirtschaftsschule Hof",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.317284,
+   "lon": 11.912375,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliche Wirtschaftsschule Passau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.566709,
+   "lon": 13.436768,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staatliches BSZ Lauf a.d. Pegnitz",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.513415,
+   "lon": 11.266465,
+   "farbe": "orange"
+  },
+  {
+   "name": "Städt. Gymnasium Marianum Warburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.487143,
+   "lon": 9.14895,
+   "farbe": "orange"
+  },
+  {
+   "name": "Städtische Gesamtschule Aspe Bad Salzuflen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.064053,
+   "lon": 8.733442,
+   "farbe": "orange"
+  },
+  {
+   "name": "Städtische Gesamtschule Harsewinkel",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.962227,
+   "lon": 8.219644,
+   "farbe": "orange"
+  },
+  {
+   "name": "Städtische Realschule Heiligenhaus",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.330935,
+   "lon": 6.972721,
+   "farbe": "orange"
+  },
+  {
+   "name": "Städtische Realschule Hückeswagen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.14427,
+   "lon": 7.332114,
+   "farbe": "orange"
+  },
+  {
+   "name": "Städtische Sekundarschule Rahden",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.436904,
+   "lon": 8.617959,
+   "farbe": "orange"
+  },
+  {
+   "name": "Städtisches Gymnasium Delbrück",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.766109,
+   "lon": 8.559149,
+   "farbe": "orange"
+  },
+  {
+   "name": "Staufeneckschule Salach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.69361,
+   "lon": 9.746265,
+   "farbe": "orange"
+  },
+  {
+   "name": "Stemweder-Berg-Schule Stemwede",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 52.434498,
+   "lon": 8.461377,
+   "farbe": "orange"
+  },
+  {
+   "name": "Stettenfelsschule Untergruppenbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.094189,
+   "lon": 9.276552,
+   "farbe": "orange"
+  },
+  {
+   "name": "StS Richard-Linde-Weg Hamburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.500178,
+   "lon": 10.189435,
+   "farbe": "orange"
+  },
+  {
+   "name": "Südringgauschule Herleshausen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.006919,
+   "lon": 10.164255,
+   "farbe": "orange"
+  },
+  {
+   "name": "Tännichtschule Oberschule Meerane",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.848696,
+   "lon": 12.4573,
+   "farbe": "orange"
+  },
+  {
+   "name": "Taunusschule Bad Camberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.300013,
+   "lon": 8.267505,
+   "farbe": "orange"
+  },
+  {
+   "name": "Theodor-Frey-Schule Eberbach",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.465245,
+   "lon": 8.978074,
+   "farbe": "orange"
+  },
+  {
+   "name": "Theodor-Heuss-Gymnasium Radevormwald",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.206579,
+   "lon": 7.346242,
+   "farbe": "orange"
+  },
+  {
+   "name": "Theodor-Heuss-Gymnasium Waltrop",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.61998,
+   "lon": 7.399184,
+   "farbe": "orange"
+  },
+  {
+   "name": "Theodor-Heuss-Schule Baunatal",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.257178,
+   "lon": 9.410141,
+   "farbe": "orange"
+  },
+  {
+   "name": "Therese-Giehse-Realschule Unterschleißheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.26992,
+   "lon": 11.583641,
+   "farbe": "orange"
+  },
+  {
+   "name": "Tobias-Mayer-Gemeinschaftsschule Marbach am Neckar",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.935382,
+   "lon": 9.264577,
+   "farbe": "orange"
+  },
+  {
+   "name": "Turley-Oberschule Oelsnitz-Erzgebirge",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.724756,
+   "lon": 12.724444,
+   "farbe": "orange"
+  },
+  {
+   "name": "Turmbergschule Weingarten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.051089,
+   "lon": 8.529972,
+   "farbe": "orange"
+  },
+  {
+   "name": "UNESCO-Gesamtschule Kamp-Lintfort",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.49872,
+   "lon": 6.571405,
+   "farbe": "orange"
+  },
+  {
+   "name": "Verbandsschule im Biet Neuhausen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.810722,
+   "lon": 8.785454,
+   "farbe": "orange"
+  },
+  {
+   "name": "Waldschule Degerloch Stuttgart",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.750787,
+   "lon": 9.185631,
+   "farbe": "orange"
+  },
+  {
+   "name": "Walter-Gropius-Gymnasium Selb",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.162734,
+   "lon": 12.137498,
+   "farbe": "orange"
+  },
+  {
+   "name": "Walterichschule GMS Murrhardt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.979743,
+   "lon": 9.575637,
+   "farbe": "orange"
+  },
+  {
+   "name": "Walther-Hensel-Schule Göppingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.70859,
+   "lon": 9.671722,
+   "farbe": "orange"
+  },
+  {
+   "name": "Weiherhof-Realschule Freiburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.006142,
+   "lon": 7.861849,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wentzinger Realschule Freiburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.013873,
+   "lon": 7.82391,
+   "farbe": "orange"
+  },
+  {
+   "name": "Werdenbergschule Trochtelfingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.309785,
+   "lon": 9.237418,
+   "farbe": "orange"
+  },
+  {
+   "name": "Werkrealschule Lenningen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.550857,
+   "lon": 9.476249,
+   "farbe": "orange"
+  },
+  {
+   "name": "Werner-Heisenberg-Gymnasium Göppingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.699584,
+   "lon": 9.64761,
+   "farbe": "orange"
+  },
+  {
    "name": "Wiener Mittelschule",
    "strasse": "Kleine Sperlgasse 2a",
    "plz": "1020",
    "ort": "Wien",
    "lat": 48.2152961,
    "lon": 16.3776767,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wiestorschule Überlingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.769765,
+   "lon": 9.162477,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wilhelm-Adolph-von-Trützschler Oberschule Falkenstein",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.474772,
+   "lon": 12.364528,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wilhelm-Ganzhorn-Schulen Straubenhardt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.846124,
+   "lon": 8.529085,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wilhelm-Keil-Gemeinschaftsschule Remseck am Neckar",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.859745,
+   "lon": 9.251024,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wilhelmsschule Wangen GWRS Stuttgart-Hedelfingen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.754332,
+   "lon": 9.252733,
+   "farbe": "orange"
+  },
+  {
+   "name": "Willibald-Gluck-Gymnasium Neumarkt",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.281843,
+   "lon": 11.44962,
+   "farbe": "orange"
+  },
+  {
+   "name": "Willy-Brandt-Gesamtschule Übach-Palenberg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.920119,
+   "lon": 6.108013,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wittelsbacherschule Mittelschule Kempten",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.725921,
+   "lon": 10.309435,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wolffskeel-Realschule Würzburg",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.813303,
+   "lon": 9.964763,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wolfgang-Borchert-Gesamtschule Recklinghausen",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 51.624351,
+   "lon": 7.189062,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wolfgang-Borchert-Gymnasium Langenzenn",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.492423,
+   "lon": 10.780039,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wollenbergschule Wetter",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.897152,
+   "lon": 8.724198,
+   "farbe": "orange"
+  },
+  {
+   "name": "Wümmeschule Ottersberg Oberschule",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 53.110807,
+   "lon": 9.137849,
+   "farbe": "orange"
+  },
+  {
+   "name": "Zentralschule Harrislee",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 54.805089,
+   "lon": 9.393505,
    "farbe": "orange"
   }
  ]
