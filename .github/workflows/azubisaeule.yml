@@ -1,0 +1,40 @@
+name: Azubisäule-Schulen aktualisieren
+
+# Holt einmal pro Woche (Montag frueh) die Schulen von der Azubisäule-Karte.
+on:
+  schedule:
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aktualisieren:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Projekt holen
+        uses: actions/checkout@v4
+
+      - name: Node einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Schulen von azubisaeule.de holen
+        run: node azubisaeule.js
+
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "Schulkarte"
+          git config user.email "actions@github.com"
+          git add azubisaeule.json
+          if git diff --staged --quiet; then
+            echo "Keine Aenderung."
+          else
+            git commit -m "Azubisäule-Schulen aktualisiert"
+            git pull --rebase
+            git push
+          fi
