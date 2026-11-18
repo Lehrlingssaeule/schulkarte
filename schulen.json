@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-18T10:33:31.953Z",
+ "stand": "2026-11-18T19:18:07.912Z",
  "schulen": [
   {
    "name": "Aartalschule Aarbergen",
@@ -3221,6 +3221,15 @@
    "ort": null,
    "lat": 50.20128,
    "lon": 9.18738,
+   "farbe": "orange"
+  },
+  {
+   "name": "Polytechnische Schule",
+   "strasse": "Kirchenplatz 9",
+   "plz": "2230",
+   "ort": "Gänserndorf",
+   "lat": 48.3427641,
+   "lon": 16.7207193,
    "farbe": "orange"
   },
   {
