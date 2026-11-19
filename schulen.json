@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T09:17:53.888Z",
+ "stand": "2026-11-19T12:13:05.061Z",
  "schulen": [
   {
    "name": "Aartalschule Aarbergen",
@@ -3248,6 +3248,15 @@
    "ort": "Oberpullendorf",
    "lat": 47.5054884,
    "lon": 16.506816,
+   "farbe": "orange"
+  },
+  {
+   "name": "Polytechnische Schule",
+   "strasse": "Augustinerweg 4/1",
+   "plz": "9100",
+   "ort": "Völkermarkt",
+   "lat": 46.662104,
+   "lon": 14.632028,
    "farbe": "orange"
   },
   {
