@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T22:24:40.642Z",
+ "stand": "2026-11-22T22:26:11.533Z",
  "schulen": [
   {
    "name": "Aartalschule Aarbergen",
@@ -53,15 +53,6 @@
    "ort": "Innsbruck",
    "lat": 47.2680098,
    "lon": 11.3978221,
-   "farbe": "orange"
-  },
-  {
-   "name": "Akademisches Gymnasium",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.26808,
-   "lon": 11.39741,
    "farbe": "orange"
   },
   {
@@ -179,42 +170,6 @@
    "ort": "Groß-Siegharts",
    "lat": 48.7906669,
    "lon": 15.4065414,
-   "farbe": "orange"
-  },
-  {
-   "name": "Allgemeine Sonderschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.17831,
-   "lon": 16.32523,
-   "farbe": "orange"
-  },
-  {
-   "name": "Allgemeine Sonderschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.23021,
-   "lon": 16.34843,
-   "farbe": "orange"
-  },
-  {
-   "name": "Allgemeine Sonderschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.9698,
-   "lon": 16.21678,
-   "farbe": "orange"
-  },
-  {
-   "name": "Allgemeine Sonderschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.79065,
-   "lon": 15.40656,
    "farbe": "orange"
   },
   {
@@ -434,15 +389,6 @@
    "farbe": "orange"
   },
   {
-   "name": "BG, BRG, BWRG",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.15043,
-   "lon": 16.31459,
-   "farbe": "orange"
-  },
-  {
    "name": "Blanc-und-Fischer-Gemeinschaftsschule Sulzfeld",
    "strasse": null,
    "plz": null,
@@ -485,15 +431,6 @@
    "ort": "Wien",
    "lat": 48.1674879,
    "lon": 16.375773,
-   "farbe": "orange"
-  },
-  {
-   "name": "Bundesgymnasium (Ettenreichgasse 41-43)",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.16777,
-   "lon": 16.37425,
    "farbe": "orange"
   },
   {
@@ -1919,15 +1856,6 @@
    "farbe": "orange"
   },
   {
-   "name": "Höhere Bundeslehranstalt für wirtschaftliche Berufe (die Schrödinger)",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.07914,
-   "lon": 15.42089,
-   "farbe": "orange"
-  },
-  {
    "name": "Hölderlin Werkrealschule Lauffen a.N.",
    "strasse": null,
    "plz": null,
@@ -2159,15 +2087,6 @@
    "ort": "Wien",
    "lat": 48.2261945,
    "lon": 16.4574219,
-   "farbe": "orange"
-  },
-  {
-   "name": "Junior High School",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.2266,
-   "lon": 16.45696,
    "farbe": "orange"
   },
   {
@@ -2468,15 +2387,6 @@
    "farbe": "orange"
   },
   {
-   "name": "Mafalda feministische Jugendarbeit",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.06949,
-   "lon": 15.43373,
-   "farbe": "orange"
-  },
-  {
    "name": "Mali-Gemeinschaftsschule Biberach",
    "strasse": null,
    "plz": null,
@@ -2702,87 +2612,6 @@
    "farbe": "orange"
   },
   {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.18275,
-   "lon": 16.36145,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.15174,
-   "lon": 16.37097,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.16543,
-   "lon": 16.38588,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.1726,
-   "lon": 16.37586,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.13953,
-   "lon": 16.39742,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.2338,
-   "lon": 11.27668,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.71034,
-   "lon": 16.51461,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.49747,
-   "lon": 16.51143,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 46.91541,
-   "lon": 12.32997,
-   "farbe": "orange"
-  },
-  {
    "name": "Mittelschule 10 (Löwenfeldschule)",
    "strasse": "Zeppelinstraße 44",
    "plz": "4020",
@@ -2792,30 +2621,12 @@
    "farbe": "orange"
   },
   {
-   "name": "Mittelschule 10 (Löwenfeldschule)",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.25469,
-   "lon": 14.31508,
-   "farbe": "orange"
-  },
-  {
    "name": "Mittelschule 2",
    "strasse": "Waidhoferstraße 2",
    "plz": "4320",
    "ort": "Perg",
    "lat": 48.2408785,
    "lon": 14.6381357,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule 2",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.24086,
-   "lon": 14.63804,
    "farbe": "orange"
   },
   {
@@ -2918,15 +2729,6 @@
    "farbe": "orange"
   },
   {
-   "name": "Mittelschule Hanreitergasse",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.28485,
-   "lon": 16.41,
-   "farbe": "orange"
-  },
-  {
    "name": "Mittelschule Hengersberg",
    "strasse": null,
    "plz": null,
@@ -2981,30 +2783,12 @@
    "farbe": "orange"
   },
   {
-   "name": "Mittelschule mit angeschlossene Fachmittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.29014,
-   "lon": 16.38344,
-   "farbe": "orange"
-  },
-  {
    "name": "Mittelschule Reichenau",
    "strasse": "Burghard-Breitner-Straße 22",
    "plz": "6020",
    "ort": "Innsbruck",
    "lat": 47.2731553,
    "lon": 11.4255177,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule Reichenau",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.27322,
-   "lon": 11.42548,
    "farbe": "orange"
   },
   {
@@ -3068,15 +2852,6 @@
    "ort": "Zams",
    "lat": 47.158755,
    "lon": 10.5834888,
-   "farbe": "orange"
-  },
-  {
-   "name": "Mittelschule Zams-Schönwies",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.1586,
-   "lon": 10.58346,
    "farbe": "orange"
   },
   {
@@ -3251,69 +3026,6 @@
    "farbe": "orange"
   },
   {
-   "name": "Neue Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.34522,
-   "lon": 15.91121,
-   "farbe": "orange"
-  },
-  {
-   "name": "Neue Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.28212,
-   "lon": 12.48445,
-   "farbe": "orange"
-  },
-  {
-   "name": "Neue Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.23246,
-   "lon": 11.87942,
-   "farbe": "orange"
-  },
-  {
-   "name": "Neue Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.5056,
-   "lon": 12.19471,
-   "farbe": "orange"
-  },
-  {
-   "name": "Neue Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.27355,
-   "lon": 11.19245,
-   "farbe": "orange"
-  },
-  {
-   "name": "Neue Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.36308,
-   "lon": 9.68592,
-   "farbe": "orange"
-  },
-  {
-   "name": "Neue Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.43736,
-   "lon": 9.66299,
-   "farbe": "orange"
-  },
-  {
    "name": "Neue Mittelschule 1",
    "strasse": "Hubert-Danzl-Platz 1",
    "plz": "6130",
@@ -3323,30 +3035,12 @@
    "farbe": "orange"
   },
   {
-   "name": "Neue Mittelschule 1",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.34954,
-   "lon": 11.70856,
-   "farbe": "orange"
-  },
-  {
    "name": "Neue Mittelschule I",
    "strasse": "Schulgasse 16",
    "plz": "8530",
    "ort": "Deutschlandsberg",
    "lat": 46.8160326,
    "lon": 15.2128556,
-   "farbe": "orange"
-  },
-  {
-   "name": "Neue Mittelschule I",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 46.81599,
-   "lon": 15.21239,
    "farbe": "orange"
   },
   {
@@ -3446,15 +3140,6 @@
    "ort": "Wien",
    "lat": 48.1404194,
    "lon": 16.2791487,
-   "farbe": "orange"
-  },
-  {
-   "name": "Oberstufenrealgymnasium mit Instrumentalunterricht",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.14068,
-   "lon": 16.27958,
    "farbe": "orange"
   },
   {
@@ -3620,66 +3305,12 @@
    "farbe": "orange"
   },
   {
-   "name": "Polytechnische Schule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.34279,
-   "lon": 16.72073,
-   "farbe": "orange"
-  },
-  {
-   "name": "Polytechnische Schule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.96076,
-   "lon": 16.09391,
-   "farbe": "orange"
-  },
-  {
-   "name": "Polytechnische Schule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.50543,
-   "lon": 16.50667,
-   "farbe": "orange"
-  },
-  {
-   "name": "Polytechnische Schule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.52537,
-   "lon": 14.36471,
-   "farbe": "orange"
-  },
-  {
-   "name": "Polytechnische Schule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 46.66164,
-   "lon": 14.63183,
-   "farbe": "orange"
-  },
-  {
    "name": "Polytechnische Schule Urfahr",
    "strasse": "Hinsenkampplatz 3",
    "plz": "4040",
    "ort": "Linz",
    "lat": 48.3116458,
    "lon": 14.2831566,
-   "farbe": "orange"
-  },
-  {
-   "name": "Polytechnische Schule Urfahr",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.31203,
-   "lon": 14.28329,
    "farbe": "orange"
   },
   {
@@ -3710,15 +3341,6 @@
    "farbe": "orange"
   },
   {
-   "name": "Private PTS Schule St. Marien",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.19226,
-   "lon": 16.34435,
-   "farbe": "orange"
-  },
-  {
    "name": "Private Schulen Breitschaft Regensburg",
    "strasse": null,
    "plz": null,
@@ -3746,30 +3368,12 @@
    "farbe": "orange"
   },
   {
-   "name": "Privatschule SPS - St. Peter Sportschule der IFF Bildungs GmbH",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 47.05612,
-   "lon": 15.46929,
-   "farbe": "orange"
-  },
-  {
    "name": "PTS/FMS Wien West",
    "strasse": "Schopenhauerstraße 81",
    "plz": null,
    "ort": null,
    "lat": 48.2264669,
    "lon": 16.3346365,
-   "farbe": "orange"
-  },
-  {
-   "name": "PTS/FMS Wien West",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.22648,
-   "lon": 16.3346,
    "farbe": "orange"
   },
   {
@@ -4331,15 +3935,6 @@
    "farbe": "orange"
   },
   {
-   "name": "Sportmittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.22663,
-   "lon": 16.41906,
-   "farbe": "orange"
-  },
-  {
    "name": "SportOberschule Stadt Leipzig",
    "strasse": null,
    "plz": null,
@@ -4841,15 +4436,6 @@
    "ort": "Wien",
    "lat": 48.2152961,
    "lon": 16.3776767,
-   "farbe": "orange"
-  },
-  {
-   "name": "Wiener Mittelschule",
-   "strasse": null,
-   "plz": null,
-   "ort": null,
-   "lat": 48.21563,
-   "lon": 16.37743,
    "farbe": "orange"
   },
   {
