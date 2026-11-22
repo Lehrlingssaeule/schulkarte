@@ -59,6 +59,7 @@ async function main() {
   const roh = Array.isArray(daten) ? daten : daten.schulen ?? [];
   const schulen = [];
   for (const s of roh) {
+    if (String(s.land ?? "").toUpperCase() === "AT") continue; // AT-Schulen kommen schon aus Pipedrive
     const lat = Number(s.lat);
     const lon = Number(s.lng ?? s.lon);
     if (!s.name || !Number.isFinite(lat) || !Number.isFinite(lon)) continue;
