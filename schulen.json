@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T02:59:57.802Z",
+ "stand": "2026-11-23T12:16:13.204Z",
  "schulen": [
   {
    "name": "Aartalschule Aarbergen",
@@ -3270,11 +3270,29 @@
   },
   {
    "name": "Polytechnische Schule",
+   "strasse": "Raiffeisengürtel 39 - 41",
+   "plz": "2460",
+   "ort": "Bruck an der Leitha",
+   "lat": 48.0260312,
+   "lon": 16.7757602,
+   "farbe": "orange"
+  },
+  {
+   "name": "Polytechnische Schule",
    "strasse": "Hainfelder Straße 24",
    "plz": "2563",
    "ort": "Pottenstein",
    "lat": 47.961075,
    "lon": 16.0943038,
+   "farbe": "orange"
+  },
+  {
+   "name": "Polytechnische Schule",
+   "strasse": "Gymnasiumstraße 4",
+   "plz": "3830",
+   "ort": "Waidhofen an der Thaya",
+   "lat": 48.812873,
+   "lon": 15.283611,
    "farbe": "orange"
   },
   {
