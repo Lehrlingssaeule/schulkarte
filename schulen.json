@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T04:01:34.910Z",
+ "stand": "2026-11-25T14:50:20.741Z",
  "schulen": [
   {
    "name": "Aartalschule Aarbergen",
@@ -2604,6 +2604,15 @@
   },
   {
    "name": "Mittelschule",
+   "strasse": "Feldbacher Straße 166",
+   "plz": "8311",
+   "ort": "Markt Hartmannsdorf",
+   "lat": 47.0534674,
+   "lon": 15.8413429,
+   "farbe": "orange"
+  },
+  {
+   "name": "Mittelschule",
    "strasse": "Unterrotte 99",
    "plz": null,
    "ort": null,
@@ -4364,6 +4373,15 @@
    "ort": null,
    "lat": 48.81072,
    "lon": 8.78545,
+   "farbe": "orange"
+  },
+  {
+   "name": "Volksschule, Mittelschule und Polytechnische Schule für gehörlose und schwerhörige Kinder (Josef Rehrl Schule)",
+   "strasse": "Gailenbachweg 3",
+   "plz": "5020",
+   "ort": "Salzburg",
+   "lat": 47.8094237,
+   "lon": 13.023182,
    "farbe": "orange"
   },
   {
