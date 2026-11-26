@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-26T07:42:44.671Z",
+ "stand": "2026-11-26T18:16:05.723Z",
  "schulen": [
   {
    "name": "Aartalschule Aarbergen",
@@ -1856,6 +1856,15 @@
    "farbe": "orange"
   },
   {
+   "name": "Höhere technische Bundeslehr- und Versuchsanstalt",
+   "strasse": "Negrellistraße 50",
+   "plz": "6830",
+   "ort": "Rankweil",
+   "lat": 47.2718742,
+   "lon": 9.6311846,
+   "farbe": "orange"
+  },
+  {
    "name": "Hölderlin Werkrealschule Lauffen a.N.",
    "strasse": null,
    "plz": null,
@@ -3035,6 +3044,15 @@
    "farbe": "orange"
   },
   {
+   "name": "Neue Mittelschule",
+   "strasse": "Franz Reiter-Straße 19",
+   "plz": "6973",
+   "ort": "Höchst",
+   "lat": 47.46238,
+   "lon": 9.6353033,
+   "farbe": "orange"
+  },
+  {
    "name": "Neue Mittelschule 1",
    "strasse": "Hubert-Danzl-Platz 1",
    "plz": "6130",
@@ -3270,6 +3288,15 @@
   },
   {
    "name": "Polytechnische Schule",
+   "strasse": "Kornhergasse 1",
+   "plz": "2020",
+   "ort": "Hollabrunn",
+   "lat": 48.5598487,
+   "lon": 16.0771656,
+   "farbe": "orange"
+  },
+  {
+   "name": "Polytechnische Schule",
    "strasse": "Kirchenplatz 9",
    "plz": "2230",
    "ort": "Gänserndorf",
@@ -3302,6 +3329,15 @@
    "ort": "Waidhofen an der Thaya",
    "lat": 48.812873,
    "lon": 15.283611,
+   "farbe": "orange"
+  },
+  {
+   "name": "Polytechnische Schule",
+   "strasse": "Lustenauerstraße 17a",
+   "plz": "6850",
+   "ort": "Dornbirn",
+   "lat": 47.4061888,
+   "lon": 9.7372738,
    "farbe": "orange"
   },
   {
