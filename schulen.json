@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27T01:52:52.507Z",
+ "stand": "2026-11-27T10:40:58.152Z",
  "schulen": [
   {
    "name": "Aartalschule Aarbergen",
@@ -71,6 +71,15 @@
    "ort": null,
    "lat": 48.83308,
    "lon": 9.266,
+   "farbe": "orange"
+  },
+  {
+   "name": "Albert-Schweitzer-Schule Sinsheim",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 49.25865,
+   "lon": 8.87919,
    "farbe": "orange"
   },
   {
@@ -1460,6 +1469,15 @@
    "farbe": "orange"
   },
   {
+   "name": "GMS Schillerschule Rheinfelden",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 47.56361,
+   "lon": 7.791,
+   "farbe": "orange"
+  },
+  {
    "name": "GMS Vordere Alb Römerstein",
    "strasse": null,
    "plz": null,
@@ -2810,6 +2828,15 @@
    "farbe": "orange"
   },
   {
+   "name": "Mittelschule Rödental-Oeslau",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 50.29105,
+   "lon": 11.03583,
+   "farbe": "orange"
+  },
+  {
    "name": "Mittelschule Schnaittach",
    "strasse": null,
    "plz": null,
@@ -3662,6 +3689,15 @@
    "ort": null,
    "lat": 47.63702,
    "lon": 7.9028,
+   "farbe": "orange"
+  },
+  {
+   "name": "Rechberg-Gymnasium Donzdorf",
+   "strasse": null,
+   "plz": null,
+   "ort": null,
+   "lat": 48.68553,
+   "lon": 9.81749,
    "farbe": "orange"
   },
   {
